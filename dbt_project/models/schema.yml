@@ -128,25 +128,31 @@ seeds:
         tests:
           - unique
           - not_null
-      - name: 'alpha-2'
+      - name: alpha_2
         description: The 2-letter ISO 3166 code for the country.
-      - name: 'alpha-3'
+        tests:
+          - unique
+          - not_null
+      - name: alpha_3
         description: The 3-letter ISO 3166 code for the country.
-      - name: country-code
+        tests:
+          - unique
+          - not_null
+      - name: country_code
         description: The numeric ISO 3166 country code.
-      - name: iso_3166-2
+      - name: iso_3166_2
         description: The ISO 3166-2 code, representing subdivisions such as states or provinces.
       - name: region
         description: The geographical region to which the country belongs.
-      - name: sub-region
+      - name: sub_region
         description: The specific sub-region within the broader region.
-      - name: intermediate-region
+      - name: intermediate_region
         description: Additional categorization for countries with an intermediate regional grouping, if applicable.
-      - name: region-code
+      - name: region_code
         description: The numeric code for the geographical region.
-      - name: sub-region-code
+      - name: sub_region_code
         description: The numeric code for the sub-region.
-      - name: intermediate-region-code
+      - name: intermediate_region_code
         description: The numeric code for the intermediate region, if applicable.
 
 models:
@@ -160,8 +166,16 @@ models:
           - not_null
       - name: iso_name
         description: The official name of the country based on ISO 3166.
+        tests:
+          - relationships:
+              to: ref('iso_3166_countries')
+              field: name
       - name: iso_code
         description: The 3-letter ISO 3166 code for the country.
+        tests:
+          - relationships:
+              to: ref('iso_3166_countries')
+              field: alpha_3
 
   - name: managers
     description: Table containing all employees who hold managerial positions and their reporting relationships.
@@ -175,14 +189,39 @@ models:
               field: staff_id
       - name: manager_name
         description: The full name of the manager.
+        tests:
+          - not_null
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: _name
       - name: manager_email
         description: The work email address of the manager.
+        tests:
+          - not_null
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: email
       - name: manager_job_title
         description: The current job title held by the manager.
+        tests:
+          - not_null
+          - relationships:
+              to: source('superside', 'hr_staff_current')
+              field: _role
       - name: report
         description: The name of the employee who reports to the manager.
+        tests:
+          - not_null
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: _name
       - name: report_staff_id
         description: Unique identifier of the employee who reports to the manager.
+        tests:
+          - not_null
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: staff_id
 
   - name: promotions
     description: Tracks all job titles held by employees at Superside over time, including their promotion history.

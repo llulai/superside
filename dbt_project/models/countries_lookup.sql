@@ -26,7 +26,7 @@ exact_match_countries AS (
     SELECT
         cfs.country_name,
         ic.name AS iso_name,
-        ic."alpha-3" AS iso_code
+        ic.alpha_3 AS iso_code
     FROM
         countries_from_staff AS cfs
     LEFT JOIN {{ ref('iso_3166_countries') }} AS ic ON
@@ -37,7 +37,7 @@ similar_match_country AS (
     SELECT
         emc.country_name,
         ic.name AS iso_name,
-        ic."alpha-3" AS iso_code,
+        ic.alpha_3 AS iso_code,
         jaccard(replace(
             emc.country_name,
             'Republic',
