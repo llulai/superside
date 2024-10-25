@@ -1,0 +1,6 @@
+dbt_project:
+  outputs:
+    dev:
+      type: duckdb
+      path: '../data/superside_hr_data.db'
+  target: dev
