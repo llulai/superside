@@ -1,0 +1,1000 @@
+staff_id,name,username,email,position,position_level,styles,industries,software,citizenship,residence,offboarded_at,created_at
+10001,Heidi Mora,heidi.mora,heidi.mora@domain.com,,,[],[Film],[Other],"Indonesia",Indonesia,,1/4/2018 0:00:00
+10002,Arturo Mann,arturo.mann,arturo.mann@domain.com,ADMIN,4,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:00:09
+10003,Paislee Krueger,paislee.krueger,paislee.krueger@domain.com,CORE,4,,[Other],[],Argentina,Argentina,,1/4/2018 0:00:17
+10004,Jones Shepard,jones.shepard,jones.shepard@domain.com,ADMIN,4,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],Hungary,Hungary,,1/4/2018 0:00:26
+10005,Noor Lowery,noor.lowery,noor.lowery@domain.com,SPECIALIST,1,[Other],[Film],[Other],Malaysia,Malaysia,,1/4/2018 0:00:35
+10006,Jaxxon Webster,jaxxon.webster,jaxxon.webster@domain.com,PROJECTMANAGER,3,[Other],[Film],[],India,India,,1/4/2018 0:00:43
+10007,Kensley Banks,kensley.banks,kensley.banks@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop]",North Macedonia,North Macedonia,,1/4/2018 0:00:52
+10008,Martin Price,martin.price,martin.price@domain.com,DESIGN_DIRECTOR,4,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Mexico,Mexico,,1/4/2018 0:01:00
+10009,Piper Zimmerman,piper.zimmerman,piper.zimmerman@domain.com,SPECIALIST,5,[Original],"[Lifestyle, Marketing]",[PowerPoint],Ecuador,Ecuador,,1/4/2018 0:01:09
+10010,Sergio Parrish,sergio.parrish,sergio.parrish@domain.com,PROJECTMANAGER,4,[Original],"[Lifestyle, Marketing]",[Other],Colombia,Colombia,,1/4/2018 0:01:18
+10011,Tiana Michael,tiana.michael,tiana.michael@domain.com,SPECIALIST,2,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",India,South Africa,,1/4/2018 0:01:26
+10012,Bronson Young,bronson.young,bronson.young@domain.com,,,[Corporate],[Film],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:01:35
+10013,Zoey Larsen,zoey.larsen,zoey.larsen@domain.com,,,[],[Film],[Other],Argentina,Argentina,,1/4/2018 0:01:44
+10014,Brycen Cortez,brycen.cortez,brycen.cortez@domain.com,PROJECTMANAGER,1,[Corporate],[Branding],"[Illustrator, Photoshop]","Palestine, Jordan",Palestine,,1/4/2018 0:01:52
+10015,Haven Larsen,haven.larsen,haven.larsen@domain.com,SPECIALIST,5,,,[],Egypt,Egypt,,1/4/2018 0:02:01
+10016,Brycen Jaramillo,brycen.jaramillo,brycen.jaramillo@domain.com,CORE,4,,[Other],[PowerPoint],Mexico,Mexico,,1/4/2018 0:02:10
+10017,Guadalupe Howe,guadalupe.howe,guadalupe.howe@domain.com,SPECIALIST,2,[],"[Lifestyle, Marketing]",[Other],South Africa,South Africa,,1/4/2018 0:02:18
+10018,Alaric Santos,alaric.santos,alaric.santos@domain.com,CORE,5,"[Minimalistic, Corporate, Modern]",[Branding],[PowerPoint],Philippines,Mexico,,1/4/2018 0:02:27
+10019,Alana Pineda,alana.pineda,alana.pineda@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],"Argentina, Spain",Argentina,,1/4/2018 0:02:36
+10020,Gerardo Perry,gerardo.perry,gerardo.perry@domain.com,ADMIN,1,[Other],,[Other],Philippines,Philippines,,1/4/2018 0:02:44
+10021,Clara Gardner,clara.gardner,clara.gardner@domain.com,ADMIN,1,[],,[PowerPoint],Germany,Germany,,1/4/2018 0:02:53
+10022,Alan Wilkerson,alan.wilkerson,alan.wilkerson@domain.com,DESIGN_DIRECTOR,2,,[Branding],[],Mexico,Mexico,,1/4/2018 0:03:01
+10023,Janiyah Casey,janiyah.casey,janiyah.casey@domain.com,DESIGN_DIRECTOR,1,[Original],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 0:03:10
+10024,Armando Merritt,armando.merritt,armando.merritt@domain.com,ADMIN,3,[],[Branding],[],Colombia,Colombia,,1/4/2018 0:03:19
+10025,Kaisley Kelley,kaisley.kelley,kaisley.kelley@domain.com,SPECIALIST,1,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:03:27
+10026,Eric Leon,eric.leon,eric.leon@domain.com,PROJECTMANAGER,5,"[Minimalistic, Corporate, Modern]",,[PowerPoint],Honduras,Honduras,,1/4/2018 0:03:36
+10027,Amora Golden,amora.golden,amora.golden@domain.com,,,[Corporate],,"[Illustrator, Photoshop]",El Salvador,Germany,,1/4/2018 0:03:45
+10028,Amias Huffman,amias.huffman,amias.huffman@domain.com,,,"[Minimalistic, Corporate, Modern]",[Film],[PowerPoint],El Salvador,El Salvador,,1/4/2018 0:03:53
+10029,Hayley Clark,hayley.clark,hayley.clark@domain.com,,,[Other],[Branding],[PowerPoint],Poland,Poland,,1/4/2018 0:04:02
+10030,John Pacheco,john.pacheco,john.pacheco@domain.com,CORE,4,,[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:04:11
+10031,Paris Madden,paris.madden,paris.madden@domain.com,SPECIALIST,1,"[Minimalistic, Corporate, Modern]",,[Other],"Italy, Australia",Netherlands,,1/4/2018 0:04:19
+10032,Everest Ray,everest.ray,everest.ray@domain.com,PROJECTMANAGER,5,[Original],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:04:28
+10033,Ruth York,ruth.york,ruth.york@domain.com,ADMIN,5,,,[PowerPoint],Mexico,Mexico,,1/4/2018 0:04:36
+10034,Leandro Hayden,leandro.hayden,leandro.hayden@domain.com,SPECIALIST,2,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:04:45
+10035,Avayah Orr,avayah.orr,avayah.orr@domain.com,DESIGN_DIRECTOR,1,[Original],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:04:54
+10036,Benicio Parsons,benicio.parsons,benicio.parsons@domain.com,SPECIALIST,3,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 0:05:02
+10037,Maia Novak,maia.novak,maia.novak@domain.com,CORE,2,[Other],[Film],[],"Uruguay, Argentina",Argentina,,1/4/2018 0:05:11
+10038,Bishop Weiss,bishop.weiss,bishop.weiss@domain.com,CORE,4,,"[Finance, Technology, Corporate]",[Other],Nicaragua,Nicaragua,,1/4/2018 0:05:20
+10039,Lennox Lu,lennox.lu,lennox.lu@domain.com,CORE,2,[Other],,[PowerPoint],Romania,Germany,,1/4/2018 0:05:28
+10040,Duncan Wilkinson,duncan.wilkinson,duncan.wilkinson@domain.com,SPECIALIST,1,[Original],[Film],[],Canada,Canada,,1/4/2018 0:05:37
+10041,Siena Stone,siena.stone,siena.stone@domain.com,DESIGN_DIRECTOR,4,[Corporate],[Other],[Other],Brazil,Brazil,,1/4/2018 0:05:46
+10042,Finn Romero,finn.romero,finn.romero@domain.com,DESIGN_DIRECTOR,4,,,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,Portugal,,1/4/2018 0:05:54
+10043,Eliza Wright,eliza.wright,eliza.wright@domain.com,SPECIALIST,4,,[Film],[Other],Ukraine,Spain,,1/4/2018 0:06:03
+10044,Grayson Burke,grayson.burke,grayson.burke@domain.com,ADMIN,2,[Other],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","South Africa, Portugal",Portugal,,1/4/2018 0:06:12
+10045,Vera Escobar,vera.escobar,vera.escobar@domain.com,CORE,2,[Original],,[PowerPoint],South Africa,South Africa,,1/4/2018 0:06:20
+10046,Zachariah Campbell,zachariah.campbell,zachariah.campbell@domain.com,ADMIN,2,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Bosnia & Herzegovina,Bosnia & Herzegovina,,1/4/2018 0:06:29
+10047,Addison Hoffman,addison.hoffman,addison.hoffman@domain.com,ADMIN,4,[],"[Lifestyle, Marketing]",[Other],Spain,Spain,,1/4/2018 0:06:37
+10048,Steven Bryant,steven.bryant,steven.bryant@domain.com,,,[],[Other],[PowerPoint],South Africa,South Africa,,1/4/2018 0:06:46
+10049,Parker Hendrix,parker.hendrix,parker.hendrix@domain.com,,,,[Other],[PowerPoint],Jordan,Jordan,,1/4/2018 0:06:55
+10050,Korbyn Hubbard,korbyn.hubbard,korbyn.hubbard@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],Tunisia,Tunisia,,1/4/2018 0:07:03
+10051,Rosie Freeman,rosie.freeman,rosie.freeman@domain.com,SPECIALIST,5,[],[Other],"[Illustrator, Photoshop]",Malaysia,Mexico,,1/4/2018 0:07:12
+10052,Jayce Mata,jayce.mata,jayce.mata@domain.com,CORE,4,[Original],"[Finance, Technology, Corporate]",[Other],Mexico,Mexico,,1/4/2018 0:07:21
+10053,Lillie McCoy,lillie.mccoy,lillie.mccoy@domain.com,PROJECTMANAGER,2,[Original],[Film],[],South Africa,South Africa,,1/4/2018 0:07:29
+10054,Jett Gutierrez,jett.gutierrez,jett.gutierrez@domain.com,,,[Corporate],[Branding],[PowerPoint],South Africa,South Africa,,1/4/2018 0:07:38
+10055,Savannah Murray,savannah.murray,savannah.murray@domain.com,SPECIALIST,3,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop]",Brazil,Portugal,,1/4/2018 0:07:47
+10056,Ashton Sims,ashton.sims,ashton.sims@domain.com,PROJECTMANAGER,1,[],,"[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 0:07:55
+10057,Lena Page,lena.page,lena.page@domain.com,PROJECTMANAGER,1,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 0:08:04
+10058,Pablo Livingston,pablo.livingston,pablo.livingston@domain.com,PROJECTMANAGER,4,"[Minimalistic, Corporate, Modern]",[Film],[Other],Brazil,Brazil,,1/4/2018 0:08:12
+10059,Milena Zavala,milena.zavala,milena.zavala@domain.com,SPECIALIST,1,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",El Salvador,El Salvador,,1/4/2018 0:08:21
+10060,Dillon Duncan,dillon.duncan,dillon.duncan@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",[Branding],[PowerPoint],Venezuela,Argentina,,1/4/2018 0:08:30
+10061,Elise McCarty,elise.mccarty,elise.mccarty@domain.com,CORE,3,,[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:08:38
+10062,Blaise Stephens,blaise.stephens,blaise.stephens@domain.com,,,[Original],[Film],[],Colombia,Colombia,,1/4/2018 0:08:47
+10063,Millie Nichols,millie.nichols,millie.nichols@domain.com,DESIGN_DIRECTOR,1,[Corporate],"[Finance, Technology, Corporate]",[],Ecuador,Spain,,1/4/2018 0:08:56
+10064,Atlas Olsen,atlas.olsen,atlas.olsen@domain.com,ADMIN,5,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[Illustrator, Photoshop]","Colombia, Spain",Colombia,,1/4/2018 0:09:04
+10065,Oaklyn Russo,oaklyn.russo,oaklyn.russo@domain.com,DESIGN_DIRECTOR,2,[],[Branding],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:09:13
+10066,Jamie Duarte,jamie.duarte,jamie.duarte@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]",[Film],"[Illustrator, Photoshop]","Venezuela",Colombia,,1/4/2018 0:09:22
+10067,Kynlee Bauer,kynlee.bauer,kynlee.bauer@domain.com,SPECIALIST,4,[Corporate],"[Finance, Technology, Corporate]",[Other],Greece,Greece,,1/4/2018 0:09:30
+10068,Kieran Lindsey,kieran.lindsey,kieran.lindsey@domain.com,,,,"[Lifestyle, Marketing]",[],Romania,Romania,,1/4/2018 0:09:39
+10069,Colette Bryan,colette.bryan,colette.bryan@domain.com,CORE,5,[Other],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Venezuela, Spain",Venezuela,,1/4/2018 0:09:48
+10070,Jaxtyn Higgins,jaxtyn.higgins,jaxtyn.higgins@domain.com,SPECIALIST,1,[Other],[Film],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:09:56
+10071,Leighton May,leighton.may,leighton.may@domain.com,DESIGN_DIRECTOR,4,[],,[Other],Argentina,Argentina,,1/4/2018 0:10:05
+10072,Finley Welch,finley.welch,finley.welch@domain.com,CORE,2,,[Other],[],Costa Rica,Costa Rica,,1/4/2018 0:10:13
+10073,Amira Roy,amira.roy,amira.roy@domain.com,,,[],[Branding],[PowerPoint],Zimbabwe,South Africa,,1/4/2018 0:10:22
+10074,Marcelo Mitchell,marcelo.mitchell,marcelo.mitchell@domain.com,,,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Panama,Panama,,1/4/2018 0:10:31
+10075,Willow Hensley,willow.hensley,willow.hensley@domain.com,DESIGN_DIRECTOR,4,,[Other],[PowerPoint],Colombia,Colombia,,1/4/2018 0:10:39
+10076,Layne Ellis,layne.ellis,layne.ellis@domain.com,,,"[Minimalistic, Corporate, Modern]",[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Mexico,Mexico,,1/4/2018 0:10:48
+10077,Ayla Glenn,ayla.glenn,ayla.glenn@domain.com,DESIGN_DIRECTOR,4,[Corporate],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Spain,Spain,,1/4/2018 0:10:57
+10078,Zaid Clay,zaid.clay,zaid.clay@domain.com,SPECIALIST,3,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:11:05
+10079,Aliana Friedman,aliana.friedman,aliana.friedman@domain.com,SPECIALIST,1,[],[Film],[Other],South Africa,South Africa,,1/4/2018 0:11:14
+10080,Darwin Nava,darwin.nava,darwin.nava@domain.com,,,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop]","South Africa, Netherlands",South Africa,,1/4/2018 0:11:23
+10081,Scout Watts,scout.watts,scout.watts@domain.com,ADMIN,2,,,[],South Africa,South Africa,,1/4/2018 0:11:31
+10082,Dakota Gray,dakota.gray,dakota.gray@domain.com,DESIGN_DIRECTOR,2,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Indonesia,Indonesia,,1/4/2018 0:11:40
+10083,Sarah Spears,sarah.spears,sarah.spears@domain.com,DESIGN_DIRECTOR,1,[],"[Lifestyle, Marketing]",[PowerPoint],South Africa,South Africa,,1/4/2018 0:11:48
+10084,Ameer Pennington,ameer.pennington,ameer.pennington@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],Canada,Canada,,1/4/2018 0:11:57
+10085,Yareli Hail,yareli.hail,yareli.hail@domain.com,CORE,2,[],"[Lifestyle, Marketing]",[],United Kingdom,Spain,,1/4/2018 0:12:06
+10086,Hector Copeland,hector.copeland,hector.copeland@domain.com,ADMIN,4,[Corporate],,[],South Africa,South Africa,,1/4/2018 0:12:14
+10087,Dayana Frost,dayana.frost,dayana.frost@domain.com,DESIGN_DIRECTOR,5,[Original],[Film],[PowerPoint],Brazil,Brazil,,1/4/2018 0:12:23
+10088,Dario Andrade,dario.andrade,dario.andrade@domain.com,SPECIALIST,1,[Other],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Armenia,Armenia,,1/4/2018 0:12:32
+10089,Emmy Sandoval,emmy.sandoval,emmy.sandoval@domain.com,SPECIALIST,2,[],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Argentina,Argentina,,1/4/2018 0:12:40
+10090,Brantley Gallegos,brantley.gallegos,brantley.gallegos@domain.com,SPECIALIST,1,[Original],,"[Illustrator, Photoshop]",Poland,Poland,,1/4/2018 0:12:49
+10091,Ari Larsen,ari.larsen,ari.larsen@domain.com,CORE,2,[Corporate],,[Other],Mexico,Mexico,,1/4/2018 0:12:58
+10092,Brycen Velez,brycen.velez,brycen.velez@domain.com,ADMIN,4,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",United States of America,United States of America,,1/4/2018 0:13:06
+10093,Megan Garza,megan.garza,megan.garza@domain.com,PROJECTMANAGER,2,,[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Indonesia,Indonesia,,1/4/2018 0:13:15
+10094,Judah Sandoval,judah.sandoval,judah.sandoval@domain.com,CORE,3,,"[Lifestyle, Marketing]",[Other],"South Africa",Netherlands,,1/4/2018 0:13:24
+10095,Elsie Stevens,elsie.stevens,elsie.stevens@domain.com,DESIGN_DIRECTOR,4,,[Other],"[Illustrator, Photoshop]","South Africa",South Africa,,1/4/2018 0:13:32
+10096,Zachary Whitaker,zachary.whitaker,zachary.whitaker@domain.com,ADMIN,2,[Original],[Film],[Other],Argentina,Argentina,,1/4/2018 0:13:41
+10097,Ivanna Lambert,ivanna.lambert,ivanna.lambert@domain.com,PROJECTMANAGER,5,[Other],[Film],[PowerPoint],Brazil,Brazil,,1/4/2018 0:13:49
+10098,Mario Reeves,mario.reeves,mario.reeves@domain.com,DESIGN_DIRECTOR,4,[],"[Finance, Technology, Corporate]",[PowerPoint],Paraguay,Paraguay,,1/4/2018 0:13:58
+10099,Lana Burns,lana.burns,lana.burns@domain.com,,,[],[Branding],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:14:07
+10100,August Garner,august.garner,august.garner@domain.com,ADMIN,1,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Colombia, Italy",Argentina,,1/4/2018 0:14:15
+10101,Jacqueline Owens,jacqueline.owens,jacqueline.owens@domain.com,SPECIALIST,5,,[Other],"[Illustrator, Photoshop]",Netherlands,Netherlands,,1/4/2018 0:14:24
+10102,Adriel Serrano,adriel.serrano,adriel.serrano@domain.com,,,[Other],[Other],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:14:33
+10103,Allie Khan,allie.khan,allie.khan@domain.com,,,[Corporate],,[PowerPoint],"Italy, Argentina",Spain,,1/4/2018 0:14:41
+10104,Kendrick Perry,kendrick.perry,kendrick.perry@domain.com,PROJECTMANAGER,4,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[PowerPoint],Hungary,Hungary,,1/4/2018 0:14:50
+10105,Clara McFarland,clara.mcfarland,clara.mcfarland@domain.com,SPECIALIST,5,[Original],,[],South Africa,South Africa,,1/4/2018 0:14:59
+10106,Dane Velasquez,dane.velasquez,dane.velasquez@domain.com,ADMIN,1,[Corporate],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Mexico,Mexico,,1/4/2018 0:15:07
+10107,Esme Jacobs,esme.jacobs,esme.jacobs@domain.com,DESIGN_DIRECTOR,5,[Original],"[Lifestyle, Marketing]",[Other],"Lebanon",Brazil,,1/4/2018 0:15:16
+10108,Bryan Andersen,bryan.andersen,bryan.andersen@domain.com,CORE,5,"[Minimalistic, Corporate, Modern]",[Branding],[PowerPoint],Brazil,Brazil,,1/4/2018 0:15:24
+10109,Zoie Walker,zoie.walker,zoie.walker@domain.com,DESIGN_DIRECTOR,5,[],,"[Illustrator, Photoshop]","South Africa, Italy",South Africa,,1/4/2018 0:15:33
+10110,Luke Wolf,luke.wolf,luke.wolf@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]",,[Other],South Africa,South Africa,,1/4/2018 0:15:42
+10111,Jolene Zavala,jolene.zavala,jolene.zavala@domain.com,DESIGN_DIRECTOR,3,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 0:15:50
+10112,Dillon Fitzpatrick,dillon.fitzpatrick,dillon.fitzpatrick@domain.com,SPECIALIST,4,[Corporate],[Film],[PowerPoint],Romania,Romania,,1/4/2018 0:15:59
+10113,Annabella McMahon,annabella.mcmahon,annabella.mcmahon@domain.com,,,[Original],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Bosnia & Herzegovina,Bosnia & Herzegovina,,1/4/2018 0:16:08
+10114,Jakob Webb,jakob.webb,jakob.webb@domain.com,PROJECTMANAGER,5,[Corporate],"[Finance, Technology, Corporate]",[],Canada,Canada,,1/4/2018 0:16:16
+10115,Ariella Bradley,ariella.bradley,ariella.bradley@domain.com,DESIGN_DIRECTOR,3,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Canada,Canada,,1/4/2018 0:16:25
+10116,Richard Dorsey,richard.dorsey,richard.dorsey@domain.com,ADMIN,3,[Original],"[Lifestyle, Marketing]",[],United Kingdom,Peru,,1/4/2018 0:16:34
+10117,Addyson Guerrero,addyson.guerrero,addyson.guerrero@domain.com,,,[Corporate],"[Lifestyle, Marketing]",[Other],"South Africa, United Kingdom",South Africa,,1/4/2018 0:16:42
+10118,Bryce Pearson,bryce.pearson,bryce.pearson@domain.com,ADMIN,4,[Original],[Film],[PowerPoint],South Africa,South Africa,,1/4/2018 0:16:51
+10119,Kiara Martinez,kiara.martinez,kiara.martinez@domain.com,DESIGN_DIRECTOR,4,[],[Film],[Other],Brazil,Brazil,,1/4/2018 0:17:00
+10120,Alexander Walters,alexander.walters,alexander.walters@domain.com,ADMIN,5,[Corporate],[Other],"[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 0:17:08
+10121,Samara Duffy,samara.duffy,samara.duffy@domain.com,ADMIN,4,[Corporate],[Film],[Other],Brazil,Brazil,,1/4/2018 0:17:17
+10122,Kyng Boyer,kyng.boyer,kyng.boyer@domain.com,PROJECTMANAGER,5,[],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:17:25
+10123,Chaya Glover,chaya.glover,chaya.glover@domain.com,,,[Corporate],,[PowerPoint],Brazil,Brazil,,1/4/2018 0:17:34
+10124,Mack Valdez,mack.valdez,mack.valdez@domain.com,ADMIN,5,[Other],,[],United Kingdom,Argentina,,1/4/2018 0:17:43
+10125,Diana Dennis,diana.dennis,diana.dennis@domain.com,PROJECTMANAGER,1,[],,[Other],United States of America (USA),United States of America (USA),,1/4/2018 0:17:51
+10126,Emanuel Mercado,emanuel.mercado,emanuel.mercado@domain.com,,,[],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Argentina,Argentina,,1/4/2018 0:18:00
+10127,Mckinley Cantrell,mckinley.cantrell,mckinley.cantrell@domain.com,CORE,4,[],[Branding],"[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 0:18:09
+10128,Harris Sawyer,harris.sawyer,harris.sawyer@domain.com,ADMIN,4,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],Brazil,Brazil,,1/4/2018 0:18:17
+10129,Marina Savage,marina.savage,marina.savage@domain.com,SPECIALIST,3,[Original],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Argentina,Italy",Argentina,,1/4/2018 0:18:26
+10130,Keaton Weber,keaton.weber,keaton.weber@domain.com,CORE,3,[Corporate],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:18:35
+10131,Alayah Aguirre,alayah.aguirre,alayah.aguirre@domain.com,ADMIN,5,[Corporate],,[Other],Argentina,Argentina,,1/4/2018 0:18:43
+10132,Andy Phelps,andy.phelps,andy.phelps@domain.com,SPECIALIST,2,[Original],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:18:52
+10133,Laney Nixon,laney.nixon,laney.nixon@domain.com,SPECIALIST,4,"[Minimalistic, Corporate, Modern]",[Film],[PowerPoint],Colombia,Colombia,,1/4/2018 0:19:00
+10134,Cory Harding,cory.harding,cory.harding@domain.com,ADMIN,2,[Original],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Costa Rica,Costa Rica,,1/4/2018 0:19:09
+10135,Aniya Manning,aniya.manning,aniya.manning@domain.com,SPECIALIST,3,,[Branding],[],Colombia,Colombia,,1/4/2018 0:19:18
+10136,Seth Espinoza,seth.espinoza,seth.espinoza@domain.com,SPECIALIST,3,[Original],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Argentina,Costa Rica,,1/4/2018 0:19:26
+10137,Lucille O’Neill,lucille.o’neill,lucille.o’neill@domain.com,,,[Other],[Branding],[PowerPoint],South Africa,South Africa,,1/4/2018 0:19:35
+10138,Marcel Garza,marcel.garza,marcel.garza@domain.com,CORE,3,[Corporate],"[Lifestyle, Marketing]",[PowerPoint],"United Kingdom, Turkey",Bermuda,,1/4/2018 0:19:44
+10139,River Abbott,river.abbott,river.abbott@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]",[Other],[],"Venezuela",Portugal,,1/4/2018 0:19:52
+10140,Kohen Carlson,kohen.carlson,kohen.carlson@domain.com,PROJECTMANAGER,4,[Original],[Other],[PowerPoint],South Africa,South Africa,,1/4/2018 0:20:01
+10141,Kali Cameron,kali.cameron,kali.cameron@domain.com,,,"[Minimalistic, Corporate, Modern]",[Film],[PowerPoint],South Africa,Denmark,,1/4/2018 0:20:10
+10142,Rayan Wiley,rayan.wiley,rayan.wiley@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],South Africa,South Africa,,1/4/2018 0:20:18
+10143,Lauryn Soto,lauryn.soto,lauryn.soto@domain.com,PROJECTMANAGER,3,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Canada,Canada,,1/4/2018 0:20:27
+10144,Barrett Potts,barrett.potts,barrett.potts@domain.com,ADMIN,2,,[Film],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:20:36
+10145,Ellison Campbell,ellison.campbell,ellison.campbell@domain.com,PROJECTMANAGER,2,[Corporate],[Branding],[PowerPoint],South Africa,South Africa,,1/4/2018 0:20:44
+10146,Christopher Horton,christopher.horton,christopher.horton@domain.com,SPECIALIST,1,[Original],,[PowerPoint],Philippines,Philippines,,1/4/2018 0:20:53
+10147,Aitana McGuire,aitana.mcguire,aitana.mcguire@domain.com,,,[Original],"[Finance, Technology, Corporate]",[],Colombia,Colombia,,1/4/2018 0:21:01
+10148,Casey Kaur,casey.kaur,casey.kaur@domain.com,SPECIALIST,1,[Original],"[Finance, Technology, Corporate]",[Other],Brazil,Australia,,1/4/2018 0:21:10
+10149,Holland Velez,holland.velez,holland.velez@domain.com,PROJECTMANAGER,4,,[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 0:21:19
+10150,Kareem Parsons,kareem.parsons,kareem.parsons@domain.com,DESIGN_DIRECTOR,5,[Corporate],[Other],"[Illustrator, Photoshop]",Uruguay,Spain,,1/4/2018 0:21:27
+10151,Maia Clements,maia.clements,maia.clements@domain.com,CORE,3,,"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Argentina,Argentina,,1/4/2018 0:21:36
+10152,Fisher Lozano,fisher.lozano,fisher.lozano@domain.com,CORE,1,[Corporate],[Film],[PowerPoint],Argentina,Argentina,,1/4/2018 0:21:45
+10153,Cecelia Griffith,cecelia.griffith,cecelia.griffith@domain.com,ADMIN,5,[Original],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:21:53
+10154,Franklin Alvarado,franklin.alvarado,franklin.alvarado@domain.com,PROJECTMANAGER,1,[Corporate],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 0:22:02
+10155,Blake Glover,blake.glover,blake.glover@domain.com,,,[Corporate],[Film],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:22:11
+10156,Mack Townsend,mack.townsend,mack.townsend@domain.com,ADMIN,1,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],"Colombia",Panama,,1/4/2018 0:22:19
+10157,Azalea Morrison,azalea.morrison,azalea.morrison@domain.com,ADMIN,4,[Corporate],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:22:28
+10158,Maximus Waller,maximus.waller,maximus.waller@domain.com,DESIGN_DIRECTOR,1,[Corporate],"[Finance, Technology, Corporate]",[PowerPoint],France,Spain,,1/4/2018 0:22:36
+10159,Whitley Hudson,whitley.hudson,whitley.hudson@domain.com,,,[Corporate],[Film],[Other],India,India,,1/4/2018 0:22:45
+10160,Peter Wells,peter.wells,peter.wells@domain.com,DESIGN_DIRECTOR,1,,[Other],[],South Africa,South Africa,,1/4/2018 0:22:54
+10161,Cecilia Fleming,cecilia.fleming,cecilia.fleming@domain.com,ADMIN,1,,[Other],"[Illustrator, Photoshop]",Venezuela,Argentina,,1/4/2018 0:23:02
+10162,Fernando Winters,fernando.winters,fernando.winters@domain.com,CORE,4,[Corporate],"[Finance, Technology, Corporate]",[Other],South Africa,South Africa,,1/4/2018 0:23:11
+10163,Kataleya Ventura,kataleya.ventura,kataleya.ventura@domain.com,ADMIN,1,,,[PowerPoint],Bulgaria,Bulgaria,,1/4/2018 0:23:20
+10164,Branson Bauer,branson.bauer,branson.bauer@domain.com,PROJECTMANAGER,1,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Canada,Canada,,1/4/2018 0:23:28
+10165,Haley Brady,haley.brady,haley.brady@domain.com,ADMIN,3,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[Other],Norway,Mexico,,1/4/2018 0:23:37
+10166,Reed Hill,reed.hill,reed.hill@domain.com,PROJECTMANAGER,3,,"[Finance, Technology, Corporate]",[],Argentina,Argentina,,1/4/2018 0:23:46
+10167,Hannah Nelson,hannah.nelson,hannah.nelson@domain.com,SPECIALIST,2,[Other],[Branding],"[Illustrator, Photoshop]",Spain,Spain,,1/4/2018 0:23:54
+10168,Dylan Moran,dylan.moran,dylan.moran@domain.com,CORE,4,,[Film],[PowerPoint],South Africa,South Africa,,1/4/2018 0:24:03
+10169,Celeste Spears,celeste.spears,celeste.spears@domain.com,DESIGN_DIRECTOR,3,[],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",United States of America (USA),United States of America (USA),,1/4/2018 0:24:12
+10170,Ameer Sweeney,ameer.sweeney,ameer.sweeney@domain.com,ADMIN,4,[Other],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:24:20
+10171,Yara Skinner,yara.skinner,yara.skinner@domain.com,ADMIN,4,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:24:29
+10172,Ridge Vaughn,ridge.vaughn,ridge.vaughn@domain.com,,,,"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 0:24:37
+10173,Reign Richardson,reign.richardson,reign.richardson@domain.com,PROJECTMANAGER,5,[Original],,[Other],Brazil,Brazil,,1/4/2018 0:24:46
+10174,Robert Lu,robert.lu,robert.lu@domain.com,SPECIALIST,4,[Original],,"[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 0:24:55
+10175,Emani Maxwell,emani.maxwell,emani.maxwell@domain.com,PROJECTMANAGER,2,"[Minimalistic, Corporate, Modern]",[Film],[PowerPoint],Colombia,Colombia,,1/4/2018 0:25:03
+10176,Eden Sellers,eden.sellers,eden.sellers@domain.com,,,,[Other],[PowerPoint],Kenya,Kenya,,1/4/2018 0:25:12
+10177,Mercy Johnson,mercy.johnson,mercy.johnson@domain.com,DESIGN_DIRECTOR,4,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Venezuela,Peru,,1/4/2018 0:25:21
+10178,Noah Duke,noah.duke,noah.duke@domain.com,ADMIN,1,[Corporate],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Argentina,Argentina,,1/4/2018 0:25:29
+10179,Melani Thornton,melani.thornton,melani.thornton@domain.com,CORE,4,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Romania,Romania,,1/4/2018 0:25:38
+10180,Malik Andrews,malik.andrews,malik.andrews@domain.com,CORE,4,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[PowerPoint],Dominican Republic,Dominican Republic,,1/4/2018 0:25:47
+10181,Payton Woods,payton.woods,payton.woods@domain.com,CORE,3,[Corporate],[Other],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:25:55
+10182,Zion Shaffer,zion.shaffer,zion.shaffer@domain.com,DESIGN_DIRECTOR,3,[],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Russian Federation,Serbia,,1/4/2018 0:26:04
+10183,Alanna Knox,alanna.knox,alanna.knox@domain.com,ADMIN,4,[],[Film],[Other],South Africa,South Africa,,1/4/2018 0:26:12
+10184,Valentin Dyer,valentin.dyer,valentin.dyer@domain.com,DESIGN_DIRECTOR,5,[Original],[Other],[],Serbia,Serbia,,1/4/2018 0:26:21
+10185,Estrella Velazquez,estrella.velazquez,estrella.velazquez@domain.com,PROJECTMANAGER,5,[Other],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:26:30
+10186,Drew House,drew.house,drew.house@domain.com,SPECIALIST,4,"[Minimalistic, Corporate, Modern]",[Film],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:26:38
+10187,Sariah Dejesus,sariah.dejesus,sariah.dejesus@domain.com,SPECIALIST,4,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:26:47
+10188,Rio Berg,rio.berg,rio.berg@domain.com,SPECIALIST,3,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","United Kingdom, South Africa",United Kingdom,,1/4/2018 0:26:56
+10189,Emmalyn Campos,emmalyn.campos,emmalyn.campos@domain.com,ADMIN,1,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",North Macedonia,North Macedonia,,1/4/2018 0:27:04
+10190,Gideon Murphy,gideon.murphy,gideon.murphy@domain.com,,,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",United Kingdom,United Kingdom,,1/4/2018 0:27:13
+10191,Bella Allison,bella.allison,bella.allison@domain.com,SPECIALIST,3,[],"[Finance, Technology, Corporate]",[Other],Colombia,Colombia,,1/4/2018 0:27:22
+10192,Dennis Guerra,dennis.guerra,dennis.guerra@domain.com,,,"[Minimalistic, Corporate, Modern]",[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:27:30
+10193,Edith Torres,edith.torres,edith.torres@domain.com,CORE,4,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:27:39
+10194,Jayden Henson,jayden.henson,jayden.henson@domain.com,CORE,2,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",United Kingdom,United Kingdom,,1/4/2018 0:27:48
+10195,Kinslee Reid,kinslee.reid,kinslee.reid@domain.com,DESIGN_DIRECTOR,5,[Original],"[Lifestyle, Marketing]",[Other],Venezuela,Argentina,,1/4/2018 0:27:56
+10196,Josue Solis,josue.solis,josue.solis@domain.com,DESIGN_DIRECTOR,5,,[Other],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:28:05
+10197,Miracle Bowen,miracle.bowen,miracle.bowen@domain.com,,,[Other],,"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:28:13
+10198,Trevor Mueller,trevor.mueller,trevor.mueller@domain.com,DESIGN_DIRECTOR,3,[Other],[Branding],[PowerPoint],South Africa,South Africa,,1/4/2018 0:28:22
+10199,Imani Rivera,imani.rivera,imani.rivera@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]",[Other],[Other],Canada,Canada,,1/4/2018 0:28:31
+10200,Charles Solis,charles.solis,charles.solis@domain.com,SPECIALIST,3,[],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:28:39
+10201,Miracle Trujillo,miracle.trujillo,miracle.trujillo@domain.com,ADMIN,5,[],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 0:28:48
+10202,Apollo Meza,apollo.meza,apollo.meza@domain.com,,,[Other],"[Finance, Technology, Corporate]",[],Colombia,Colombia,,1/4/2018 0:28:57
+10203,Rosa Graham,rosa.graham,rosa.graham@domain.com,,,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Canada, Slovak Republic (Slovakia), Hungary",Canada,,1/4/2018 0:29:05
+10204,Giovanni Gibson,giovanni.gibson,giovanni.gibson@domain.com,DESIGN_DIRECTOR,2,,[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Costa Rica,Costa Rica,,1/4/2018 0:29:14
+10205,Eden Long,eden.long,eden.long@domain.com,SPECIALIST,4,[],"[Finance, Technology, Corporate]",[Other],Venezuela,Colombia,,1/4/2018 0:29:23
+10206,Jace Chapman,jace.chapman,jace.chapman@domain.com,SPECIALIST,1,[Corporate],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Mexico,Mexico,,1/4/2018 0:29:31
+10207,Zuri Figueroa,zuri.figueroa,zuri.figueroa@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[Other],Peru,Peru,,1/4/2018 0:29:40
+10208,Spencer Pratt,spencer.pratt,spencer.pratt@domain.com,DESIGN_DIRECTOR,4,"[Minimalistic, Corporate, Modern]",[Other],[Other],Brazil,Brazil,,1/4/2018 0:29:48
+10209,Ailani Valencia,ailani.valencia,ailani.valencia@domain.com,DESIGN_DIRECTOR,2,"[Minimalistic, Corporate, Modern]",[Branding],[PowerPoint],Indonesia,Indonesia,,1/4/2018 0:29:57
+10210,Dax Zimmerman,dax.zimmerman,dax.zimmerman@domain.com,PROJECTMANAGER,1,[Corporate],[Branding],[],Greece,Greece,,1/4/2018 0:30:06
+10211,Ariyah Hayden,ariyah.hayden,ariyah.hayden@domain.com,SPECIALIST,2,[Other],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Russian Federation,Indonesia,,1/4/2018 0:30:14
+10212,Leroy Tran,leroy.tran,leroy.tran@domain.com,CORE,1,[Other],,[],"Argentina, Venezuela",Argentina,,1/4/2018 0:30:23
+10213,Kylie Sharp,kylie.sharp,kylie.sharp@domain.com,DESIGN_DIRECTOR,4,[Other],[Film],[Other],South Africa,South Africa,,1/4/2018 0:30:32
+10214,Royce Cain,royce.cain,royce.cain@domain.com,DESIGN_DIRECTOR,3,,"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Nigeria,Nigeria,,1/4/2018 0:30:40
+10215,Kendra Goodman,kendra.goodman,kendra.goodman@domain.com,ADMIN,5,"[Minimalistic, Corporate, Modern]",[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",France,Portugal,,1/4/2018 0:30:49
+10216,Philip Lowery,philip.lowery,philip.lowery@domain.com,DESIGN_DIRECTOR,4,[],[Branding],[Other],Nigeria,Nigeria,,1/4/2018 0:30:58
+10217,Estelle Weeks,estelle.weeks,estelle.weeks@domain.com,,,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Costa Rica,Costa Rica,,1/4/2018 0:31:06
+10218,Anders Webster,anders.webster,anders.webster@domain.com,DESIGN_DIRECTOR,5,[Corporate],[Branding],[PowerPoint],Mexico,Mexico,,1/4/2018 0:31:15
+10219,Kensley Crawford,kensley.crawford,kensley.crawford@domain.com,,,[Corporate],"[Finance, Technology, Corporate]",[Other],Greece,Greece,,1/4/2018 0:31:24
+10220,Kevin Spence,kevin.spence,kevin.spence@domain.com,PROJECTMANAGER,5,,[Branding],"[Illustrator, Photoshop]",Spain,Spain,,1/4/2018 0:31:32
+10221,Aislinn Tang,aislinn.tang,aislinn.tang@domain.com,SPECIALIST,4,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop]","United Kingdom, Hungary",Spain,,1/4/2018 0:31:41
+10222,Rogelio Sandoval,rogelio.sandoval,rogelio.sandoval@domain.com,DESIGN_DIRECTOR,4,,[Other],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:31:49
+10223,Elsie Wu,elsie.wu,elsie.wu@domain.com,DESIGN_DIRECTOR,3,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Kenya,Kenya,,1/4/2018 0:31:58
+10224,Kyson Vasquez,kyson.vasquez,kyson.vasquez@domain.com,DESIGN_DIRECTOR,4,[],[Other],[],Bosnia & Herzegovina,Bosnia & Herzegovina,,1/4/2018 0:32:07
+10225,Rose Garza,rose.garza,rose.garza@domain.com,ADMIN,4,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:32:15
+10226,Judah Cunningham,judah.cunningham,judah.cunningham@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]",[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Cuba,Spain,,1/4/2018 0:32:24
+10227,Marley O’Connor,marley.o’connor,marley.o’connor@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]",[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Sweden,Norway,,1/4/2018 0:32:33
+10228,Princeton Kennedy,princeton.kennedy,princeton.kennedy@domain.com,PROJECTMANAGER,3,[Original],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Mexico,Mexico,,1/4/2018 0:32:41
+10229,Brianna Snyder,brianna.snyder,brianna.snyder@domain.com,SPECIALIST,5,[Other],"[Lifestyle, Marketing]",[PowerPoint],Philippines,Philippines,,1/4/2018 0:32:50
+10230,Thiago Valentine,thiago.valentine,thiago.valentine@domain.com,ADMIN,3,[Original],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:32:59
+10231,August Vaughan,august.vaughan,august.vaughan@domain.com,CORE,3,[Original],,[Other],Argentina,Argentina,,1/4/2018 0:33:07
+10232,Castiel Ferguson,castiel.ferguson,castiel.ferguson@domain.com,DESIGN_DIRECTOR,2,,"[Lifestyle, Marketing]",[Other],Mexico,Hungary,,1/4/2018 0:33:16
+10233,Juliana Huynh,juliana.huynh,juliana.huynh@domain.com,,,[Original],"[Finance, Technology, Corporate]",[PowerPoint],El Salvador,El Salvador,,1/4/2018 0:33:24
+10234,Layton Duran,layton.duran,layton.duran@domain.com,CORE,5,[Other],[Other],[],"South Africa, Taiwan",South Africa,,1/4/2018 0:33:33
+10235,Willa Orozco,willa.orozco,willa.orozco@domain.com,,,,[Other],[PowerPoint],Belarus,Belarus,,1/4/2018 0:33:42
+10236,Keanu Smith,keanu.smith,keanu.smith@domain.com,PROJECTMANAGER,5,[Corporate],[Other],[Other],Argentina,Argentina,,1/4/2018 0:33:50
+10237,Olivia Kim,olivia.kim,olivia.kim@domain.com,PROJECTMANAGER,1,[Corporate],"[Finance, Technology, Corporate]",[],Costa Rica,Costa Rica,,1/4/2018 0:33:59
+10238,Roman Durham,roman.durham,roman.durham@domain.com,DESIGN_DIRECTOR,5,[],[Other],[PowerPoint],Brazil,Brazil,,1/4/2018 0:34:08
+10239,Tiffany Shaw,tiffany.shaw,tiffany.shaw@domain.com,PROJECTMANAGER,1,[Corporate],[Branding],[PowerPoint],Argentina,Argentina,,1/4/2018 0:34:16
+10240,Elliot Villanueva,elliot.villanueva,elliot.villanueva@domain.com,ADMIN,2,[Corporate],"[Finance, Technology, Corporate]",[Other],Argentina,Argentina,,1/4/2018 0:34:25
+10241,Monroe Blake,monroe.blake,monroe.blake@domain.com,,,,[Film],[],Argentina,Argentina,,1/4/2018 0:34:34
+10242,Zyaire Aguirre,zyaire.aguirre,zyaire.aguirre@domain.com,ADMIN,5,[Corporate],[Other],[Other],"Brazil, Italy",Brazil,,1/4/2018 0:34:42
+10243,Ariah Moss,ariah.moss,ariah.moss@domain.com,SPECIALIST,1,[Other],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Argentina,Argentina,,1/4/2018 0:34:51
+10244,Porter Reyna,porter.reyna,porter.reyna@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",[Branding],[],El Salvador,El Salvador,,1/4/2018 0:35:00
+10245,Luella Holmes,luella.holmes,luella.holmes@domain.com,ADMIN,5,[Corporate],[Other],[Other],Italy,Italy,,1/4/2018 0:35:08
+10246,King Sampson,king.sampson,king.sampson@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Argentina,Argentina,,1/4/2018 0:35:17
+10247,Meilani Krueger,meilani.krueger,meilani.krueger@domain.com,CORE,3,,[Other],"[Illustrator, Photoshop]",Venezuela,Venezuela,,1/4/2018 0:35:25
+10248,Jones Lee,jones.lee,jones.lee@domain.com,CORE,4,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Russian Federation,United Kingdom,,1/4/2018 0:35:34
+10249,Scarlett Henderson,scarlett.henderson,scarlett.henderson@domain.com,PROJECTMANAGER,5,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],Ecuador,Ecuador,,1/4/2018 0:35:43
+10250,Beau Duran,beau.duran,beau.duran@domain.com,PROJECTMANAGER,5,,,[],Brazil,France,,1/4/2018 0:35:51
+10251,Willa Crawford,willa.crawford,willa.crawford@domain.com,,,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 0:36:00
+10252,Kevin Hurst,kevin.hurst,kevin.hurst@domain.com,ADMIN,4,[],[Other],"[Illustrator, Photoshop]",Spain,Spain,,1/4/2018 0:36:09
+10253,Adalee Dalton,adalee.dalton,adalee.dalton@domain.com,ADMIN,5,[],"[Lifestyle, Marketing]",[],"Argentina",Argentina,,1/4/2018 0:36:17
+10254,Fletcher Parra,fletcher.parra,fletcher.parra@domain.com,ADMIN,1,[Other],,"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:36:26
+10255,Dalary Horne,dalary.horne,dalary.horne@domain.com,ADMIN,5,[],[Film],[PowerPoint],Argentina,Argentina,,1/4/2018 0:36:35
+10256,Zev Lambert,zev.lambert,zev.lambert@domain.com,,,[Other],"[Lifestyle, Marketing]",[PowerPoint],Egypt,Spain,,1/4/2018 0:36:43
+10257,Nina Fox,nina.fox,nina.fox@domain.com,CORE,4,,[Film],[PowerPoint],Venezuela,Colombia,,1/4/2018 0:36:52
+10258,Antonio Gibbs,antonio.gibbs,antonio.gibbs@domain.com,ADMIN,4,[],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 0:37:00
+10259,Carter Kemp,carter.kemp,carter.kemp@domain.com,SPECIALIST,4,[Corporate],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Argentina, Spain",Argentina,,1/4/2018 0:37:09
+10260,Melvin Santana,melvin.santana,melvin.santana@domain.com,CORE,5,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],Argentina,Argentina,,1/4/2018 0:37:18
+10261,Myra Armstrong,myra.armstrong,myra.armstrong@domain.com,DESIGN_DIRECTOR,4,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Argentina, Italy",Argentina,,1/4/2018 0:37:26
+10262,Grant Palmer,grant.palmer,grant.palmer@domain.com,CORE,4,[Other],"[Lifestyle, Marketing]",[PowerPoint],"Colombia, Mexico",Colombia,,1/4/2018 0:37:35
+10263,Juniper Phelps,juniper.phelps,juniper.phelps@domain.com,PROJECTMANAGER,1,[],"[Lifestyle, Marketing]",[Other],Colombia,Colombia,,1/4/2018 0:37:44
+10264,Hamza Keith,hamza.keith,hamza.keith@domain.com,DESIGN_DIRECTOR,1,[Other],,[PowerPoint],Argentina,Argentina,,1/4/2018 0:37:52
+10265,Elyse Chavez,elyse.chavez,elyse.chavez@domain.com,SPECIALIST,1,[],[Branding],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:38:01
+10266,Ian Chapman,ian.chapman,ian.chapman@domain.com,PROJECTMANAGER,2,[Corporate],[Film],[Other],Norway,Norway,,1/4/2018 0:38:10
+10267,Zuri Booker,zuri.booker,zuri.booker@domain.com,PROJECTMANAGER,1,[],[Film],"[Illustrator, Photoshop]",Nicaragua,Nicaragua,,1/4/2018 0:38:18
+10268,Dominik Patel,dominik.patel,dominik.patel@domain.com,,,[Other],,[PowerPoint],South Africa,South Africa,,1/4/2018 0:38:27
+10269,Madeline Gilbert,madeline.gilbert,madeline.gilbert@domain.com,PROJECTMANAGER,2,"[Minimalistic, Corporate, Modern]",[Branding],[Other],Brazil,Brazil,,1/4/2018 0:38:36
+10270,Tobias Fox,tobias.fox,tobias.fox@domain.com,,,[Other],,[Other],South Africa,South Africa,,1/4/2018 0:38:44
+10271,Juliette Bush,juliette.bush,juliette.bush@domain.com,PROJECTMANAGER,1,[Original],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 0:38:53
+10272,Tyson Manning,tyson.manning,tyson.manning@domain.com,DESIGN_DIRECTOR,3,,[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Portugal,,1/4/2018 0:39:01
+10273,Jennifer Pace,jennifer.pace,jennifer.pace@domain.com,,,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[],El Salvador,El Salvador,,1/4/2018 0:39:10
+10274,Dior Hull,dior.hull,dior.hull@domain.com,CORE,2,,[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Mexico,,1/4/2018 0:39:19
+10275,Andi Wiley,andi.wiley,andi.wiley@domain.com,ADMIN,2,,[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 0:39:27
+10276,Mathew Mullins,mathew.mullins,mathew.mullins@domain.com,ADMIN,5,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Venezuela,Spain,,1/4/2018 0:39:36
+10277,Maliyah Carey,maliyah.carey,maliyah.carey@domain.com,PROJECTMANAGER,5,[Original],,[Other],Argentina,Argentina,,1/4/2018 0:39:45
+10278,Watson Stanley,watson.stanley,watson.stanley@domain.com,DESIGN_DIRECTOR,4,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Ecuador,Ecuador,,1/4/2018 0:39:53
+10279,Gracelyn Rodgers,gracelyn.rodgers,gracelyn.rodgers@domain.com,SPECIALIST,5,,[Film],[Other],South Africa,South Africa,,1/4/2018 0:40:02
+10280,Mathias Williams,mathias.williams,mathias.williams@domain.com,SPECIALIST,1,[Original],,[PowerPoint],"Colombia, Italy",Colombia,,1/4/2018 0:40:11
+10281,Ava Brennan,ava.brennan,ava.brennan@domain.com,,,[Corporate],[Branding],[],South Africa,South Africa,,1/4/2018 0:40:19
+10282,Curtis Trejo,curtis.trejo,curtis.trejo@domain.com,ADMIN,4,,[Other],[],Philippines,Philippines,,1/4/2018 0:40:28
+10283,Rosalyn Cano,rosalyn.cano,rosalyn.cano@domain.com,DESIGN_DIRECTOR,4,,[Film],[],South Africa,South Africa,,1/4/2018 0:40:36
+10284,Terry Morse,terry.morse,terry.morse@domain.com,PROJECTMANAGER,3,[],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Turkey,United Kingdom,,1/4/2018 0:40:45
+10285,Kairi Jacobs,kairi.jacobs,kairi.jacobs@domain.com,DESIGN_DIRECTOR,5,[Corporate],[Other],[],Uruguay,Uruguay,,1/4/2018 0:40:54
+10286,Bryan McFarland,bryan.mcfarland,bryan.mcfarland@domain.com,,,[Original],,[PowerPoint],South Africa,South Africa,,1/4/2018 0:41:02
+10287,Annika Alvarez,annika.alvarez,annika.alvarez@domain.com,CORE,1,[Original],[Branding],[PowerPoint],South Africa,Portugal,,1/4/2018 0:41:11
+10288,Xavier Dillon,xavier.dillon,xavier.dillon@domain.com,DESIGN_DIRECTOR,3,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Venezuela,Panama,,1/4/2018 0:41:20
+10289,Laurel Shepherd,laurel.shepherd,laurel.shepherd@domain.com,CORE,2,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:41:28
+10290,Ronald Lang,ronald.lang,ronald.lang@domain.com,SPECIALIST,2,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Albania,Italy,,1/4/2018 0:41:37
+10291,Amirah Casey,amirah.casey,amirah.casey@domain.com,CORE,1,[],,[Other],Brazil,Brazil,,1/4/2018 0:41:46
+10292,Armando Hawkins,armando.hawkins,armando.hawkins@domain.com,CORE,1,"[Minimalistic, Corporate, Modern]",[Film],"[Illustrator, Photoshop]",Spain,Spain,,1/4/2018 0:41:54
+10293,Ariel Lam,ariel.lam,ariel.lam@domain.com,,,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Mexico,Mexico,,1/4/2018 0:42:03
+10294,Bodie Anthony,bodie.anthony,bodie.anthony@domain.com,CORE,5,[Corporate],[Branding],[],Colombia,Colombia,,1/4/2018 0:42:12
+10295,Macy Rich,macy.rich,macy.rich@domain.com,PROJECTMANAGER,1,[],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 0:42:20
+10296,Miller Garrett,miller.garrett,miller.garrett@domain.com,,,,[Film],[PowerPoint],Norway,Norway,,1/4/2018 0:42:29
+10297,Tessa Dixon,tessa.dixon,tessa.dixon@domain.com,ADMIN,3,[Other],[Film],[],Lebanon,Lebanon,,1/4/2018 0:42:37
+10298,Camden McFarland,camden.mcfarland,camden.mcfarland@domain.com,ADMIN,5,[Other],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Canada,Canada,,1/4/2018 0:42:46
+10299,Annika Terry,annika.terry,annika.terry@domain.com,PROJECTMANAGER,4,[],"[Lifestyle, Marketing]",[],Mexico,Mexico,,1/4/2018 0:42:55
+10300,Armani Walter,armani.walter,armani.walter@domain.com,,,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop]","Belgium",India,,1/4/2018 0:43:03
+10301,Penny Dunn,penny.dunn,penny.dunn@domain.com,SPECIALIST,1,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",United States of America (USA),Spain,,1/4/2018 0:43:12
+10302,Dawson Horton,dawson.horton,dawson.horton@domain.com,DESIGN_DIRECTOR,4,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]","Brazil, Portugal",Brazil,,1/4/2018 0:43:21
+10303,Aitana Lee,aitana.lee,aitana.lee@domain.com,,,[],[Film],[Other],South Africa,South Africa,,1/4/2018 0:43:29
+10304,Jack Leach,jack.leach,jack.leach@domain.com,PROJECTMANAGER,4,[],,[Other],Egypt,Egypt,,1/4/2018 0:43:38
+10305,Martha Bryant,martha.bryant,martha.bryant@domain.com,CORE,1,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:43:47
+10306,Jonah Novak,jonah.novak,jonah.novak@domain.com,SPECIALIST,1,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 0:43:55
+10307,Kaiya Becker,kaiya.becker,kaiya.becker@domain.com,PROJECTMANAGER,4,,"[Lifestyle, Marketing]",[],Portugal,Portugal,,1/4/2018 0:44:04
+10308,Lawson Morton,lawson.morton,lawson.morton@domain.com,,,[Other],"[Finance, Technology, Corporate]",[PowerPoint],Libya,Libya,,1/4/2018 0:44:12
+10309,Mallory Stephens,mallory.stephens,mallory.stephens@domain.com,PROJECTMANAGER,2,[Corporate],[Branding],[Other],Brazil,Brazil,,1/4/2018 0:44:21
+10310,Messiah Byrd,messiah.byrd,messiah.byrd@domain.com,CORE,4,"[Minimalistic, Corporate, Modern]",[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Palestine,Spain,,1/4/2018 0:44:30
+10311,Giselle Crosby,giselle.crosby,giselle.crosby@domain.com,,,,[Branding],[PowerPoint],Brazil,Brazil,,1/4/2018 0:44:38
+10312,Tristen Waller,tristen.waller,tristen.waller@domain.com,PROJECTMANAGER,2,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]","Argentina, Italy",Argentina,,1/4/2018 0:44:47
+10313,Whitley Owen,whitley.owen,whitley.owen@domain.com,,,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Ukraine,Ukraine,,1/4/2018 0:44:56
+10314,Cannon Elliott,cannon.elliott,cannon.elliott@domain.com,SPECIALIST,2,[Original],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Greece,Greece,,1/4/2018 0:45:04
+10315,Noelle Salas,noelle.salas,noelle.salas@domain.com,PROJECTMANAGER,3,[],"[Finance, Technology, Corporate]",[],Russian Federation,Thailand,,1/4/2018 0:45:13
+10316,Zaiden Cantu,zaiden.cantu,zaiden.cantu@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]",[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Lithuania,Lithuania,,1/4/2018 0:45:22
+10317,Galilea McIntyre,galilea.mcintyre,galilea.mcintyre@domain.com,CORE,3,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Portugal,Portugal,,1/4/2018 0:45:30
+10318,Eliseo Frye,eliseo.frye,eliseo.frye@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]",[Branding],[Other],Argentina,Argentina,,1/4/2018 0:45:39
+10319,Raya Rodgers,raya.rodgers,raya.rodgers@domain.com,ADMIN,5,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 0:45:48
+10320,Mathias Newton,mathias.newton,mathias.newton@domain.com,,,[Corporate],[Film],[Other],Spain,Spain,,1/4/2018 0:45:56
+10321,Braelynn McGee,braelynn.mcgee,braelynn.mcgee@domain.com,PROJECTMANAGER,5,[Other],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:46:05
+10322,Conner Noble,conner.noble,conner.noble@domain.com,PROJECTMANAGER,4,[],,[PowerPoint],Croatia,Croatia,,1/4/2018 0:46:13
+10323,Hunter Dalton,hunter.dalton,hunter.dalton@domain.com,ADMIN,3,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",El Salvador,El Salvador,,1/4/2018 0:46:22
+10324,Fletcher Stout,fletcher.stout,fletcher.stout@domain.com,,,,,"[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 0:46:31
+10325,Chana Weber,chana.weber,chana.weber@domain.com,PROJECTMANAGER,3,[Original],"[Lifestyle, Marketing]",[PowerPoint],Brazil,Brazil,,1/4/2018 0:46:39
+10326,Crew Ball,crew.ball,crew.ball@domain.com,CORE,3,[Other],[Branding],[PowerPoint],Venezuela,Venezuela,,1/4/2018 0:46:48
+10327,Abby Middleton,abby.middleton,abby.middleton@domain.com,CORE,5,,,"[Illustrator, Photoshop]",Nicaragua,Nicaragua,,1/4/2018 0:46:57
+10328,Misael Marsh,misael.marsh,misael.marsh@domain.com,ADMIN,4,,[Branding],[PowerPoint],Mexico,Mexico,,1/4/2018 0:47:05
+10329,Adelina Christian,adelina.christian,adelina.christian@domain.com,,,[],,[],"Serbia, Croatia",Serbia,,1/4/2018 0:47:14
+10330,Ledger Roman,ledger.roman,ledger.roman@domain.com,,,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],Colombia,Colombia,,1/4/2018 0:47:23
+10331,Astrid Carey,astrid.carey,astrid.carey@domain.com,,,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:47:31
+10332,Watson Johnson,watson.johnson,watson.johnson@domain.com,DESIGN_DIRECTOR,5,,[Branding],"[Illustrator, Photoshop]",Poland,Poland,,1/4/2018 0:47:40
+10333,Emma Salas,emma.salas,emma.salas@domain.com,ADMIN,1,[Other],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,United Kingdom,,1/4/2018 0:47:48
+10334,Zaiden Spencer,zaiden.spencer,zaiden.spencer@domain.com,DESIGN_DIRECTOR,1,[Corporate],[Other],"[Illustrator, Photoshop]",Germany,Finland,,1/4/2018 0:47:57
+10335,Alyssa Ponce,alyssa.ponce,alyssa.ponce@domain.com,ADMIN,4,[Corporate],"[Lifestyle, Marketing]",[PowerPoint],Hungary,Hungary,,1/4/2018 0:48:06
+10336,Langston Chapman,langston.chapman,langston.chapman@domain.com,PROJECTMANAGER,1,[Other],[Other],"[Illustrator, Photoshop]",Canada,Canada,,1/4/2018 0:48:14
+10337,Zuri Barron,zuri.barron,zuri.barron@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop]",Costa Rica,Costa Rica,,1/4/2018 0:48:23
+10338,Dustin George,dustin.george,dustin.george@domain.com,ADMIN,2,[Original],[Film],"[Illustrator, Photoshop]",Spain,Spain,,1/4/2018 0:48:32
+10339,Adelyn McGee,adelyn.mcgee,adelyn.mcgee@domain.com,DESIGN_DIRECTOR,3,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 0:48:40
+10340,Conner Phan,conner.phan,conner.phan@domain.com,DESIGN_DIRECTOR,3,[Other],[Other],[PowerPoint],Croatia,Croatia,,1/4/2018 0:48:49
+10341,Elsa McPherson,elsa.mcpherson,elsa.mcpherson@domain.com,CORE,1,[Corporate],,[Other],United States of America (USA),United States of America (USA),,1/4/2018 0:48:58
+10342,Foster Cordova,foster.cordova,foster.cordova@domain.com,SPECIALIST,5,[],[Film],"[Illustrator, Photoshop]",Argentina,Spain,,1/4/2018 0:49:06
+10343,Florence Johnson,florence.johnson,florence.johnson@domain.com,SPECIALIST,1,,,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","South Africa, Portugal",South Africa,,1/4/2018 0:49:15
+10344,Noah Figueroa,noah.figueroa,noah.figueroa@domain.com,SPECIALIST,2,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Malaysia,Malaysia,,1/4/2018 0:49:24
+10345,Lilith Castaneda,lilith.castaneda,lilith.castaneda@domain.com,CORE,2,[Other],"[Finance, Technology, Corporate]",[Other],"South Africa, United Kingdom",South Africa,,1/4/2018 0:49:32
+10346,Collin Lugo,collin.lugo,collin.lugo@domain.com,ADMIN,3,,[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Philippines,Philippines,,1/4/2018 0:49:41
+10347,Kaylie Massey,kaylie.massey,kaylie.massey@domain.com,SPECIALIST,1,[Original],,[PowerPoint],Norway,Norway,,1/4/2018 0:49:49
+10348,Donald Buck,donald.buck,donald.buck@domain.com,PROJECTMANAGER,2,[Other],[Other],"[Illustrator, Photoshop]",Norway,Norway,,1/4/2018 0:49:58
+10349,Livia Conley,livia.conley,livia.conley@domain.com,,,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 0:50:07
+10350,Marvin Durham,marvin.durham,marvin.durham@domain.com,SPECIALIST,3,[Corporate],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,Spain,,1/4/2018 0:50:15
+10351,Tiffany Sierra,tiffany.sierra,tiffany.sierra@domain.com,ADMIN,2,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 0:50:24
+10352,Dayton Pope,dayton.pope,dayton.pope@domain.com,CORE,4,"[Minimalistic, Corporate, Modern]",,[PowerPoint],Brazil,Brazil,,1/4/2018 0:50:33
+10353,Aurelia Conrad,aurelia.conrad,aurelia.conrad@domain.com,SPECIALIST,5,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Argentina, Italy",Spain,,1/4/2018 0:50:41
+10354,Dilan Estrada,dilan.estrada,dilan.estrada@domain.com,,,[Corporate],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:50:50
+10355,Sawyer Christensen,sawyer.christensen,sawyer.christensen@domain.com,ADMIN,5,[Other],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,Portugal,,1/4/2018 0:50:59
+10356,Gregory Bridges,gregory.bridges,gregory.bridges@domain.com,CORE,3,,"[Finance, Technology, Corporate]",[PowerPoint],Guatemala,Guatemala,,1/4/2018 0:51:07
+10357,Elora Crosby,elora.crosby,elora.crosby@domain.com,PROJECTMANAGER,1,[Other],[Branding],[],South Africa,South Africa,,1/4/2018 0:51:16
+10358,Tristen Hardin,tristen.hardin,tristen.hardin@domain.com,DESIGN_DIRECTOR,2,[Original],[Branding],[PowerPoint],South Africa,South Africa,,1/4/2018 0:51:24
+10359,Vada Velez,vada.velez,vada.velez@domain.com,SPECIALIST,3,[Corporate],[Film],[],Portugal,Portugal,,1/4/2018 0:51:33
+10360,Kareem Wu,kareem.wu,kareem.wu@domain.com,PROJECTMANAGER,1,[Other],,[],Mexico,Mexico,,1/4/2018 0:51:42
+10361,Liana Hurst,liana.hurst,liana.hurst@domain.com,DESIGN_DIRECTOR,3,,[Other],[],El Salvador,El Salvador,,1/4/2018 0:51:50
+10362,Neil Wagner,neil.wagner,neil.wagner@domain.com,CORE,1,[Corporate],"[Finance, Technology, Corporate]",[PowerPoint],Portugal,Portugal,,1/4/2018 0:51:59
+10363,Maeve Allison,maeve.allison,maeve.allison@domain.com,PROJECTMANAGER,5,,[Film],"[Illustrator, Photoshop]","Argentina, Italy",Argentina,,1/4/2018 0:52:08
+10364,Dennis Schneider,dennis.schneider,dennis.schneider@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Argentina, Spain",Spain,,1/4/2018 0:52:16
+10365,Delaney Nava,delaney.nava,delaney.nava@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[],Nigeria,Nigeria,,1/4/2018 0:52:25
+10366,Stefan Tyler,stefan.tyler,stefan.tyler@domain.com,DESIGN_DIRECTOR,1,,,[],South Africa,South Africa,,1/4/2018 0:52:34
+10367,Helena Quinn,helena.quinn,helena.quinn@domain.com,DESIGN_DIRECTOR,5,[Other],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Philippines,Philippines,,1/4/2018 0:52:42
+10368,Rhys Salazar,rhys.salazar,rhys.salazar@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:52:51
+10369,Freya Sutton,freya.sutton,freya.sutton@domain.com,SPECIALIST,1,"[Minimalistic, Corporate, Modern]",[Other],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 0:53:00
+10370,Warren Glover,warren.glover,warren.glover@domain.com,SPECIALIST,1,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[Other],Colombia,Colombia,,1/4/2018 0:53:08
+10371,Alessia Gonzales,alessia.gonzales,alessia.gonzales@domain.com,ADMIN,3,[],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 0:53:17
+10372,Brayden Wolf,brayden.wolf,brayden.wolf@domain.com,CORE,2,[Original],[Film],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 0:53:25
+10373,Jolene Arroyo,jolene.arroyo,jolene.arroyo@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]",[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 0:53:34
+10374,Alberto Carpenter,alberto.carpenter,alberto.carpenter@domain.com,,,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Argentina, Spain",Spain,,1/4/2018 0:53:43
+10375,Lilly Kaur,lilly.kaur,lilly.kaur@domain.com,PROJECTMANAGER,1,[],[Other],[],South Africa,South Africa,,1/4/2018 0:53:51
+10376,Augustine Nixon,augustine.nixon,augustine.nixon@domain.com,DESIGN_DIRECTOR,3,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",United States of America (USA),Spain,,1/4/2018 0:54:00
+10377,Deborah Jefferson,deborah.jefferson,deborah.jefferson@domain.com,DESIGN_DIRECTOR,5,[Corporate],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Argentina,Argentina,,1/4/2018 0:54:09
+10378,Raylan Ford,raylan.ford,raylan.ford@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:54:17
+10379,Alexandra Rich,alexandra.rich,alexandra.rich@domain.com,,,[],,[PowerPoint],Colombia,Colombia,,1/4/2018 0:54:26
+10380,Miller Adams,miller.adams,miller.adams@domain.com,,,,"[Lifestyle, Marketing]",[Other],Malaysia,Malaysia,,1/4/2018 0:54:35
+10381,Stella Valentine,stella.valentine,stella.valentine@domain.com,DESIGN_DIRECTOR,2,[],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:54:43
+10382,Demetrius Burch,demetrius.burch,demetrius.burch@domain.com,CORE,5,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:54:52
+10383,Freyja Duncan,freyja.duncan,freyja.duncan@domain.com,ADMIN,3,[],[Other],[Other],Colombia,Colombia,,1/4/2018 0:55:00
+10384,Avery Santos,avery.santos,avery.santos@domain.com,DESIGN_DIRECTOR,4,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:55:09
+10385,Alana Duran,alana.duran,alana.duran@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]",[Branding],[],Colombia,Colombia,,1/4/2018 0:55:18
+10386,Ismael Russell,ismael.russell,ismael.russell@domain.com,ADMIN,4,[Corporate],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",France,Switzerland,,1/4/2018 0:55:26
+10387,Raelynn Gilmore,raelynn.gilmore,raelynn.gilmore@domain.com,ADMIN,2,[Original],[Other],[],South Africa,South Africa,,1/4/2018 0:55:35
+10388,Vihaan Robbins,vihaan.robbins,vihaan.robbins@domain.com,SPECIALIST,4,[Other],"[Finance, Technology, Corporate]",[],"Argentina, Italy",Argentina,,1/4/2018 0:55:44
+10389,Stevie Davila,stevie.davila,stevie.davila@domain.com,PROJECTMANAGER,1,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Portugal, Brazil",Portugal,,1/4/2018 0:55:52
+10390,Grey Leal,grey.leal,grey.leal@domain.com,DESIGN_DIRECTOR,1,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Spain",Spain,,1/4/2018 0:56:01
+10391,Murphy Costa,murphy.costa,murphy.costa@domain.com,PROJECTMANAGER,1,,[Branding],[],Serbia,Germany,,1/4/2018 0:56:10
+10392,Kenji Roberts,kenji.roberts,kenji.roberts@domain.com,PROJECTMANAGER,4,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]","Mexico, Venezuela",Mexico,,1/4/2018 0:56:18
+10393,Paisley Weeks,paisley.weeks,paisley.weeks@domain.com,,,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 0:56:27
+10394,Anders Barnes,anders.barnes,anders.barnes@domain.com,DESIGN_DIRECTOR,4,[Other],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 0:56:36
+10395,Liliana Zamora,liliana.zamora,liliana.zamora@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]",,[Other],Brazil,Brazil,,1/4/2018 0:56:44
+10396,Quentin Bauer,quentin.bauer,quentin.bauer@domain.com,,,[Original],[Branding],[],Brazil,Brazil,,1/4/2018 0:56:53
+10397,Haley Macias,haley.macias,haley.macias@domain.com,DESIGN_DIRECTOR,4,,,[Other],Philippines,Philippines,,1/4/2018 0:57:01
+10398,Moshe Stein,moshe.stein,moshe.stein@domain.com,CORE,2,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 0:57:10
+10399,Leilany Hickman,leilany.hickman,leilany.hickman@domain.com,ADMIN,3,[],"[Finance, Technology, Corporate]",[PowerPoint],South Africa,South Africa,,1/4/2018 0:57:19
+10400,Jakobe Bell,jakobe.bell,jakobe.bell@domain.com,,,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Nicaragua,Nicaragua,,1/4/2018 0:57:27
+10401,Melody Dixon,melody.dixon,melody.dixon@domain.com,,,,[Other],[PowerPoint],Costa Rica,Costa Rica,,1/4/2018 0:57:36
+10402,Camden Boone,camden.boone,camden.boone@domain.com,PROJECTMANAGER,2,[],"[Finance, Technology, Corporate]",[],Latvia,Latvia,,1/4/2018 0:57:45
+10403,Mariam Ponce,mariam.ponce,mariam.ponce@domain.com,PROJECTMANAGER,2,"[Minimalistic, Corporate, Modern]",[Film],[],Ireland,Spain,,1/4/2018 0:57:53
+10404,Langston Garcia,langston.garcia,langston.garcia@domain.com,PROJECTMANAGER,5,,[Film],"[Illustrator, Photoshop]",Costa Rica,Costa Rica,,1/4/2018 0:58:02
+10405,Amelia Wilcox,amelia.wilcox,amelia.wilcox@domain.com,SPECIALIST,2,[],[Other],"[Illustrator, Photoshop]",Russian Federation,Russian Federation,,1/4/2018 0:58:11
+10406,Jerry Thomas,jerry.thomas,jerry.thomas@domain.com,PROJECTMANAGER,1,[Original],[Branding],[PowerPoint],"South Africa, United Kingdom",South Africa,,1/4/2018 0:58:19
+10407,Elizabeth Briggs,elizabeth.briggs,elizabeth.briggs@domain.com,ADMIN,2,[Corporate],[Film],[PowerPoint],Colombia,Colombia,,1/4/2018 0:58:28
+10408,Case Payne,case.payne,case.payne@domain.com,DESIGN_DIRECTOR,3,[],,[Other],Ghana,Ghana,,1/4/2018 0:58:36
+10409,London Sandoval,london.sandoval,london.sandoval@domain.com,ADMIN,1,[],"[Lifestyle, Marketing]",[],South Africa,Sweden,,1/4/2018 0:58:45
+10410,Brantley Wang,brantley.wang,brantley.wang@domain.com,SPECIALIST,2,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 0:58:54
+10411,Kailani Cochran,kailani.cochran,kailani.cochran@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],"South Africa, United Kingdom",South Africa,,1/4/2018 0:59:02
+10412,Danny Hayden,danny.hayden,danny.hayden@domain.com,SPECIALIST,2,[Other],,[PowerPoint],Zimbabwe,South Africa,,1/4/2018 0:59:11
+10413,Avayah Booker,avayah.booker,avayah.booker@domain.com,,,[Other],,[Other],Philippines,Philippines,,1/4/2018 0:59:20
+10414,Dominik Huff,dominik.huff,dominik.huff@domain.com,CORE,4,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","South Africa, Italy",South Africa,,1/4/2018 0:59:28
+10415,Karsyn Owen,karsyn.owen,karsyn.owen@domain.com,PROJECTMANAGER,5,[Other],"[Finance, Technology, Corporate]",[Other],South Africa,South Africa,,1/4/2018 0:59:37
+10416,Cannon Howell,cannon.howell,cannon.howell@domain.com,PROJECTMANAGER,2,[],[Other],[Other],Canada,Canada,,1/4/2018 0:59:46
+10417,Mckenna Cardenas,mckenna.cardenas,mckenna.cardenas@domain.com,SPECIALIST,1,"[Minimalistic, Corporate, Modern]",[Branding],[Other],Argentina,Argentina,,1/4/2018 0:59:54
+10418,Johnathan Castillo,johnathan.castillo,johnathan.castillo@domain.com,DESIGN_DIRECTOR,3,[Other],[Branding],[],Brazil,Brazil,,1/4/2018 1:00:03
+10419,Eva Briggs,eva.briggs,eva.briggs@domain.com,CORE,3,[Original],[Film],[Other],Colombia,Colombia,,1/4/2018 1:00:12
+10420,Case Mathews,case.mathews,case.mathews@domain.com,ADMIN,3,[Original],"[Finance, Technology, Corporate]",[PowerPoint],South Africa,South Africa,,1/4/2018 1:00:20
+10421,Sloan Garrett,sloan.garrett,sloan.garrett@domain.com,CORE,5,"[Minimalistic, Corporate, Modern]",[Film],"[Illustrator, Photoshop]","Colombia, Spain",Colombia,,1/4/2018 1:00:29
+10422,Kairo Giles,kairo.giles,kairo.giles@domain.com,,,[],[Branding],[Other],Colombia,Colombia,,1/4/2018 1:00:37
+10423,Bailee Galindo,bailee.galindo,bailee.galindo@domain.com,PROJECTMANAGER,1,,[Branding],[Other],Brazil,Brazil,,1/4/2018 1:00:46
+10424,Salvatore Medrano,salvatore.medrano,salvatore.medrano@domain.com,PROJECTMANAGER,2,[Corporate],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 1:00:55
+10425,Halle Perkins,halle.perkins,halle.perkins@domain.com,,,[Corporate],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 1:01:03
+10426,Kyrie Medrano,kyrie.medrano,kyrie.medrano@domain.com,SPECIALIST,1,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]","Colombia, United States of America (USA)",Colombia,,1/4/2018 1:01:12
+10427,Halle McCall,halle.mccall,halle.mccall@domain.com,SPECIALIST,4,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 1:01:21
+10428,Kiaan Peralta,kiaan.peralta,kiaan.peralta@domain.com,ADMIN,3,,[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:01:29
+10429,Malayah Morrow,malayah.morrow,malayah.morrow@domain.com,DESIGN_DIRECTOR,3,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:01:38
+10430,Kyree Salazar,kyree.salazar,kyree.salazar@domain.com,DESIGN_DIRECTOR,1,,,[Other],South Africa,South Africa,,1/4/2018 1:01:47
+10431,Freya Knight,freya.knight,freya.knight@domain.com,,,[Corporate],[Other],[PowerPoint],"Brazil, Portugal",Brazil,,1/4/2018 1:01:55
+10432,Beckett Patrick,beckett.patrick,beckett.patrick@domain.com,CORE,2,,[Film],[Other],Uruguay,Uruguay,,1/4/2018 1:02:04
+10433,Lyra Adkins,lyra.adkins,lyra.adkins@domain.com,SPECIALIST,1,[Original],,[Other],South Africa,South Africa,,1/4/2018 1:02:12
+10434,Kylo Snow,kylo.snow,kylo.snow@domain.com,ADMIN,3,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:02:21
+10435,Alexia Ponce,alexia.ponce,alexia.ponce@domain.com,DESIGN_DIRECTOR,1,"[Minimalistic, Corporate, Modern]",[Branding],[PowerPoint],Argentina,Argentina,,1/4/2018 1:02:30
+10436,Langston Pollard,langston.pollard,langston.pollard@domain.com,ADMIN,1,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:02:38
+10437,Marisol Alexander,marisol.alexander,marisol.alexander@domain.com,DESIGN_DIRECTOR,3,[],[Other],[],South Africa,South Africa,,1/4/2018 1:02:47
+10438,Kingston Armstrong,kingston.armstrong,kingston.armstrong@domain.com,ADMIN,2,,[Film],[],South Africa,South Africa,,1/4/2018 1:02:56
+10439,Presley Barber,presley.barber,presley.barber@domain.com,ADMIN,5,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:03:04
+10440,Solomon Lozano,solomon.lozano,solomon.lozano@domain.com,,,[Original],[Branding],[],South Africa,South Africa,,1/4/2018 1:03:13
+10441,Cecelia Harris,cecelia.harris,cecelia.harris@domain.com,ADMIN,3,[Original],,[PowerPoint],Mexico,Mexico,,1/4/2018 1:03:22
+10442,Samuel Carr,samuel.carr,samuel.carr@domain.com,CORE,1,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 1:03:30
+10443,Rowan Kline,rowan.kline,rowan.kline@domain.com,DESIGN_DIRECTOR,5,[Corporate],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","South Africa, Mauritius",South Africa,,1/4/2018 1:03:39
+10444,Ramon Hendricks,ramon.hendricks,ramon.hendricks@domain.com,DESIGN_DIRECTOR,4,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Romania,Romania,,1/4/2018 1:03:48
+10445,Dani Skinner,dani.skinner,dani.skinner@domain.com,SPECIALIST,5,[],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Germany,Germany,,1/4/2018 1:03:56
+10446,Ridge Hensley,ridge.hensley,ridge.hensley@domain.com,,,[],[Other],[Other],France,Czech Republic,,1/4/2018 1:04:05
+10447,Malaya Hood,malaya.hood,malaya.hood@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",[Other],[],Mexico,Canada,,1/4/2018 1:04:13
+10448,Brixton Harrington,brixton.harrington,brixton.harrington@domain.com,,,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:04:22
+10449,Legacy McKay,legacy.mckay,legacy.mckay@domain.com,ADMIN,1,[Corporate],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Brazil, Australia, Italy",Brazil,,1/4/2018 1:04:31
+10450,Joey Cunningham,joey.cunningham,joey.cunningham@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 1:04:39
+10451,Marley Alvarez,marley.alvarez,marley.alvarez@domain.com,SPECIALIST,4,,,[],"Portugal, Brazil",Portugal,,1/4/2018 1:04:48
+10452,Xavier Zhang,xavier.zhang,xavier.zhang@domain.com,,,[Original],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Spain, Argentina",Argentina,,1/4/2018 1:04:57
+10453,Sarai Bishop,sarai.bishop,sarai.bishop@domain.com,ADMIN,4,[Corporate],[Other],[Other],Uruguay,Portugal,,1/4/2018 1:05:05
+10454,Paxton Torres,paxton.torres,paxton.torres@domain.com,DESIGN_DIRECTOR,1,[Corporate],,[],Guatemala,Guatemala,,1/4/2018 1:05:14
+10455,Violet Pope,violet.pope,violet.pope@domain.com,DESIGN_DIRECTOR,3,,"[Lifestyle, Marketing]",[Other],Argentina,Argentina,,1/4/2018 1:05:23
+10456,Gunnar Butler,gunnar.butler,gunnar.butler@domain.com,,,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop]","Uruguay,Argentina",Uruguay,,1/4/2018 1:05:31
+10457,Athena Allen,athena.allen,athena.allen@domain.com,CORE,2,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Argentina, Italy",Argentina,,1/4/2018 1:05:40
+10458,Carter Pacheco,carter.pacheco,carter.pacheco@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]",[Film],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 1:05:48
+10459,Paris Mueller,paris.mueller,paris.mueller@domain.com,ADMIN,2,,[Branding],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 1:05:57
+10460,Albert Chung,albert.chung,albert.chung@domain.com,SPECIALIST,2,[Corporate],[Other],"[Illustrator, Photoshop]",Mexico,Mexico,,1/4/2018 1:06:06
+10461,Rivka Galindo,rivka.galindo,rivka.galindo@domain.com,PROJECTMANAGER,2,[Original],,[Other],Colombia,Colombia,,1/4/2018 1:06:14
+10462,Salvatore Saunders,salvatore.saunders,salvatore.saunders@domain.com,CORE,5,,"[Lifestyle, Marketing]","[Illustrator, Photoshop]","Serbia, United Kingdom, Spain",Spain,,1/4/2018 1:06:23
+10463,Meadow Hughes,meadow.hughes,meadow.hughes@domain.com,CORE,5,,,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Serbia,Serbia,,1/4/2018 1:06:32
+10464,Everett Trevino,everett.trevino,everett.trevino@domain.com,,,[Other],"[Finance, Technology, Corporate]",[Other],South Africa,South Africa,,1/4/2018 1:06:40
+10465,Priscilla Black,priscilla.black,priscilla.black@domain.com,SPECIALIST,1,[Original],,[PowerPoint],"Italy, Uruguay",Uruguay,,1/4/2018 1:06:49
+10466,Matteo Duran,matteo.duran,matteo.duran@domain.com,,,[Other],[Branding],[Other],India,India,,1/4/2018 1:06:58
+10467,Willa Kerr,willa.kerr,willa.kerr@domain.com,,,[Original],[Film],"[Illustrator, Photoshop]",United Kingdom,Mexico,,1/4/2018 1:07:06
+10468,Louie Price,louie.price,louie.price@domain.com,CORE,1,[Other],,[],Spain,Spain,,1/4/2018 1:07:15
+10469,Piper Snyder,piper.snyder,piper.snyder@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],Poland,Dominican Republic,,1/4/2018 1:07:24
+10470,Thiago Cline,thiago.cline,thiago.cline@domain.com,,,[],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:07:32
+10471,Lina Decker,lina.decker,lina.decker@domain.com,PROJECTMANAGER,4,,,"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 1:07:41
+10472,Taylor Ware,taylor.ware,taylor.ware@domain.com,,,[Original],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Venezuela,Argentina,,1/4/2018 1:07:49
+10473,Eileen Sierra,eileen.sierra,eileen.sierra@domain.com,,,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[],El Salvador,El Salvador,,1/4/2018 1:07:58
+10474,Dayton Howard,dayton.howard,dayton.howard@domain.com,ADMIN,2,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]","Peru, United States of America (USA)",Peru,,1/4/2018 1:08:07
+10475,Sophie Merritt,sophie.merritt,sophie.merritt@domain.com,SPECIALIST,2,[Corporate],[Branding],[Other],Spain,Spain,,1/4/2018 1:08:15
+10476,Colten Patterson,colten.patterson,colten.patterson@domain.com,ADMIN,2,[Original],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 1:08:24
+10477,Kaylee Leal,kaylee.leal,kaylee.leal@domain.com,SPECIALIST,1,[Original],[Other],"[Illustrator, Photoshop]",Costa Rica,Costa Rica,,1/4/2018 1:08:33
+10478,Cedric Love,cedric.love,cedric.love@domain.com,DESIGN_DIRECTOR,3,[],"[Lifestyle, Marketing]",[],"Venezuela, Colombia, Spain",United Arab Emirates,,1/4/2018 1:08:41
+10479,Avianna Blevins,avianna.blevins,avianna.blevins@domain.com,CORE,2,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:08:50
+10480,Avi Barnett,avi.barnett,avi.barnett@domain.com,DESIGN_DIRECTOR,3,[Original],"[Finance, Technology, Corporate]",[],Argentina,Uruguay,,1/4/2018 1:08:59
+10481,Harlow Mullins,harlow.mullins,harlow.mullins@domain.com,CORE,1,,[Other],[],Argentina,Mexico,,1/4/2018 1:09:07
+10482,Allen Dawson,allen.dawson,allen.dawson@domain.com,PROJECTMANAGER,3,[Other],[Film],[PowerPoint],Mexico,Mexico,,1/4/2018 1:09:16
+10483,Veronica Espinosa,veronica.espinosa,veronica.espinosa@domain.com,ADMIN,5,,[Other],[PowerPoint],Argentina,Argentina,,1/4/2018 1:09:24
+10484,Khalid Mendoza,khalid.mendoza,khalid.mendoza@domain.com,CORE,1,"[Minimalistic, Corporate, Modern]",[Branding],[Other],Argentina,Argentina,,1/4/2018 1:09:33
+10485,Cora McClure,cora.mcclure,cora.mcclure@domain.com,,,[Original],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:09:42
+10486,Reese Roth,reese.roth,reese.roth@domain.com,DESIGN_DIRECTOR,4,,[Branding],"[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 1:09:50
+10487,Elliot Ruiz,elliot.ruiz,elliot.ruiz@domain.com,PROJECTMANAGER,4,[Corporate],"[Finance, Technology, Corporate]",[],South Africa,South Africa,,1/4/2018 1:09:59
+10488,Austin Schneider,austin.schneider,austin.schneider@domain.com,,,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 1:10:08
+10489,Delaney Gordon,delaney.gordon,delaney.gordon@domain.com,PROJECTMANAGER,4,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:10:16
+10490,Karter Marshall,karter.marshall,karter.marshall@domain.com,SPECIALIST,1,[],[Film],[PowerPoint],Spain,Spain,,1/4/2018 1:10:25
+10491,Adalyn Hansen,adalyn.hansen,adalyn.hansen@domain.com,SPECIALIST,5,,,[PowerPoint],Colombia,Colombia,,1/4/2018 1:10:34
+10492,Charlie Vang,charlie.vang,charlie.vang@domain.com,DESIGN_DIRECTOR,2,[Original],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Mexico, United States of America (USA)",Mexico,,1/4/2018 1:10:42
+10493,Madisyn Rodgers,madisyn.rodgers,madisyn.rodgers@domain.com,ADMIN,1,[Original],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Ecuador,Ecuador,,1/4/2018 1:10:51
+10494,Mathias Sharp,mathias.sharp,mathias.sharp@domain.com,,,[Original],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Argentina,Argentina,,1/4/2018 1:11:00
+10495,Camryn Cameron,camryn.cameron,camryn.cameron@domain.com,DESIGN_DIRECTOR,3,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Mexico,Mexico,,1/4/2018 1:11:08
+10496,Rayan Yu,rayan.yu,rayan.yu@domain.com,,,[Other],[Branding],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 1:11:17
+10497,Navy Tyler,navy.tyler,navy.tyler@domain.com,DESIGN_DIRECTOR,5,,"[Finance, Technology, Corporate]",[],Argentina,Argentina,,1/4/2018 1:11:25
+10498,Emmitt McDowell,emmitt.mcdowell,emmitt.mcdowell@domain.com,CORE,3,"[Minimalistic, Corporate, Modern]",[Other],[Other],Philippines,Philippines,,1/4/2018 1:11:34
+10499,Rayna Jacobson,rayna.jacobson,rayna.jacobson@domain.com,ADMIN,1,[Other],"[Finance, Technology, Corporate]",[Other],Venezuela,Argentina,,1/4/2018 1:11:43
+10500,Legacy Serrano,legacy.serrano,legacy.serrano@domain.com,SPECIALIST,2,[Original],[Film],"[Illustrator, Photoshop]",El Salvador,El Salvador,,1/4/2018 1:11:51
+10501,Allie Wilkerson,allie.wilkerson,allie.wilkerson@domain.com,DESIGN_DIRECTOR,1,,"[Lifestyle, Marketing]",[],Costa Rica,Costa Rica,,1/4/2018 1:12:00
+10502,Carmelo Sandoval,carmelo.sandoval,carmelo.sandoval@domain.com,CORE,1,,[Other],[],Argentina,Argentina,,1/4/2018 1:12:09
+10503,Elsie Rhodes,elsie.rhodes,elsie.rhodes@domain.com,DESIGN_DIRECTOR,3,[Corporate],[Film],[],Ukraine,Spain,,1/4/2018 1:12:17
+10504,Titus Baxter,titus.baxter,titus.baxter@domain.com,DESIGN_DIRECTOR,2,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 1:12:26
+10505,Lara Morse,lara.morse,lara.morse@domain.com,,,[Original],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:12:35
+10506,Bode Duran,bode.duran,bode.duran@domain.com,SPECIALIST,2,,"[Lifestyle, Marketing]",[PowerPoint],Mexico,Spain,,1/4/2018 1:12:43
+10507,Willa Ayala,willa.ayala,willa.ayala@domain.com,DESIGN_DIRECTOR,1,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],Argentina,Argentina,,1/4/2018 1:12:52
+10508,Tanner Marshall,tanner.marshall,tanner.marshall@domain.com,ADMIN,5,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Dominican Republic, Italy",Dominican Republic,,1/4/2018 1:13:00
+10509,Adalyn Curtis,adalyn.curtis,adalyn.curtis@domain.com,PROJECTMANAGER,1,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Argentina,Argentina,,1/4/2018 1:13:09
+10510,Muhammad McDaniel,muhammad.mcdaniel,muhammad.mcdaniel@domain.com,CORE,3,"[Minimalistic, Corporate, Modern]",[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:13:18
+10511,Dahlia Perez,dahlia.perez,dahlia.perez@domain.com,,,[Corporate],[Other],[Other],Philippines,Philippines,,1/4/2018 1:13:26
+10512,Owen Love,owen.love,owen.love@domain.com,,,[Original],"[Finance, Technology, Corporate]",[],Italy,Italy,,1/4/2018 1:13:35
+10513,Avianna Reed,avianna.reed,avianna.reed@domain.com,CORE,1,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 1:13:44
+10514,Easton Meadows,easton.meadows,easton.meadows@domain.com,DESIGN_DIRECTOR,3,[Other],[Other],[],"Argentina, Italy",Argentina,,1/4/2018 1:13:52
+10515,Pearl Randall,pearl.randall,pearl.randall@domain.com,ADMIN,2,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 1:14:01
+10516,Trenton Hawkins,trenton.hawkins,trenton.hawkins@domain.com,PROJECTMANAGER,5,"[Minimalistic, Corporate, Modern]",[Branding],[Other],Belarus,Ireland,,1/4/2018 1:14:10
+10517,Ariel McCarthy,ariel.mccarthy,ariel.mccarthy@domain.com,SPECIALIST,1,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Hungary,Hungary,,1/4/2018 1:14:18
+10518,Devin McGee,devin.mcgee,devin.mcgee@domain.com,SPECIALIST,3,[Original],,[PowerPoint],Colombia,Colombia,,1/4/2018 1:14:27
+10519,Kayleigh Rowe,kayleigh.rowe,kayleigh.rowe@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:14:36
+10520,Kamden Fuller,kamden.fuller,kamden.fuller@domain.com,,,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:14:44
+10521,Oakley Kramer,oakley.kramer,oakley.kramer@domain.com,PROJECTMANAGER,2,[],[Film],[PowerPoint],Slovenia,Slovenia,,1/4/2018 1:14:53
+10522,Kylan Guzman,kylan.guzman,kylan.guzman@domain.com,DESIGN_DIRECTOR,5,[Original],"[Lifestyle, Marketing]",[PowerPoint],South Africa,South Africa,,1/4/2018 1:15:01
+10523,Ashley Vincent,ashley.vincent,ashley.vincent@domain.com,,,[],[Film],[Other],"Chile, Germany",Chile,,1/4/2018 1:15:10
+10524,Aarav Best,aarav.best,aarav.best@domain.com,PROJECTMANAGER,5,[],[Branding],[],South Africa,South Africa,,1/4/2018 1:15:19
+10525,Lexie Richards,lexie.richards,lexie.richards@domain.com,DESIGN_DIRECTOR,4,[],[Film],"[Illustrator, Photoshop]",Turkey,Turkey,,1/4/2018 1:15:27
+10526,Holden Garza,holden.garza,holden.garza@domain.com,DESIGN_DIRECTOR,2,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Costa Rica,Costa Rica,,1/4/2018 1:15:36
+10527,River Good,river.good,river.good@domain.com,,,[Original],,"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:15:45
+10528,Davian Arellano,davian.arellano,davian.arellano@domain.com,CORE,4,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:15:53
+10529,Faye Hess,faye.hess,faye.hess@domain.com,ADMIN,3,"[Minimalistic, Corporate, Modern]",[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:16:02
+10530,Lawrence Villanueva,lawrence.villanueva,lawrence.villanueva@domain.com,DESIGN_DIRECTOR,1,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",South Africa,Portugal,,1/4/2018 1:16:11
+10531,Monroe Kirby,monroe.kirby,monroe.kirby@domain.com,,,[Other],[Film],[PowerPoint],South Africa,South Africa,,1/4/2018 1:16:19
+10532,Tony Dominguez,tony.dominguez,tony.dominguez@domain.com,ADMIN,5,"[Minimalistic, Corporate, Modern]",[Other],[],Poland,Poland,,1/4/2018 1:16:28
+10533,Raegan Ruiz,raegan.ruiz,raegan.ruiz@domain.com,,,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Guatemala,France,,1/4/2018 1:16:36
+10534,Austin McKenzie,austin.mckenzie,austin.mckenzie@domain.com,,,,"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Canada,Canada,,1/4/2018 1:16:45
+10535,Briar Dominguez,briar.dominguez,briar.dominguez@domain.com,CORE,2,[Corporate],,[],South Africa,South Africa,,1/4/2018 1:16:54
+10536,Kaden Vaughan,kaden.vaughan,kaden.vaughan@domain.com,DESIGN_DIRECTOR,3,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Venezuela, Argentina",Argentina,,1/4/2018 1:17:02
+10537,Nancy Ponce,nancy.ponce,nancy.ponce@domain.com,ADMIN,4,[Corporate],"[Finance, Technology, Corporate]",[PowerPoint],"South Africa, United Kingdom",South Africa,,1/4/2018 1:17:11
+10538,Langston Underwood,langston.underwood,langston.underwood@domain.com,,,[Other],,"[Illustrator, Photoshop]",El Salvador,El Salvador,,1/4/2018 1:17:20
+10539,Ensley Trevino,ensley.trevino,ensley.trevino@domain.com,PROJECTMANAGER,2,[Other],,[PowerPoint],Colombia,Colombia,,1/4/2018 1:17:28
+10540,Jaime Petersen,jaime.petersen,jaime.petersen@domain.com,ADMIN,2,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,Portugal,,1/4/2018 1:17:37
+10541,Fernanda Gallagher,fernanda.gallagher,fernanda.gallagher@domain.com,DESIGN_DIRECTOR,1,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop]",Portugal,Portugal,,1/4/2018 1:17:46
+10542,Marcos Cross,marcos.cross,marcos.cross@domain.com,SPECIALIST,4,[Other],[Film],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 1:17:54
+10543,Nayeli Cisneros,nayeli.cisneros,nayeli.cisneros@domain.com,DESIGN_DIRECTOR,4,[Corporate],[Other],"[Illustrator, Photoshop]",Portugal,Portugal,,1/4/2018 1:18:03
+10544,Alden Mason,alden.mason,alden.mason@domain.com,SPECIALIST,2,[],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,Portugal,,1/4/2018 1:18:12
+10545,Sienna McGuire,sienna.mcguire,sienna.mcguire@domain.com,CORE,2,,[Branding],[Other],"Hungary, Romania",Hungary,,1/4/2018 1:18:20
+10546,Casey Cordova,casey.cordova,casey.cordova@domain.com,PROJECTMANAGER,3,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Bosnia & Herzegovina,Bosnia & Herzegovina,,1/4/2018 1:18:29
+10547,Florence Gallagher,florence.gallagher,florence.gallagher@domain.com,ADMIN,4,[Other],"[Finance, Technology, Corporate]",[Other],Colombia,Colombia,,1/4/2018 1:18:37
+10548,Marcos Booker,marcos.booker,marcos.booker@domain.com,PROJECTMANAGER,4,[Other],[Branding],"[Illustrator, Photoshop]",Argentina,Argentina,,1/4/2018 1:18:46
+10549,Nataly Whitehead,nataly.whitehead,nataly.whitehead@domain.com,,,[],[Other],[PowerPoint],Canada,Canada,,1/4/2018 1:18:55
+10550,Zayd Macias,zayd.macias,zayd.macias@domain.com,PROJECTMANAGER,3,[Other],"[Finance, Technology, Corporate]",[Other],Serbia,Serbia,,1/4/2018 1:19:03
+10551,Adley Whitney,adley.whitney,adley.whitney@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]",[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","South Africa, Italy",South Africa,,1/4/2018 1:19:12
+10552,Jeffery Farrell,jeffery.farrell,jeffery.farrell@domain.com,,,"[Minimalistic, Corporate, Modern]",[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Canada,Canada,,1/4/2018 1:19:21
+10553,Kassidy Hickman,kassidy.hickman,kassidy.hickman@domain.com,,,[Corporate],"[Finance, Technology, Corporate]",[],Egypt,Egypt,,1/4/2018 1:19:29
+10554,Jakobe McKinney,jakobe.mckinney,jakobe.mckinney@domain.com,SPECIALIST,3,[Original],,"[Illustrator, Photoshop]",Egypt,United Arab Emirates,,1/4/2018 1:19:38
+10555,Gwendolyn Poole,gwendolyn.poole,gwendolyn.poole@domain.com,SPECIALIST,1,,[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 1:19:47
+10556,Quincy Cobb,quincy.cobb,quincy.cobb@domain.com,SPECIALIST,2,[],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:19:55
+10557,Aviana Hensley,aviana.hensley,aviana.hensley@domain.com,PROJECTMANAGER,5,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Poland,Poland,,1/4/2018 1:20:04
+10558,Layne Dorsey,layne.dorsey,layne.dorsey@domain.com,SPECIALIST,2,[Corporate],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:20:12
+10559,Addyson Randolph,addyson.randolph,addyson.randolph@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Jordan,Portugal,,1/4/2018 1:20:21
+10560,Eugene Schneider,eugene.schneider,eugene.schneider@domain.com,CORE,4,[Original],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Indonesia,Indonesia,,1/4/2018 1:20:30
+10561,Delaney Hart,delaney.hart,delaney.hart@domain.com,,,[Original],"[Finance, Technology, Corporate]",[PowerPoint],Armenia,Armenia,,1/4/2018 1:20:38
+10562,Joel Swanson,joel.swanson,joel.swanson@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop]","South Africa, United Kingdom, Mauritius",South Africa,,1/4/2018 1:20:47
+10563,Helen Faulkner,helen.faulkner,helen.faulkner@domain.com,SPECIALIST,3,[Other],[Other],[PowerPoint],"Ecuador, Argentina",Argentina,,1/4/2018 1:20:56
+10564,Jabari Whitaker,jabari.whitaker,jabari.whitaker@domain.com,PROJECTMANAGER,1,[Corporate],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Colombia,Colombia,,1/4/2018 1:21:04
+10565,Ivanna Houston,ivanna.houston,ivanna.houston@domain.com,ADMIN,3,[Other],[Branding],[],Argentina,Argentina,,1/4/2018 1:21:13
+10566,Sylas Beard,sylas.beard,sylas.beard@domain.com,ADMIN,2,,[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Costa Rica,Panama,,1/4/2018 1:21:22
+10567,Ezra Maldonado,ezra.maldonado,ezra.maldonado@domain.com,PROJECTMANAGER,2,[Other],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:21:30
+10568,Javier Simpson,javier.simpson,javier.simpson@domain.com,ADMIN,3,[Other],[Film],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:21:39
+10569,Anastasia Galindo,anastasia.galindo,anastasia.galindo@domain.com,ADMIN,4,[Original],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Brazil, Portugal",Brazil,,1/4/2018 1:21:48
+10570,Salvatore Moon,salvatore.moon,salvatore.moon@domain.com,DESIGN_DIRECTOR,1,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Bulgaria,United Kingdom,,1/4/2018 1:21:56
+10571,Naya Small,naya.small,naya.small@domain.com,SPECIALIST,3,,"[Finance, Technology, Corporate]",[Other],"South Africa, United Kingdom",South Africa,,1/4/2018 1:22:05
+10572,Rudy Simmons,rudy.simmons,rudy.simmons@domain.com,PROJECTMANAGER,2,[Other],[Film],"[Illustrator, Photoshop]","Argentina, Itlay",Argentina,,1/4/2018 1:22:13
+10573,Reagan Fleming,reagan.fleming,reagan.fleming@domain.com,,,[Original],[Branding],[Other],Argentina,Argentina,,1/4/2018 1:22:22
+10574,Fernando Cordova,fernando.cordova,fernando.cordova@domain.com,,,[],[Branding],[Other],South Africa,South Africa,,1/4/2018 1:22:31
+10575,Florence Charles,florence.charles,florence.charles@domain.com,CORE,4,[Original],,[PowerPoint],South Africa,South Africa,,1/4/2018 1:22:39
+10576,Conrad Rivera,conrad.rivera,conrad.rivera@domain.com,ADMIN,5,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:22:48
+10577,Lillian Richardson,lillian.richardson,lillian.richardson@domain.com,,,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Bulgaria,Serbia,,1/4/2018 1:22:57
+10578,Robert Schwartz,robert.schwartz,robert.schwartz@domain.com,ADMIN,2,[Other],[Film],[],United Kingdom,United Kingdom,,1/4/2018 1:23:05
+10579,Lilliana Walton,lilliana.walton,lilliana.walton@domain.com,CORE,2,[Original],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Colombia,Colombia,,1/4/2018 1:23:14
+10580,Dominick Guerra,dominick.guerra,dominick.guerra@domain.com,ADMIN,2,[Original],[Branding],[PowerPoint],Zimbabwe,South Africa,,1/4/2018 1:23:23
+10581,Edith McPherson,edith.mcpherson,edith.mcpherson@domain.com,SPECIALIST,4,[Original],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:23:31
+10582,Foster Levy,foster.levy,foster.levy@domain.com,,,[Other],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Portugal,Portugal,,1/4/2018 1:23:40
+10583,Flora Ramos,flora.ramos,flora.ramos@domain.com,SPECIALIST,4,,[Branding],[Other],Turkey,Turkey,,1/4/2018 1:23:48
+10584,Angel Pratt,angel.pratt,angel.pratt@domain.com,PROJECTMANAGER,5,,,"[Illustrator, Photoshop]",Indonesia,Indonesia,,1/4/2018 1:23:57
+10585,Ailani Harrison,ailani.harrison,ailani.harrison@domain.com,ADMIN,3,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Ukraine,Ukraine,,1/4/2018 1:24:06
+10586,Gavin Anderson,gavin.anderson,gavin.anderson@domain.com,DESIGN_DIRECTOR,3,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Ukraine,Ukraine,,1/4/2018 1:24:14
+10587,Ella Farley,ella.farley,ella.farley@domain.com,DESIGN_DIRECTOR,2,[Corporate],[Other],[PowerPoint],South Africa,South Africa,,1/4/2018 1:24:23
+10588,Graysen Berger,graysen.berger,graysen.berger@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:24:32
+10589,Laylah Valenzuela,laylah.valenzuela,laylah.valenzuela@domain.com,CORE,1,[Other],,[Other],Norway,Norway,,1/4/2018 1:24:40
+10590,Jamari Bass,jamari.bass,jamari.bass@domain.com,,,[Original],"[Lifestyle, Marketing]",[PowerPoint],Colombia,Mexico,,1/4/2018 1:24:49
+10591,Zahra Valenzuela,zahra.valenzuela,zahra.valenzuela@domain.com,SPECIALIST,5,[],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Brazil, Uruguay",Brazil,,1/4/2018 1:24:58
+10592,Jamari Good,jamari.good,jamari.good@domain.com,,,,[Film],[PowerPoint],Peru,Peru,,1/4/2018 1:25:06
+10593,Nathalia Kent,nathalia.kent,nathalia.kent@domain.com,ADMIN,5,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Colombia, France",Colombia,,1/4/2018 1:25:15
+10594,Mekhi O’Connor,mekhi.o’connor,mekhi.o’connor@domain.com,PROJECTMANAGER,2,[Original],[Other],"[Illustrator, Photoshop]",El Salvador,Costa Rica,,1/4/2018 1:25:24
+10595,Charli Peterson,charli.peterson,charli.peterson@domain.com,PROJECTMANAGER,2,[],[Branding],"[Illustrator, Photoshop]",Cyprus,Cyprus,,1/4/2018 1:25:32
+10596,Santiago Berry,santiago.berry,santiago.berry@domain.com,PROJECTMANAGER,2,[Corporate],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","South Africa, Greece",South Africa,,1/4/2018 1:25:41
+10597,Annabelle Liu,annabelle.liu,annabelle.liu@domain.com,,,[Other],"[Lifestyle, Marketing]",[PowerPoint],Mexico,Mexico,,1/4/2018 1:25:49
+10598,Pedro Gilmore,pedro.gilmore,pedro.gilmore@domain.com,ADMIN,4,[Corporate],[Branding],[],Venezuela,Argentina,,1/4/2018 1:25:58
+10599,Chanel Sandoval,chanel.sandoval,chanel.sandoval@domain.com,,,[Corporate],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Romania,Romania,,1/4/2018 1:26:07
+10600,Brantley Davenport,brantley.davenport,brantley.davenport@domain.com,CORE,1,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[],South Africa,South Africa,,1/4/2018 1:26:15
+10601,Adrianna Acevedo,adrianna.acevedo,adrianna.acevedo@domain.com,DESIGN_DIRECTOR,5,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:26:24
+10602,Dakari Rice,dakari.rice,dakari.rice@domain.com,CORE,3,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Italy,Spain,,1/4/2018 1:26:33
+10603,Ada Beard,ada.beard,ada.beard@domain.com,SPECIALIST,3,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Colombia, United States of America (USA)",Spain,,1/4/2018 1:26:41
+10604,Nathanael Sherman,nathanael.sherman,nathanael.sherman@domain.com,,,[],,"[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 1:26:50
+10605,Addilyn Leach,addilyn.leach,addilyn.leach@domain.com,PROJECTMANAGER,5,,[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Brazil,Brazil,,1/4/2018 1:26:59
+10606,Westin Baxter,westin.baxter,westin.baxter@domain.com,SPECIALIST,3,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Germany,,1/4/2018 1:27:07
+10607,Lara Wagner,lara.wagner,lara.wagner@domain.com,ADMIN,5,[Corporate],[Branding],[Other],Brazil,Brazil,,1/4/2018 1:27:16
+10608,Enzo Russo,enzo.russo,enzo.russo@domain.com,,,,[Film],[PowerPoint],United Kingdom,United Kingdom,,1/4/2018 1:27:24
+10609,Tinsley Franco,tinsley.franco,tinsley.franco@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop]",United Kingdom,United Kingdom,,1/4/2018 1:27:33
+10610,Gage Faulkner,gage.faulkner,gage.faulkner@domain.com,CORE,4,,[Branding],[PowerPoint],Canada,Canada,,1/4/2018 1:27:42
+10611,Ansley Bartlett,ansley.bartlett,ansley.bartlett@domain.com,CORE,4,[Corporate],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Poland,Poland,,1/4/2018 1:27:50
+10612,Kace Solis,kace.solis,kace.solis@domain.com,CORE,5,[Original],,[PowerPoint],Poland,Poland,,1/4/2018 1:27:59
+10613,Miracle Long,miracle.long,miracle.long@domain.com,PROJECTMANAGER,2,[Corporate],"[Finance, Technology, Corporate]",[Other],Poland,Poland,,1/4/2018 1:28:08
+10614,Jace Chung,jace.chung,jace.chung@domain.com,PROJECTMANAGER,4,"[Minimalistic, Corporate, Modern]",[Other],"[Illustrator, Photoshop]",Brazil. Portugal,Brazil,,1/4/2018 1:28:16
+10615,Rivka Savage,rivka.savage,rivka.savage@domain.com,SPECIALIST,1,,"[Lifestyle, Marketing]",[PowerPoint],Brazil,Brazil,,1/4/2018 1:28:25
+10616,Keaton Cervantes,keaton.cervantes,keaton.cervantes@domain.com,DESIGN_DIRECTOR,3,[Corporate],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:28:34
+10617,Aylin Romero,aylin.romero,aylin.romero@domain.com,DESIGN_DIRECTOR,4,[],"[Finance, Technology, Corporate]",[Other],Brazil,Brazil,,1/4/2018 1:28:42
+10618,Bryson Cain,bryson.cain,bryson.cain@domain.com,PROJECTMANAGER,2,"[Minimalistic, Corporate, Modern]",[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Argentina, Italy",Argentina,,1/4/2018 1:28:51
+10619,Kendra Anthony,kendra.anthony,kendra.anthony@domain.com,CORE,3,[Original],,[PowerPoint],"Greece, Zimbabwe",South Africa,,1/4/2018 1:29:00
+10620,Shiloh Robinson,shiloh.robinson,shiloh.robinson@domain.com,CORE,3,,[Other],"[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 1:29:08
+10621,Nora Cortes,nora.cortes,nora.cortes@domain.com,,,[Original],[Branding],[],Romania,Spain,,1/4/2018 1:29:17
+10622,Banks Robles,banks.robles,banks.robles@domain.com,DESIGN_DIRECTOR,1,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Guatemala,Guatemala,,1/4/2018 1:29:25
+10623,Felicity Francis,felicity.francis,felicity.francis@domain.com,CORE,3,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:29:34
+10624,Harvey Richmond,harvey.richmond,harvey.richmond@domain.com,SPECIALIST,4,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Brazil,Brazil,,1/4/2018 1:29:43
+10625,Whitney Stone,whitney.stone,whitney.stone@domain.com,CORE,4,[Other],[Film],[Other],South Africa,South Africa,,1/4/2018 1:29:51
+10626,Finn Turner,finn.turner,finn.turner@domain.com,CORE,5,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Indonesia,Indonesia,,1/4/2018 1:30:00
+10627,Brooklyn McDaniel,brooklyn.mcdaniel,brooklyn.mcdaniel@domain.com,ADMIN,3,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:30:09
+10628,Major O’Neal,major.o’neal,major.o’neal@domain.com,DESIGN_DIRECTOR,2,,[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Poland,Poland,,1/4/2018 1:30:17
+10629,Treasure Finley,treasure.finley,treasure.finley@domain.com,CORE,4,[Corporate],"[Finance, Technology, Corporate]",[PowerPoint],Brazil,Brazil,,1/4/2018 1:30:26
+10630,Calum Baker,calum.baker,calum.baker@domain.com,DESIGN_DIRECTOR,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],South Africa,South Africa,,1/4/2018 1:30:35
+10631,Isla Byrd,isla.byrd,isla.byrd@domain.com,ADMIN,1,[Corporate],[Branding],[],Brazil,Brazil,,1/4/2018 1:30:43
+10632,Cristian Villalobos,cristian.villalobos,cristian.villalobos@domain.com,ADMIN,4,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Venezuela,Ecuador,,1/4/2018 1:30:52
+10633,Zoya Escobar,zoya.escobar,zoya.escobar@domain.com,DESIGN_DIRECTOR,4,[Other],[Other],"[Illustrator, Photoshop]",Ukraine,Poland,,1/4/2018 1:31:00
+10634,Zachariah Cummings,zachariah.cummings,zachariah.cummings@domain.com,SPECIALIST,1,[Original],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:31:09
+10635,Nylah Kane,nylah.kane,nylah.kane@domain.com,DESIGN_DIRECTOR,2,[Corporate],[Other],"[Illustrator, Photoshop]",Spain,Spain,,1/4/2018 1:31:18
+10636,Brock Mullins,brock.mullins,brock.mullins@domain.com,ADMIN,3,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Argentina,Argentina,,1/4/2018 1:31:26
+10637,Maliyah Cuevas,maliyah.cuevas,maliyah.cuevas@domain.com,PROJECTMANAGER,4,[Other],[Film],[PowerPoint],South Africa,South Africa,,1/4/2018 1:31:35
+10638,Brecken Burton,brecken.burton,brecken.burton@domain.com,CORE,1,[Corporate],[Film],[Other],Romania,Romania,,1/4/2018 1:31:44
+10639,Miriam Bates,miriam.bates,miriam.bates@domain.com,DESIGN_DIRECTOR,4,[Original],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:31:52
+10640,Ellis Briggs,ellis.briggs,ellis.briggs@domain.com,,,[Other],,"[Illustrator, Photoshop]",Portugal,Portugal,,1/4/2018 1:32:01
+10641,Alia McCann,alia.mccann,alia.mccann@domain.com,DESIGN_DIRECTOR,4,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",Portugal,Portugal,,1/4/2018 1:32:10
+10642,Heath Abbott,heath.abbott,heath.abbott@domain.com,ADMIN,3,[],[Branding],[Other],Portugal,Portugal,,1/4/2018 1:32:18
+10643,Melany Blair,melany.blair,melany.blair@domain.com,CORE,5,,[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Romania,Romania,,1/4/2018 1:32:27
+10644,Troy Scott,troy.scott,troy.scott@domain.com,DESIGN_DIRECTOR,2,[Original],[Branding],"[Illustrator, Photoshop]",Philippines,Philippines,,1/4/2018 1:32:36
+10645,Aurora Gill,aurora.gill,aurora.gill@domain.com,CORE,4,[Original],[Other],[],Bosnia & Herzegovina,Bosnia & Herzegovina,,1/4/2018 1:32:44
+10646,Matthias Dunlap,matthias.dunlap,matthias.dunlap@domain.com,DESIGN_DIRECTOR,4,"[Minimalistic, Corporate, Modern]",[Other],[Other],United Kingdom,United Kingdom,,1/4/2018 1:32:53
+10647,Iliana Burch,iliana.burch,iliana.burch@domain.com,PROJECTMANAGER,3,[Other],,[],South Africa,South Africa,,1/4/2018 1:33:01
+10648,Gerald McKinney,gerald.mckinney,gerald.mckinney@domain.com,ADMIN,5,[Other],,[Other],Nigeria,Nigeria,,1/4/2018 1:33:10
+10649,Gwendolyn Powell,gwendolyn.powell,gwendolyn.powell@domain.com,ADMIN,5,[],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,Portugal,,1/4/2018 1:33:19
+10650,Bennett Riley,bennett.riley,bennett.riley@domain.com,SPECIALIST,3,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Nigeria,Nigeria,,1/4/2018 1:33:27
+10651,Kayla Goodman,kayla.goodman,kayla.goodman@domain.com,CORE,4,[Original],[Other],[PowerPoint],South Africa,South Africa,,1/4/2018 1:33:36
+10652,Philip Kane,philip.kane,philip.kane@domain.com,ADMIN,4,[Other],[Other],"[Illustrator, Photoshop]",Serbia,Serbia,,1/4/2018 1:33:45
+10653,Ellianna Greer,ellianna.greer,ellianna.greer@domain.com,DESIGN_DIRECTOR,2,[Original],[Other],[],"Italy, United Kingdom",Italy,,1/4/2018 1:33:53
+10654,Koda Kline,koda.kline,koda.kline@domain.com,ADMIN,1,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Brazil,France",Brazil,,1/4/2018 1:34:02
+10655,Sevyn Lara,sevyn.lara,sevyn.lara@domain.com,PROJECTMANAGER,3,[],"[Lifestyle, Marketing]",[Other],South Africa,South Africa,,1/4/2018 1:34:11
+10656,Caiden Cisneros,caiden.cisneros,caiden.cisneros@domain.com,CORE,1,[Original],[Branding],[],India,India,,1/4/2018 1:34:19
+10657,Janelle Taylor,janelle.taylor,janelle.taylor@domain.com,SPECIALIST,3,[],[Film],[Other],Lithuania,Lithuania,,1/4/2018 1:34:28
+10658,Jackson Austin,jackson.austin,jackson.austin@domain.com,PROJECTMANAGER,3,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],South Africa,South Africa,,1/4/2018 1:34:36
+10659,Alivia Gallegos,alivia.gallegos,alivia.gallegos@domain.com,SPECIALIST,3,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",United States of America (USA),United States of America (USA),,1/4/2018 1:34:45
+10660,Jonas Cannon,jonas.cannon,jonas.cannon@domain.com,,,[Other],[Other],"[Illustrator, Photoshop]",Colombia,Colombia,,1/4/2018 1:34:54
+10661,Noa Zimmerman,noa.zimmerman,noa.zimmerman@domain.com,ADMIN,3,[Corporate],[Film],[],Turkey,Spain,,1/4/2018 1:35:02
+10662,Sergio Gallagher,sergio.gallagher,sergio.gallagher@domain.com,ADMIN,4,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:35:11
+10663,Elliott Boone,elliott.boone,elliott.boone@domain.com,PROJECTMANAGER,2,,[Film],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:35:20
+10664,Mauricio Martin,mauricio.martin,mauricio.martin@domain.com,CORE,1,[Original],"[Lifestyle, Marketing]",[PowerPoint],South Africa,South Africa,,1/4/2018 1:35:28
+10665,Mila Hester,mila.hester,mila.hester@domain.com,DESIGN_DIRECTOR,1,[Other],,[],Malaysia,Malaysia,,1/4/2018 1:35:37
+10666,Rene Lloyd,rene.lloyd,rene.lloyd@domain.com,ADMIN,3,[Other],[Other],[PowerPoint],Libya,Libya,,1/4/2018 1:35:46
+10667,Emely Proctor,emely.proctor,emely.proctor@domain.com,ADMIN,4,[Corporate],"[Lifestyle, Marketing]",[],South Africa,South Africa,,1/4/2018 1:35:54
+10668,Vance Davidson,vance.davidson,vance.davidson@domain.com,SPECIALIST,4,[],"[Finance, Technology, Corporate]",[],South Africa,South Africa,,1/4/2018 1:36:03
+10669,Jayla Perez,jayla.perez,jayla.perez@domain.com,PROJECTMANAGER,5,[Other],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Egypt,Egypt,,1/4/2018 1:36:12
+10670,Owen Reed,owen.reed,owen.reed@domain.com,ADMIN,3,"[Minimalistic, Corporate, Modern]",[Film],[Other],South Africa,South Africa,,1/4/2018 1:36:20
+10671,Valentina Todd,valentina.todd,valentina.todd@domain.com,PROJECTMANAGER,5,[Corporate],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Romania,Spain,,1/4/2018 1:36:29
+10672,Baylor McBride,baylor.mcbride,baylor.mcbride@domain.com,CORE,4,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Spain,Spain,,1/4/2018 1:36:37
+10673,Kelsey Parsons,kelsey.parsons,kelsey.parsons@domain.com,DESIGN_DIRECTOR,1,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Argentina, Australia",Uruguay,,1/4/2018 1:36:46
+10674,Lewis Reese,lewis.reese,lewis.reese@domain.com,PROJECTMANAGER,4,[],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:36:55
+10675,Rosemary Joseph,rosemary.joseph,rosemary.joseph@domain.com,,,[Other],"[Finance, Technology, Corporate]",[Other],"South Africa, Israel",South Africa,,1/4/2018 1:37:03
+10676,Kyle Conway,kyle.conway,kyle.conway@domain.com,ADMIN,3,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Poland,Poland,,1/4/2018 1:37:12
+10677,Ryann Rubio,ryann.rubio,ryann.rubio@domain.com,ADMIN,5,[Other],[Film],"[Illustrator, Photoshop]","Italy, Peru, Venezuela",Panama,,1/4/2018 1:37:21
+10678,Titan Kemp,titan.kemp,titan.kemp@domain.com,CORE,1,[Original],[Branding],[],Argentina,Argentina,,1/4/2018 1:37:29
+10679,Anika Bowen,anika.bowen,anika.bowen@domain.com,,,[Original],[Other],[],Argentina,Argentina,,1/4/2018 1:37:38
+10680,Trevor McKinney,trevor.mckinney,trevor.mckinney@domain.com,CORE,2,[],[Other],"[Illustrator, Photoshop]","Argentina, Italy",Argentina,,1/4/2018 1:37:47
+10681,Gwendolyn Peck,gwendolyn.peck,gwendolyn.peck@domain.com,ADMIN,5,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","Norway, China",Norway,,1/4/2018 1:37:55
+10682,Yousef Hoffman,yousef.hoffman,yousef.hoffman@domain.com,ADMIN,5,[],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Belarus,Poland,,1/4/2018 1:38:04
+10683,Aspen McConnell,aspen.mcconnell,aspen.mcconnell@domain.com,ADMIN,3,[Other],[Film],[Other],Dominican Republic,Dominican Republic,,1/4/2018 1:38:12
+10684,London Brooks,london.brooks,london.brooks@domain.com,DESIGN_DIRECTOR,5,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Canada,Germany,,1/4/2018 1:38:21
+10685,Autumn McCormick,autumn.mccormick,autumn.mccormick@domain.com,,,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Brazil,Brazil,,1/4/2018 1:38:30
+10686,Jasiah Hines,jasiah.hines,jasiah.hines@domain.com,CORE,5,[Other],[Other],[],South Africa,South Africa,,1/4/2018 1:38:38
+10687,Poppy Golden,poppy.golden,poppy.golden@domain.com,ADMIN,5,[],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:38:47
+10688,Amias Wolf,amias.wolf,amias.wolf@domain.com,CORE,2,,[Other],[],Brazil,Brazil,,1/4/2018 1:38:56
+10689,Jolene Hodge,jolene.hodge,jolene.hodge@domain.com,PROJECTMANAGER,2,[],"[Lifestyle, Marketing]",[Other],South Africa,South Africa,,1/4/2018 1:39:04
+10690,Reign Gallagher,reign.gallagher,reign.gallagher@domain.com,PROJECTMANAGER,2,[],[Other],"[Illustrator, Photoshop]",South Africa,South Africa,,1/4/2018 1:39:13
+10691,Elliott McIntyre,elliott.mcintyre,elliott.mcintyre@domain.com,,,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",Netherlands,Mexico,,1/4/2018 1:39:22
+10692,Eliseo Whitney,eliseo.whitney,eliseo.whitney@domain.com,ADMIN,3,,[Other],[Other],South Africa,South Africa,,1/4/2018 1:39:30
+10693,Madalynn Harper,madalynn.harper,madalynn.harper@domain.com,DESIGN_DIRECTOR,4,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:39:39
+10694,Hayes Wise,hayes.wise,hayes.wise@domain.com,CORE,2,[Corporate],[Other],[Other],"South Africa, Netherlands",South Africa,,1/4/2018 1:39:48
+10695,Mira Gaines,mira.gaines,mira.gaines@domain.com,ADMIN,1,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]","South Africa, Germany",South Africa,,1/4/2018 1:39:56
+10696,Talon McCall,talon.mccall,talon.mccall@domain.com,ADMIN,5,[Original],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:40:05
+10697,Kai Gates,kai.gates,kai.gates@domain.com,ADMIN,1,[Corporate],"[Finance, Technology, Corporate]",[],South Africa,South Africa,,1/4/2018 1:40:13
+10698,Ermias Mullins,ermias.mullins,ermias.mullins@domain.com,ADMIN,4,[Corporate],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Canada,Canada,,1/4/2018 1:40:22
+10699,Maliyah Gutierrez,maliyah.gutierrez,maliyah.gutierrez@domain.com,PROJECTMANAGER,3,,"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:40:31
+10700,Luca Ware,luca.ware,luca.ware@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[PowerPoint],"Vietnam, Norway",Norway,,1/4/2018 1:40:39
+10701,Eileen O’Connor,eileen.o’connor,eileen.o’connor@domain.com,DESIGN_DIRECTOR,4,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Portugal,United Kingdom,,1/4/2018 1:40:48
+10702,Princeton White,princeton.white,princeton.white@domain.com,SPECIALIST,4,[Other],[Other],[],South Africa,South Africa,,1/4/2018 1:40:57
+10703,Layla Stephens,layla.stephens,layla.stephens@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]",[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",United States of America (USA),Italy,,1/4/2018 1:41:05
+10704,Messiah Maldonado,messiah.maldonado,messiah.maldonado@domain.com,SPECIALIST,1,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Nigeria,Nigeria,,1/4/2018 1:41:14
+10705,Elaina Mack,elaina.mack,elaina.mack@domain.com,ADMIN,5,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Norway,Norway,,1/4/2018 1:41:23
+10706,Esteban Bridges,esteban.bridges,esteban.bridges@domain.com,DESIGN_DIRECTOR,3,[],,[PowerPoint],Georgia,Georgia,,1/4/2018 1:41:31
+10707,Elora Alexander,elora.alexander,elora.alexander@domain.com,CORE,4,[Original],[Branding],[PowerPoint],Italy,Romania,,1/4/2018 1:41:40
+10708,Kingston Aguirre,kingston.aguirre,kingston.aguirre@domain.com,PROJECTMANAGER,5,"[Minimalistic, Corporate, Modern]",[Branding],[],France,Poland,,1/4/2018 1:41:48
+10709,Ariah Flynn,ariah.flynn,ariah.flynn@domain.com,CORE,2,[],[Other],[PowerPoint],Finland,Italy,,1/4/2018 1:41:57
+10710,Kannon Good,kannon.good,kannon.good@domain.com,SPECIALIST,4,[Other],[Other],[Other],Italy,Italy,,1/4/2018 1:42:06
+10711,Nathalia Silva,nathalia.silva,nathalia.silva@domain.com,,,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:42:14
+10712,Luka Friedman,luka.friedman,luka.friedman@domain.com,,,[Corporate],[Branding],[PowerPoint],Peru,Peru,,1/4/2018 1:42:23
+10713,Aspyn Green,aspyn.green,aspyn.green@domain.com,CORE,5,[Original],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Greece,Greece,,1/4/2018 1:42:32
+10714,Anthony Grant,anthony.grant,anthony.grant@domain.com,CORE,2,,[Film],[PowerPoint],"Brazil, Italy",Portugal,,1/4/2018 1:42:40
+10715,Alaina Wiggins,alaina.wiggins,alaina.wiggins@domain.com,DESIGN_DIRECTOR,4,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[],Brazil,Brazil,,1/4/2018 1:42:49
+10716,Azariah Bass,azariah.bass,azariah.bass@domain.com,PROJECTMANAGER,2,,[Other],[Other],Spain,Spain,,1/4/2018 1:42:58
+10717,Zahra Green,zahra.green,zahra.green@domain.com,ADMIN,2,[Other],[Branding],[PowerPoint],Argentina,Argentina,,1/4/2018 1:43:06
+10718,Anthony Henson,anthony.henson,anthony.henson@domain.com,ADMIN,4,,[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]","Argentina, Italy",Argentina,,1/4/2018 1:43:15
+10719,Kinslee Arroyo,kinslee.arroyo,kinslee.arroyo@domain.com,SPECIALIST,5,[],[Branding],[],Lithuania,Lithuania,,1/4/2018 1:43:24
+10720,Alberto Stafford,alberto.stafford,alberto.stafford@domain.com,SPECIALIST,1,[Original],[Film],"[Illustrator, Photoshop]",India,India,,1/4/2018 1:43:32
+10721,Bridget Mendoza,bridget.mendoza,bridget.mendoza@domain.com,DESIGN_DIRECTOR,5,[Other],[Other],[],South Africa,South Africa,,1/4/2018 1:43:41
+10722,Dominic Herman,dominic.herman,dominic.herman@domain.com,CORE,4,[Other],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",United States of America (USA),United States of America (USA),,1/4/2018 1:43:49
+10723,Paulina Boyle,paulina.boyle,paulina.boyle@domain.com,,,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Costa Rica,Costa Rica,,1/4/2018 1:43:58
+10724,Robin Bradshaw,robin.bradshaw,robin.bradshaw@domain.com,DESIGN_DIRECTOR,5,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Ukraine,Ukraine,,1/4/2018 1:44:07
+10725,Berkley Roberson,berkley.roberson,berkley.roberson@domain.com,DESIGN_DIRECTOR,4,[Original],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Russian Federation,Russian Federation,,1/4/2018 1:44:15
+10726,Shepherd Soto,shepherd.soto,shepherd.soto@domain.com,CORE,2,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:44:24
+10727,Brynlee Trevino,brynlee.trevino,brynlee.trevino@domain.com,PROJECTMANAGER,1,[],[Film],[],Poland,Poland,,1/4/2018 1:44:33
+10728,Jaime Higgins,jaime.higgins,jaime.higgins@domain.com,DESIGN_DIRECTOR,1,[Corporate],,[Other],Indonesia,Indonesia,,1/4/2018 1:44:41
+10729,Leighton Dougherty,leighton.dougherty,leighton.dougherty@domain.com,PROJECTMANAGER,1,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:44:50
+10730,Brett Berg,brett.berg,brett.berg@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]",[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Costa Rica,Costa Rica,,1/4/2018 1:44:59
+10731,Emmalyn Avery,emmalyn.avery,emmalyn.avery@domain.com,PROJECTMANAGER,5,[],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",Belarus,Poland,,1/4/2018 1:45:07
+10732,Jakari McDowell,jakari.mcdowell,jakari.mcdowell@domain.com,ADMIN,2,,[Branding],[],"Colombia, Ecuador",Colombia,,1/4/2018 1:45:16
+10733,Rayna Short,rayna.short,rayna.short@domain.com,CORE,2,,[Film],[],Greece,Greece,,1/4/2018 1:45:24
+10734,Hezekiah Castillo,hezekiah.castillo,hezekiah.castillo@domain.com,,,"[Minimalistic, Corporate, Modern]",[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",India,India,,1/4/2018 1:45:33
+10735,Eva McGee,eva.mcgee,eva.mcgee@domain.com,,,[Other],[Other],[],Lebanon,Romania,,1/4/2018 1:45:42
+10736,Conner Ochoa,conner.ochoa,conner.ochoa@domain.com,SPECIALIST,2,[Original],[Other],[PowerPoint],Panama,Panama,,1/4/2018 1:45:50
+10737,Luciana Espinoza,luciana.espinoza,luciana.espinoza@domain.com,,,[Original],[Film],[PowerPoint],Lebanon,Lebanon,,1/4/2018 1:45:59
+10738,Dallas Kim,dallas.kim,dallas.kim@domain.com,PROJECTMANAGER,1,[],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",Turkey,Turkey,,1/4/2018 1:46:08
+10739,Gabriella Gonzales,gabriella.gonzales,gabriella.gonzales@domain.com,ADMIN,5,[Other],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",South Africa,South Africa,,1/4/2018 1:46:16
+10740,Brayden Kramer,brayden.kramer,brayden.kramer@domain.com,PROJECTMANAGER,5,[Other],[Branding],[Other],Mexico,Mexico,,1/4/2018 1:46:25
+10741,Hanna Benitez,hanna.benitez,hanna.benitez@domain.com,DESIGN_DIRECTOR,1,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",South Africa,South Africa,,1/4/2018 1:46:34
+10742,Justice Williamson,justice.williamson,justice.williamson@domain.com,DESIGN_DIRECTOR,1,[Original],,[Other],Philippines,Philippines,,1/4/2018 1:46:42
+10743,Catherine Klein,catherine.klein,catherine.klein@domain.com,,,,[Other],[Other],#N/A,#N/A,6/27/2023 1:46:51,1/4/2018 1:46:51
+10744,Marco McLaughlin,marco.mclaughlin,marco.mclaughlin@domain.com,DESIGN_DIRECTOR,1,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:47:00,1/4/2018 1:47:00
+10745,Stephanie Willis,stephanie.willis,stephanie.willis@domain.com,CORE,2,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:47:08,1/4/2018 1:47:08
+10746,Remington Howard,remington.howard,remington.howard@domain.com,SPECIALIST,1,[Other],[Other],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:47:17,1/4/2018 1:47:17
+10747,Sophie Pittman,sophie.pittman,sophie.pittman@domain.com,ADMIN,5,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]",[],#N/A,#N/A,6/27/2023 1:47:25,1/4/2018 1:47:25
+10748,Valentino Castro,valentino.castro,valentino.castro@domain.com,PROJECTMANAGER,2,,[Other],[Other],#N/A,#N/A,6/27/2023 1:47:34,1/4/2018 1:47:34
+10749,Eloise Wolfe,eloise.wolfe,eloise.wolfe@domain.com,DESIGN_DIRECTOR,1,[Original],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 1:47:43,1/4/2018 1:47:43
+10750,Donovan Chang,donovan.chang,donovan.chang@domain.com,,,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:47:51,1/4/2018 1:47:51
+10751,Ophelia Velazquez,ophelia.velazquez,ophelia.velazquez@domain.com,SPECIALIST,5,,[Other],[Other],#N/A,#N/A,6/27/2023 1:48:00,1/4/2018 1:48:00
+10752,Drew Browning,drew.browning,drew.browning@domain.com,DESIGN_DIRECTOR,3,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:48:09,1/4/2018 1:48:09
+10753,Princess Vance,princess.vance,princess.vance@domain.com,CORE,3,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:48:17,1/4/2018 1:48:17
+10754,Casen Walton,casen.walton,casen.walton@domain.com,ADMIN,4,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:48:26,1/4/2018 1:48:26
+10755,Scarlet Conway,scarlet.conway,scarlet.conway@domain.com,DESIGN_DIRECTOR,1,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:48:35,1/4/2018 1:48:35
+10756,Orlando Barton,orlando.barton,orlando.barton@domain.com,,,"[Minimalistic, Corporate, Modern]",[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:48:43,1/4/2018 1:48:43
+10757,Danna Strong,danna.strong,danna.strong@domain.com,CORE,3,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 1:48:52,1/4/2018 1:48:52
+10758,Axl Walters,axl.walters,axl.walters@domain.com,CORE,4,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:49:00,1/4/2018 1:49:00
+10759,Samara Payne,samara.payne,samara.payne@domain.com,ADMIN,4,[Corporate],[Film],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:49:09,1/4/2018 1:49:09
+10760,Edward Bowen,edward.bowen,edward.bowen@domain.com,ADMIN,1,[Other],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:49:18,1/4/2018 1:49:18
+10761,Dream Gates,dream.gates,dream.gates@domain.com,,,[Corporate],"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 1:49:26,1/4/2018 1:49:26
+10762,Ermias Smith,ermias.smith,ermias.smith@domain.com,,,[Original],[Other],[],#N/A,#N/A,6/27/2023 1:49:35,1/4/2018 1:49:35
+10763,Olivia Boyer,olivia.boyer,olivia.boyer@domain.com,PROJECTMANAGER,3,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:49:44,1/4/2018 1:49:44
+10764,Zeke Hughes,zeke.hughes,zeke.hughes@domain.com,PROJECTMANAGER,2,[Other],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 1:49:52,1/4/2018 1:49:52
+10765,Samantha Ingram,samantha.ingram,samantha.ingram@domain.com,,,[Original],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 1:50:01,1/4/2018 1:50:01
+10766,Tripp Casey,tripp.casey,tripp.casey@domain.com,ADMIN,5,[Other],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 1:50:10,1/4/2018 1:50:10
+10767,Sylvia Mullen,sylvia.mullen,sylvia.mullen@domain.com,CORE,2,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:50:18,1/4/2018 1:50:18
+10768,Shepard Dodson,shepard.dodson,shepard.dodson@domain.com,ADMIN,1,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:50:27,1/4/2018 1:50:27
+10769,Etta Cisneros,etta.cisneros,etta.cisneros@domain.com,CORE,3,[Other],[Other],[],#N/A,#N/A,6/27/2023 1:50:36,1/4/2018 1:50:36
+10770,Alden Matthews,alden.matthews,alden.matthews@domain.com,PROJECTMANAGER,1,[Original],"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 1:50:44,1/4/2018 1:50:44
+10771,Lila Armstrong,lila.armstrong,lila.armstrong@domain.com,,,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:50:53,1/4/2018 1:50:53
+10772,Grant Vargas,grant.vargas,grant.vargas@domain.com,CORE,3,[],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:51:01,1/4/2018 1:51:01
+10773,Andrea Villanueva,andrea.villanueva,andrea.villanueva@domain.com,PROJECTMANAGER,4,,[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:51:10,1/4/2018 1:51:10
+10774,Huxley Donaldson,huxley.donaldson,huxley.donaldson@domain.com,ADMIN,2,,[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:51:19,1/4/2018 1:51:19
+10775,Natasha Yoder,natasha.yoder,natasha.yoder@domain.com,PROJECTMANAGER,1,,,[Other],#N/A,#N/A,6/27/2023 1:51:27,1/4/2018 1:51:27
+10776,Johan Schneider,johan.schneider,johan.schneider@domain.com,CORE,5,,[Other],[PowerPoint],#N/A,#N/A,6/27/2023 1:51:36,1/4/2018 1:51:36
+10777,Delaney Person,delaney.person,delaney.person@domain.com,DESIGN_DIRECTOR,2,[Original],[Branding],[],#N/A,#N/A,6/27/2023 1:51:45,1/4/2018 1:51:45
+10778,Moses Kelly,moses.kelly,moses.kelly@domain.com,CORE,5,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:51:53,1/4/2018 1:51:53
+10779,Ruby Shaw,ruby.shaw,ruby.shaw@domain.com,CORE,4,"[Minimalistic, Corporate, Modern]",[Branding],[],#N/A,#N/A,6/27/2023 1:52:02,1/4/2018 1:52:02
+10780,Elliot English,elliot.english,elliot.english@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]",,[],#N/A,#N/A,6/27/2023 1:52:11,1/4/2018 1:52:11
+10781,Kelly Swanson,kelly.swanson,kelly.swanson@domain.com,,,[],,[Other],#N/A,#N/A,6/27/2023 1:52:19,1/4/2018 1:52:19
+10782,Hugo Henderson,hugo.henderson,hugo.henderson@domain.com,CORE,4,[Original],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:52:28,1/4/2018 1:52:28
+10783,Maria Truong,maria.truong,maria.truong@domain.com,PROJECTMANAGER,1,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:52:36,1/4/2018 1:52:36
+10784,Ayan Potter,ayan.potter,ayan.potter@domain.com,,,,[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:52:45,1/4/2018 1:52:45
+10785,Rory Guzman,rory.guzman,rory.guzman@domain.com,CORE,1,,,[PowerPoint],#N/A,#N/A,6/27/2023 1:52:54,1/4/2018 1:52:54
+10786,Jude Zhang,jude.zhang,jude.zhang@domain.com,CORE,4,[Corporate],"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 1:53:02,1/4/2018 1:53:02
+10787,Sarai Mosley,sarai.mosley,sarai.mosley@domain.com,ADMIN,3,[],[Branding],[Other],#N/A,#N/A,6/27/2023 1:53:11,1/4/2018 1:53:11
+10788,Rayden Brooks,rayden.brooks,rayden.brooks@domain.com,PROJECTMANAGER,2,,"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:53:20,1/4/2018 1:53:20
+10789,Autumn Callahan,autumn.callahan,autumn.callahan@domain.com,DESIGN_DIRECTOR,1,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:53:28,1/4/2018 1:53:28
+10790,Quinton Calderon,quinton.calderon,quinton.calderon@domain.com,SPECIALIST,5,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:53:37,1/4/2018 1:53:37
+10791,Serena Ross,serena.ross,serena.ross@domain.com,SPECIALIST,5,[Original],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:53:46,1/4/2018 1:53:46
+10792,Wesley Rivers,wesley.rivers,wesley.rivers@domain.com,PROJECTMANAGER,4,[Corporate],[Film],[],#N/A,#N/A,6/27/2023 1:53:54,1/4/2018 1:53:54
+10793,Kiana Walter,kiana.walter,kiana.walter@domain.com,,,[],"[Lifestyle, Marketing]",[],#N/A,#N/A,6/27/2023 1:54:03,1/4/2018 1:54:03
+10794,Lochlan English,lochlan.english,lochlan.english@domain.com,SPECIALIST,2,[],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 1:54:12,1/4/2018 1:54:12
+10795,Kelly Gilbert,kelly.gilbert,kelly.gilbert@domain.com,CORE,1,[Other],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:54:20,1/4/2018 1:54:20
+10796,Tobias Herrera,tobias.herrera,tobias.herrera@domain.com,CORE,2,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:54:29,1/4/2018 1:54:29
+10797,Ximena Garza,ximena.garza,ximena.garza@domain.com,SPECIALIST,4,[Original],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:54:37,1/4/2018 1:54:37
+10798,Judah Fry,judah.fry,judah.fry@domain.com,PROJECTMANAGER,5,[Original],[Branding],[Other],#N/A,#N/A,6/27/2023 1:54:46,1/4/2018 1:54:46
+10799,Clarissa Daniel,clarissa.daniel,clarissa.daniel@domain.com,CORE,5,[Original],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 1:54:55,1/4/2018 1:54:55
+10800,Grady Castaneda,grady.castaneda,grady.castaneda@domain.com,SPECIALIST,2,[Corporate],[Film],[Other],#N/A,#N/A,6/27/2023 1:55:03,1/4/2018 1:55:03
+10801,Keira Cabrera,keira.cabrera,keira.cabrera@domain.com,PROJECTMANAGER,5,,[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:55:12,1/4/2018 1:55:12
+10802,Cade Fuentes,cade.fuentes,cade.fuentes@domain.com,CORE,5,[],,[Other],#N/A,#N/A,6/27/2023 1:55:21,1/4/2018 1:55:21
+10803,Madeleine Murphy,madeleine.murphy,madeleine.murphy@domain.com,CORE,4,[Corporate],,[],#N/A,#N/A,6/27/2023 1:55:29,1/4/2018 1:55:29
+10804,Cameron Moody,cameron.moody,cameron.moody@domain.com,PROJECTMANAGER,2,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:55:38,1/4/2018 1:55:38
+10805,Elaine Orr,elaine.orr,elaine.orr@domain.com,SPECIALIST,2,[],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:55:47,1/4/2018 1:55:47
+10806,Benicio Vincent,benicio.vincent,benicio.vincent@domain.com,CORE,2,,,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:55:55,1/4/2018 1:55:55
+10807,Allyson Enriquez,allyson.enriquez,allyson.enriquez@domain.com,,,"[Minimalistic, Corporate, Modern]",[Branding],[],#N/A,#N/A,6/27/2023 1:56:04,1/4/2018 1:56:04
+10808,Elisha Schaefer,elisha.schaefer,elisha.schaefer@domain.com,PROJECTMANAGER,3,[Corporate],,[PowerPoint],#N/A,#N/A,6/27/2023 1:56:12,1/4/2018 1:56:12
+10809,Mavis Jordan,mavis.jordan,mavis.jordan@domain.com,,,[Other],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:56:21,1/4/2018 1:56:21
+10810,Sawyer Stephenson,sawyer.stephenson,sawyer.stephenson@domain.com,ADMIN,2,[],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 1:56:30,1/4/2018 1:56:30
+10811,Khaleesi Porter,khaleesi.porter,khaleesi.porter@domain.com,ADMIN,5,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:56:38,1/4/2018 1:56:38
+10812,Rhett Robles,rhett.robles,rhett.robles@domain.com,SPECIALIST,3,[Other],,[],#N/A,#N/A,6/27/2023 1:56:47,1/4/2018 1:56:47
+10813,Felicity Nava,felicity.nava,felicity.nava@domain.com,,,[Original],[Film],[Other],#N/A,#N/A,6/27/2023 1:56:56,1/4/2018 1:56:56
+10814,Stefan Livingston,stefan.livingston,stefan.livingston@domain.com,SPECIALIST,3,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:57:04,1/4/2018 1:57:04
+10815,Milena Carlson,milena.carlson,milena.carlson@domain.com,SPECIALIST,4,[Other],,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:57:13,1/4/2018 1:57:13
+10816,Paul Reeves,paul.reeves,paul.reeves@domain.com,SPECIALIST,3,"[Minimalistic, Corporate, Modern]",,[Other],#N/A,#N/A,6/27/2023 1:57:22,1/4/2018 1:57:22
+10817,Lana Lewis,lana.lewis,lana.lewis@domain.com,PROJECTMANAGER,3,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:57:30,1/4/2018 1:57:30
+10818,Wyatt Callahan,wyatt.callahan,wyatt.callahan@domain.com,,,[Other],[Branding],[PowerPoint],#N/A,#N/A,6/27/2023 1:57:39,1/4/2018 1:57:39
+10819,Kimber Hawkins,kimber.hawkins,kimber.hawkins@domain.com,ADMIN,1,[],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:57:48,1/4/2018 1:57:48
+10820,Victor Simon,victor.simon,victor.simon@domain.com,PROJECTMANAGER,1,,[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:57:56,1/4/2018 1:57:56
+10821,Kalani Dixon,kalani.dixon,kalani.dixon@domain.com,CORE,1,[Other],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:58:05,1/4/2018 1:58:05
+10822,Camden Silva,camden.silva,camden.silva@domain.com,ADMIN,2,[Original],,[],#N/A,#N/A,6/27/2023 1:58:13,1/4/2018 1:58:13
+10823,Lucia Melendez,lucia.melendez,lucia.melendez@domain.com,CORE,1,"[Minimalistic, Corporate, Modern]",[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:58:22,1/4/2018 1:58:22
+10824,Nikolas Gallegos,nikolas.gallegos,nikolas.gallegos@domain.com,,,[],[Branding],[],#N/A,#N/A,6/27/2023 1:58:31,1/4/2018 1:58:31
+10825,Ari Welch,ari.welch,ari.welch@domain.com,DESIGN_DIRECTOR,4,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 1:58:39,1/4/2018 1:58:39
+10826,Hendrix Frost,hendrix.frost,hendrix.frost@domain.com,ADMIN,1,[],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 1:58:48,1/4/2018 1:58:48
+10827,Paula Middleton,paula.middleton,paula.middleton@domain.com,CORE,1,[Corporate],,[Other],#N/A,#N/A,6/27/2023 1:58:57,1/4/2018 1:58:57
+10828,Misael Ross,misael.ross,misael.ross@domain.com,DESIGN_DIRECTOR,2,[Other],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 1:59:05,1/4/2018 1:59:05
+10829,Peyton McKay,peyton.mckay,peyton.mckay@domain.com,PROJECTMANAGER,4,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 1:59:14,1/4/2018 1:59:14
+10830,Joey Crawford,joey.crawford,joey.crawford@domain.com,DESIGN_DIRECTOR,3,[],"[Lifestyle, Marketing]",[],#N/A,#N/A,6/27/2023 1:59:23,1/4/2018 1:59:23
+10831,Aubree Fox,aubree.fox,aubree.fox@domain.com,,,[Other],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 1:59:31,1/4/2018 1:59:31
+10832,Antonio Ochoa,antonio.ochoa,antonio.ochoa@domain.com,ADMIN,5,[],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 1:59:40,1/4/2018 1:59:40
+10833,Luciana Orozco,luciana.orozco,luciana.orozco@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]",,[Other],#N/A,#N/A,6/27/2023 1:59:48,1/4/2018 1:59:48
+10834,Keanu Schmidt,keanu.schmidt,keanu.schmidt@domain.com,CORE,4,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 1:59:57,1/4/2018 1:59:57
+10835,Kimberly Rojas,kimberly.rojas,kimberly.rojas@domain.com,DESIGN_DIRECTOR,1,[Original],,[],#N/A,#N/A,6/27/2023 2:00:06,1/4/2018 2:00:06
+10836,Colin Gilmore,colin.gilmore,colin.gilmore@domain.com,ADMIN,2,[],"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 2:00:14,1/4/2018 2:00:14
+10837,Chanel Butler,chanel.butler,chanel.butler@domain.com,SPECIALIST,5,[Corporate],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:00:23,1/4/2018 2:00:23
+10838,Ryder Perez,ryder.perez,ryder.perez@domain.com,ADMIN,5,[Original],,"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:00:32,1/4/2018 2:00:32
+10839,Eleanor Salgado,eleanor.salgado,eleanor.salgado@domain.com,SPECIALIST,4,"[Minimalistic, Corporate, Modern]",,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:00:40,1/4/2018 2:00:40
+10840,Trace Horne,trace.horne,trace.horne@domain.com,CORE,2,[Other],,"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:00:49,1/4/2018 2:00:49
+10841,Marlowe Copeland,marlowe.copeland,marlowe.copeland@domain.com,SPECIALIST,5,,[Branding],[],#N/A,#N/A,6/27/2023 2:00:58,1/4/2018 2:00:58
+10842,Axton Pena,axton.pena,axton.pena@domain.com,PROJECTMANAGER,4,[Other],,[Other],#N/A,#N/A,6/27/2023 2:01:06,1/4/2018 2:01:06
+10843,Rachel Hart,rachel.hart,rachel.hart@domain.com,PROJECTMANAGER,1,,[Branding],[Other],#N/A,#N/A,6/27/2023 2:01:15,1/4/2018 2:01:15
+10844,Joel Cunningham,joel.cunningham,joel.cunningham@domain.com,CORE,3,[Other],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:01:24,1/4/2018 2:01:24
+10845,Marley Barrett,marley.barrett,marley.barrett@domain.com,SPECIALIST,4,[Other],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:01:32,1/4/2018 2:01:32
+10846,Angelo Frazier,angelo.frazier,angelo.frazier@domain.com,DESIGN_DIRECTOR,1,[Other],"[Lifestyle, Marketing]",[Other],#N/A,#N/A,6/27/2023 2:01:41,1/4/2018 2:01:41
+10847,Octavia Dunn,octavia.dunn,octavia.dunn@domain.com,SPECIALIST,4,"[Minimalistic, Corporate, Modern]",,[],#N/A,#N/A,6/27/2023 2:01:49,1/4/2018 2:01:49
+10848,Dawson Perez,dawson.perez,dawson.perez@domain.com,CORE,1,[Original],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:01:58,1/4/2018 2:01:58
+10849,Eleanor Mack,eleanor.mack,eleanor.mack@domain.com,CORE,4,"[Minimalistic, Corporate, Modern]",[Other],[Other],#N/A,#N/A,6/27/2023 2:02:07,1/4/2018 2:02:07
+10850,Esteban Booth,esteban.booth,esteban.booth@domain.com,SPECIALIST,4,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:02:15,1/4/2018 2:02:15
+10851,Zariyah Hogan,zariyah.hogan,zariyah.hogan@domain.com,,,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:02:24,1/4/2018 2:02:24
+10852,Sonny Beil,sonny.beil,sonny.beil@domain.com,ADMIN,1,[Corporate],[Other],[],#N/A,#N/A,6/27/2023 2:02:33,1/4/2018 2:02:33
+10853,Itzel Raymond,itzel.raymond,itzel.raymond@domain.com,CORE,5,[],[Film],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:02:41,1/4/2018 2:02:41
+10854,Maurice Dennis,maurice.dennis,maurice.dennis@domain.com,ADMIN,2,[Other],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:02:50,1/4/2018 2:02:50
+10855,Maisie Freeman,maisie.freeman,maisie.freeman@domain.com,SPECIALIST,1,[],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:02:59,1/4/2018 2:02:59
+10856,Jayce Sparks,jayce.sparks,jayce.sparks@domain.com,CORE,5,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:03:07,1/4/2018 2:03:07
+10857,Aisha Harvey,aisha.harvey,aisha.harvey@domain.com,CORE,5,[Other],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:03:16,1/4/2018 2:03:16
+10858,Cayden Pacheco,cayden.pacheco,cayden.pacheco@domain.com,PROJECTMANAGER,1,[Original],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:03:24,1/4/2018 2:03:24
+10859,Paris Solomon,paris.solomon,paris.solomon@domain.com,DESIGN_DIRECTOR,4,[Other],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:03:33,1/4/2018 2:03:33
+10860,Musa Park,musa.park,musa.park@domain.com,SPECIALIST,5,[Corporate],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:03:42,1/4/2018 2:03:42
+10861,Lia Morris,lia.morris,lia.morris@domain.com,,,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:03:50,1/4/2018 2:03:50
+10862,Christian Lambert,christian.lambert,christian.lambert@domain.com,,,[Other],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:03:59,1/4/2018 2:03:59
+10863,Nina Mercado,nina.mercado,nina.mercado@domain.com,SPECIALIST,2,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:04:08,1/4/2018 2:04:08
+10864,Abram Glenn,abram.glenn,abram.glenn@domain.com,,,[],[Other],[],#N/A,#N/A,6/27/2023 2:04:16,1/4/2018 2:04:16
+10865,Blaire Cobb,blaire.cobb,blaire.cobb@domain.com,DESIGN_DIRECTOR,5,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:04:25,1/4/2018 2:04:25
+10866,Raphael Barry,raphael.barry,raphael.barry@domain.com,CORE,1,[Original],[Other],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:04:34,1/4/2018 2:04:34
+10867,Waverly Cabrera,waverly.cabrera,waverly.cabrera@domain.com,SPECIALIST,5,"[Minimalistic, Corporate, Modern]",,[Other],#N/A,#N/A,6/27/2023 2:04:42,1/4/2018 2:04:42
+10868,Cade Gonzales,cade.gonzales,cade.gonzales@domain.com,PROJECTMANAGER,4,"[Minimalistic, Corporate, Modern]",[Branding],[Other],#N/A,#N/A,6/27/2023 2:04:51,1/4/2018 2:04:51
+10869,Hadley Hernandez,hadley.hernandez,hadley.hernandez@domain.com,PROJECTMANAGER,4,[],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:05:00,1/4/2018 2:05:00
+10870,Mason Delgado,mason.delgado,mason.delgado@domain.com,SPECIALIST,1,[],[Film],[Other],#N/A,#N/A,6/27/2023 2:05:08,1/4/2018 2:05:08
+10871,Alani Golden,alani.golden,alani.golden@domain.com,,,"[Minimalistic, Corporate, Modern]",,[Other],#N/A,#N/A,6/27/2023 2:05:17,1/4/2018 2:05:17
+10872,Amias Murray,amias.murray,amias.murray@domain.com,SPECIALIST,5,[Corporate],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 2:05:25,1/4/2018 2:05:25
+10873,Faith Berger,faith.berger,faith.berger@domain.com,ADMIN,3,[],[Branding],[PowerPoint],#N/A,#N/A,6/27/2023 2:05:34,1/4/2018 2:05:34
+10874,Byron Young,byron.young,byron.young@domain.com,DESIGN_DIRECTOR,2,[Other],,[],#N/A,#N/A,6/27/2023 2:05:43,1/4/2018 2:05:43
+10875,Zoey Medrano,zoey.medrano,zoey.medrano@domain.com,ADMIN,4,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:05:51,1/4/2018 2:05:51
+10876,Arian Houston,arian.houston,arian.houston@domain.com,CORE,5,,,[PowerPoint],#N/A,#N/A,6/27/2023 2:06:00,1/4/2018 2:06:00
+10877,Lylah Ahmed,lylah.ahmed,lylah.ahmed@domain.com,CORE,1,[Original],"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 2:06:09,1/4/2018 2:06:09
+10878,Harry Huerta,harry.huerta,harry.huerta@domain.com,SPECIALIST,3,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:06:17,1/4/2018 2:06:17
+10879,Dulce Davenport,dulce.davenport,dulce.davenport@domain.com,SPECIALIST,4,[],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:06:26,1/4/2018 2:06:26
+10880,Dariel Parker,dariel.parker,dariel.parker@domain.com,SPECIALIST,1,[Original],[Film],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:06:35,1/4/2018 2:06:35
+10881,Aubrey Ibarra,aubrey.ibarra,aubrey.ibarra@domain.com,DESIGN_DIRECTOR,5,[Other],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:06:43,1/4/2018 2:06:43
+10882,Asa Colon,asa.colon,asa.colon@domain.com,PROJECTMANAGER,1,"[Minimalistic, Corporate, Modern]",[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:06:52,1/4/2018 2:06:52
+10883,Remy Bender,remy.bender,remy.bender@domain.com,SPECIALIST,3,[Other],"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:07:00,1/4/2018 2:07:00
+10884,Zavier Olson,zavier.olson,zavier.olson@domain.com,ADMIN,3,[Corporate],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:07:09,1/4/2018 2:07:09
+10885,Isabel McGuire,isabel.mcguire,isabel.mcguire@domain.com,DESIGN_DIRECTOR,1,[Original],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:07:18,1/4/2018 2:07:18
+10886,Casey Khan,casey.khan,casey.khan@domain.com,ADMIN,5,[Corporate],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:07:26,1/4/2018 2:07:26
+10887,Mabel Hodges,mabel.hodges,mabel.hodges@domain.com,CORE,2,[Corporate],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:07:35,1/4/2018 2:07:35
+10888,Alonzo Potts,alonzo.potts,alonzo.potts@domain.com,ADMIN,3,[Corporate],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:07:44,1/4/2018 2:07:44
+10889,Ellison Aguirre,ellison.aguirre,ellison.aguirre@domain.com,ADMIN,4,[Other],[Branding],[],#N/A,#N/A,6/27/2023 2:07:52,1/4/2018 2:07:52
+10890,Andy Cortez,andy.cortez,andy.cortez@domain.com,SPECIALIST,4,[Other],"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 2:08:01,1/4/2018 2:08:01
+10891,Haven Boyle,haven.boyle,haven.boyle@domain.com,DESIGN_DIRECTOR,1,[Corporate],[Film],[],#N/A,#N/A,6/27/2023 2:08:10,1/4/2018 2:08:10
+10892,Robin Middleton,robin.middleton,robin.middleton@domain.com,CORE,4,[Original],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:08:18,1/4/2018 2:08:18
+10893,Madalyn Diaz,madalyn.diaz,madalyn.diaz@domain.com,ADMIN,4,[Original],[Film],[Other],#N/A,#N/A,6/27/2023 2:08:27,1/4/2018 2:08:27
+10894,Nathan Escobar,nathan.escobar,nathan.escobar@domain.com,SPECIALIST,4,,"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:08:36,1/4/2018 2:08:36
+10895,Erin Franklin,erin.franklin,erin.franklin@domain.com,ADMIN,2,[],,[PowerPoint],#N/A,#N/A,6/27/2023 2:08:44,1/4/2018 2:08:44
+10896,Simon White,simon.white,simon.white@domain.com,ADMIN,2,"[Minimalistic, Corporate, Modern]",[Other],[],#N/A,#N/A,6/27/2023 2:08:53,1/4/2018 2:08:53
+10897,Layla Elliott,layla.elliott,layla.elliott@domain.com,DESIGN_DIRECTOR,1,[Original],"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 2:09:01,1/4/2018 2:09:01
+10898,Blake Wall,blake.wall,blake.wall@domain.com,CORE,5,[],,[],#N/A,#N/A,6/27/2023 2:09:10,1/4/2018 2:09:10
+10899,Jayda Stevens,jayda.stevens,jayda.stevens@domain.com,ADMIN,5,[],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:09:19,1/4/2018 2:09:19
+10900,Zachary Hopkins,zachary.hopkins,zachary.hopkins@domain.com,CORE,3,[Corporate],,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:09:27,1/4/2018 2:09:27
+10901,Gabriela Randall,gabriela.randall,gabriela.randall@domain.com,ADMIN,1,,[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:09:36,1/4/2018 2:09:36
+10902,Trenton Lang,trenton.lang,trenton.lang@domain.com,DESIGN_DIRECTOR,5,[Original],[Branding],[PowerPoint],#N/A,#N/A,6/27/2023 2:09:45,1/4/2018 2:09:45
+10903,Amirah Morgan,amirah.morgan,amirah.morgan@domain.com,PROJECTMANAGER,1,,,[],#N/A,#N/A,6/27/2023 2:09:53,1/4/2018 2:09:53
+10904,Hunter Lindsey,hunter.lindsey,hunter.lindsey@domain.com,,,[Other],[Branding],[],#N/A,#N/A,6/27/2023 2:10:02,1/4/2018 2:10:02
+10905,Colette Moses,colette.moses,colette.moses@domain.com,PROJECTMANAGER,4,[Original],,[PowerPoint],#N/A,#N/A,6/27/2023 2:10:11,1/4/2018 2:10:11
+10906,Niklaus Owen,niklaus.owen,niklaus.owen@domain.com,ADMIN,1,[Corporate],"[Lifestyle, Marketing]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:10:19,1/4/2018 2:10:19
+10907,Mikayla Baxter,mikayla.baxter,mikayla.baxter@domain.com,SPECIALIST,5,[],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:10:28,1/4/2018 2:10:28
+10908,Tomas Hampton,tomas.hampton,tomas.hampton@domain.com,PROJECTMANAGER,5,,,"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:10:36,1/4/2018 2:10:36
+10909,Leona Johnson,leona.johnson,leona.johnson@domain.com,PROJECTMANAGER,1,,"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 2:10:45,1/4/2018 2:10:45
+10910,Noah Correa,noah.correa,noah.correa@domain.com,SPECIALIST,4,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:10:54,1/4/2018 2:10:54
+10911,Valery Stein,valery.stein,valery.stein@domain.com,DESIGN_DIRECTOR,2,[],[Film],[],#N/A,#N/A,6/27/2023 2:11:02,1/4/2018 2:11:02
+10912,Creed McIntyre,creed.mcintyre,creed.mcintyre@domain.com,SPECIALIST,5,[Original],[Other],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:11:11,1/4/2018 2:11:11
+10913,Rebekah Jefferson,rebekah.jefferson,rebekah.jefferson@domain.com,,,,[Other],[],#N/A,#N/A,6/27/2023 2:11:20,1/4/2018 2:11:20
+10914,Raylan Cuevas,raylan.cuevas,raylan.cuevas@domain.com,PROJECTMANAGER,4,,"[Lifestyle, Marketing]",[Other],#N/A,#N/A,6/27/2023 2:11:28,1/4/2018 2:11:28
+10915,Adele Parsons,adele.parsons,adele.parsons@domain.com,ADMIN,1,[Other],"[Lifestyle, Marketing]",[],#N/A,#N/A,6/27/2023 2:11:37,1/4/2018 2:11:37
+10916,Lewis Daniels,lewis.daniels,lewis.daniels@domain.com,PROJECTMANAGER,4,"[Minimalistic, Corporate, Modern]",[Other],[Other],#N/A,#N/A,6/27/2023 2:11:46,1/4/2018 2:11:46
+10917,Ember Patel,ember.patel,ember.patel@domain.com,CORE,5,[Original],[Other],[],#N/A,#N/A,6/27/2023 2:11:54,1/4/2018 2:11:54
+10918,Parker Howell,parker.howell,parker.howell@domain.com,CORE,1,[Original],[Other],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:12:03,1/4/2018 2:12:03
+10919,Mckenna Bullock,mckenna.bullock,mckenna.bullock@domain.com,,,[Corporate],"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 2:12:12,1/4/2018 2:12:12
+10920,Ben Moyer,ben.moyer,ben.moyer@domain.com,,,[Other],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:12:20,1/4/2018 2:12:20
+10921,Zola McDaniel,zola.mcdaniel,zola.mcdaniel@domain.com,ADMIN,5,[Other],[Film],[PowerPoint],#N/A,#N/A,6/27/2023 2:12:29,1/4/2018 2:12:29
+10922,Major Dorsey,major.dorsey,major.dorsey@domain.com,PROJECTMANAGER,5,[],"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 2:12:37,1/4/2018 2:12:37
+10923,Addyson McClain,addyson.mcclain,addyson.mcclain@domain.com,CORE,5,[Other],[Film],[Other],#N/A,#N/A,6/27/2023 2:12:46,1/4/2018 2:12:46
+10924,Mitchell Wong,mitchell.wong,mitchell.wong@domain.com,CORE,5,"[Minimalistic, Corporate, Modern]",[Film],[Other],#N/A,#N/A,6/27/2023 2:12:55,1/4/2018 2:12:55
+10925,Adelaide Salas,adelaide.salas,adelaide.salas@domain.com,,,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:13:03,1/4/2018 2:13:03
+10926,Zaiden Brandt,zaiden.brandt,zaiden.brandt@domain.com,DESIGN_DIRECTOR,1,[Corporate],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:13:12,1/4/2018 2:13:12
+10927,Loretta Rangel,loretta.rangel,loretta.rangel@domain.com,DESIGN_DIRECTOR,5,[Corporate],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:13:21,1/4/2018 2:13:21
+10928,Saint Medina,saint.medina,saint.medina@domain.com,,,"[Minimalistic, Corporate, Modern]","[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:13:29,1/4/2018 2:13:29
+10929,Elliana Banks,elliana.banks,elliana.banks@domain.com,SPECIALIST,5,,"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 2:13:38,1/4/2018 2:13:38
+10930,Martin Lester,martin.lester,martin.lester@domain.com,SPECIALIST,4,[Other],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:13:47,1/4/2018 2:13:47
+10931,Averi Strickland,averi.strickland,averi.strickland@domain.com,ADMIN,4,[Original],,[],#N/A,#N/A,6/27/2023 2:13:55,1/4/2018 2:13:55
+10932,Keegan Ford,keegan.ford,keegan.ford@domain.com,SPECIALIST,4,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:14:04,1/4/2018 2:14:04
+10933,Alexandra Lewis,alexandra.lewis,alexandra.lewis@domain.com,,,[],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:14:12,1/4/2018 2:14:12
+10934,Wyatt Moore,wyatt.moore,wyatt.moore@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",,"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:14:21,1/4/2018 2:14:21
+10935,Emily Cameron,emily.cameron,emily.cameron@domain.com,ADMIN,5,[Other],"[Lifestyle, Marketing]",[],#N/A,#N/A,6/27/2023 2:14:30,1/4/2018 2:14:30
+10936,Rayan Chandler,rayan.chandler,rayan.chandler@domain.com,PROJECTMANAGER,1,[Original],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:14:38,1/4/2018 2:14:38
+10937,Viviana Clark,viviana.clark,viviana.clark@domain.com,SPECIALIST,5,,[Branding],[PowerPoint],#N/A,#N/A,6/27/2023 2:14:47,1/4/2018 2:14:47
+10938,John Hunt,john.hunt,john.hunt@domain.com,CORE,5,,[Other],[],#N/A,#N/A,6/27/2023 2:14:56,1/4/2018 2:14:56
+10939,Genevieve Carr,genevieve.carr,genevieve.carr@domain.com,ADMIN,4,,"[Finance, Technology, Corporate]","[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:15:04,1/4/2018 2:15:04
+10940,Kash Huerta,kash.huerta,kash.huerta@domain.com,,,[Original],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 2:15:13,1/4/2018 2:15:13
+10941,Dulce Solis,dulce.solis,dulce.solis@domain.com,,,[],"[Lifestyle, Marketing]",[Other],#N/A,#N/A,6/27/2023 2:15:22,1/4/2018 2:15:22
+10942,Ronin Burgess,ronin.burgess,ronin.burgess@domain.com,DESIGN_DIRECTOR,3,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:15:30,1/4/2018 2:15:30
+10943,Emory Weber,emory.weber,emory.weber@domain.com,,,[Original],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:15:39,1/4/2018 2:15:39
+10944,Crew Juarez,crew.juarez,crew.juarez@domain.com,,,[Corporate],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:15:48,1/4/2018 2:15:48
+10945,Juliet Ramos,juliet.ramos,juliet.ramos@domain.com,CORE,4,[Corporate],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:15:56,1/4/2018 2:15:56
+10946,Angel Jones,angel.jones,angel.jones@domain.com,CORE,4,[Other],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 2:16:05,1/4/2018 2:16:05
+10947,Sophia Pena,sophia.pena,sophia.pena@domain.com,SPECIALIST,2,"[Minimalistic, Corporate, Modern]",[Other],[Other],#N/A,#N/A,6/27/2023 2:16:13,1/4/2018 2:16:13
+10948,Marcus Branch,marcus.branch,marcus.branch@domain.com,PROJECTMANAGER,5,[Corporate],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 2:16:22,1/4/2018 2:16:22
+10949,Luisa Villarreal,luisa.villarreal,luisa.villarreal@domain.com,PROJECTMANAGER,5,[Other],[Branding],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:16:31,1/4/2018 2:16:31
+10950,Nikolai Esquivel,nikolai.esquivel,nikolai.esquivel@domain.com,ADMIN,5,[],"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:16:39,1/4/2018 2:16:39
+10951,Jaylee Huffman,jaylee.huffman,jaylee.huffman@domain.com,SPECIALIST,2,[],,[PowerPoint],#N/A,#N/A,6/27/2023 2:16:48,1/4/2018 2:16:48
+10952,Chris Buckley,chris.buckley,chris.buckley@domain.com,ADMIN,1,[Other],,[Other],#N/A,#N/A,6/27/2023 2:16:57,1/4/2018 2:16:57
+10953,Theodora Allison,theodora.allison,theodora.allison@domain.com,DESIGN_DIRECTOR,2,[Other],,[PowerPoint],#N/A,#N/A,6/27/2023 2:17:05,1/4/2018 2:17:05
+10954,Dennis Bauer,dennis.bauer,dennis.bauer@domain.com,CORE,1,[Other],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:17:14,1/4/2018 2:17:14
+10955,Haley Reynolds,haley.reynolds,haley.reynolds@domain.com,SPECIALIST,1,[Other],"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 2:17:23,1/4/2018 2:17:23
+10956,Vincent Hartman,vincent.hartman,vincent.hartman@domain.com,PROJECTMANAGER,2,[Corporate],"[Lifestyle, Marketing]",[PowerPoint],#N/A,#N/A,6/27/2023 2:17:31,1/4/2018 2:17:31
+10957,Kennedi Petersen,kennedi.petersen,kennedi.petersen@domain.com,ADMIN,1,[Corporate],[Branding],[Other],#N/A,#N/A,6/27/2023 2:17:40,1/4/2018 2:17:40
+10958,Samson Logan,samson.logan,samson.logan@domain.com,PROJECTMANAGER,4,[Original],"[Lifestyle, Marketing]","[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:17:48,1/4/2018 2:17:48
+10959,Kora Solomon,kora.solomon,kora.solomon@domain.com,ADMIN,1,,[Other],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:17:57,1/4/2018 2:17:57
+10960,Musa Duncan,musa.duncan,musa.duncan@domain.com,ADMIN,5,[],,[PowerPoint],#N/A,#N/A,6/27/2023 2:18:06,1/4/2018 2:18:06
+10961,Elise Prince,elise.prince,elise.prince@domain.com,ADMIN,1,[Other],[Other],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:18:14,1/4/2018 2:18:14
+10962,Aron Mullen,aron.mullen,aron.mullen@domain.com,SPECIALIST,2,[Original],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:18:23,1/4/2018 2:18:23
+10963,Shay Dickerson,shay.dickerson,shay.dickerson@domain.com,,,[Corporate],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:18:32,1/4/2018 2:18:32
+10964,Flynn Curtis,flynn.curtis,flynn.curtis@domain.com,,,[Other],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:18:40,1/4/2018 2:18:40
+10965,Alexis Leach,alexis.leach,alexis.leach@domain.com,SPECIALIST,3,[],,[PowerPoint],#N/A,#N/A,6/27/2023 2:18:49,1/4/2018 2:18:49
+10966,Westin Lang,westin.lang,westin.lang@domain.com,ADMIN,5,[Corporate],"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 2:18:58,1/4/2018 2:18:58
+10967,Amirah Carroll,amirah.carroll,amirah.carroll@domain.com,CORE,1,[Original],[Branding],[Other],#N/A,#N/A,6/27/2023 2:19:06,1/4/2018 2:19:06
+10968,Oscar Lopez,oscar.lopez,oscar.lopez@domain.com,CORE,3,[Corporate],[Branding],[],#N/A,#N/A,6/27/2023 2:19:15,1/4/2018 2:19:15
+10969,Gianna Melton,gianna.melton,gianna.melton@domain.com,CORE,4,[Corporate],[Branding],[Other],#N/A,#N/A,6/27/2023 2:19:24,1/4/2018 2:19:24
+10970,Lennon Tran,lennon.tran,lennon.tran@domain.com,PROJECTMANAGER,2,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:19:32,1/4/2018 2:19:32
+10971,Kylie Ryan,kylie.ryan,kylie.ryan@domain.com,ADMIN,4,[],"[Lifestyle, Marketing]",[Other],#N/A,#N/A,6/27/2023 2:19:41,1/4/2018 2:19:41
+10972,Timothy Osborne,timothy.osborne,timothy.osborne@domain.com,ADMIN,4,[Other],[Film],[],#N/A,#N/A,6/27/2023 2:19:49,1/4/2018 2:19:49
+10973,Shelby Portillo,shelby.portillo,shelby.portillo@domain.com,,,,"[Finance, Technology, Corporate]",[PowerPoint],#N/A,#N/A,6/27/2023 2:19:58,1/4/2018 2:19:58
+10974,Wallace Best,wallace.best,wallace.best@domain.com,CORE,4,[],[Film],"[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:20:07,1/4/2018 2:20:07
+10975,Lexie Underwood,lexie.underwood,lexie.underwood@domain.com,DESIGN_DIRECTOR,2,[Other],[Other],[],#N/A,#N/A,6/27/2023 2:20:15,1/4/2018 2:20:15
+10976,Reece Landry,reece.landry,reece.landry@domain.com,SPECIALIST,2,[Original],,[Other],#N/A,#N/A,6/27/2023 2:20:24,1/4/2018 2:20:24
+10977,Brynleigh Krueger,brynleigh.krueger,brynleigh.krueger@domain.com,DESIGN_DIRECTOR,5,[Other],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:20:33,1/4/2018 2:20:33
+10978,Jones Lugo,jones.lugo,jones.lugo@domain.com,,,"[Minimalistic, Corporate, Modern]","[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:20:41,1/4/2018 2:20:41
+10979,Kaylie Horn,kaylie.horn,kaylie.horn@domain.com,ADMIN,3,[Corporate],[Branding],[PowerPoint],#N/A,#N/A,6/27/2023 2:20:50,1/4/2018 2:20:50
+10980,Wilson Skinner,wilson.skinner,wilson.skinner@domain.com,PROJECTMANAGER,4,[Corporate],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:20:59,1/4/2018 2:20:59
+10981,Mara Newman,mara.newman,mara.newman@domain.com,ADMIN,1,[Corporate],[Film],[Other],#N/A,#N/A,6/27/2023 2:21:07,1/4/2018 2:21:07
+10982,Anderson Cochran,anderson.cochran,anderson.cochran@domain.com,DESIGN_DIRECTOR,5,"[Minimalistic, Corporate, Modern]",[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:21:16,1/4/2018 2:21:16
+10983,Alma Crane,alma.crane,alma.crane@domain.com,DESIGN_DIRECTOR,3,[Other],[Other],[Other],#N/A,#N/A,6/27/2023 2:21:24,1/4/2018 2:21:24
+10984,Fox Barry,fox.barry,fox.barry@domain.com,CORE,2,"[Minimalistic, Corporate, Modern]",,[Other],#N/A,#N/A,6/27/2023 2:21:33,1/4/2018 2:21:33
+10985,Waverly Vazquez,waverly.vazquez,waverly.vazquez@domain.com,SPECIALIST,2,[Corporate],[Other],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:21:42,1/4/2018 2:21:42
+10986,Jesse Beck,jesse.beck,jesse.beck@domain.com,CORE,2,[Corporate],"[Finance, Technology, Corporate]",[],#N/A,#N/A,6/27/2023 2:21:50,1/4/2018 2:21:50
+10987,Gia Cabrera,gia.cabrera,gia.cabrera@domain.com,SPECIALIST,4,,[Film],[PowerPoint],#N/A,#N/A,6/27/2023 2:21:59,1/4/2018 2:21:59
+10988,Cade Lynch,cade.lynch,cade.lynch@domain.com,DESIGN_DIRECTOR,4,,"[Lifestyle, Marketing]",[],#N/A,#N/A,6/27/2023 2:22:08,1/4/2018 2:22:08
+10989,Malia Solis,malia.solis,malia.solis@domain.com,,,[],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:22:16,1/4/2018 2:22:16
+10990,Ronin Sweeney,ronin.sweeney,ronin.sweeney@domain.com,PROJECTMANAGER,5,[],"[Finance, Technology, Corporate]",[Other],#N/A,#N/A,6/27/2023 2:22:25,1/4/2018 2:22:25
+10991,Yara Munoz,yara.munoz,yara.munoz@domain.com,CORE,3,[],[Branding],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:22:34,1/4/2018 2:22:34
+10992,Justin Mejia,justin.mejia,justin.mejia@domain.com,SPECIALIST,5,,"[Finance, Technology, Corporate]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:22:42,1/4/2018 2:22:42
+10993,Saylor Pope,saylor.pope,saylor.pope@domain.com,CORE,3,[Original],[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:22:51,1/4/2018 2:22:51
+10994,Gunnar Chandler,gunnar.chandler,gunnar.chandler@domain.com,,,[Other],[Other],[PowerPoint],#N/A,#N/A,6/27/2023 2:23:00,1/4/2018 2:23:00
+10995,Viviana Barron,viviana.barron,viviana.barron@domain.com,CORE,1,,[Film],[PowerPoint],#N/A,#N/A,6/27/2023 2:23:08,1/4/2018 2:23:08
+10996,Dustin Schultz,dustin.schultz,dustin.schultz@domain.com,PROJECTMANAGER,4,[],[Film],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:23:17,1/4/2018 2:23:17
+10997,Briella Hunt,briella.hunt,briella.hunt@domain.com,ADMIN,1,[Other],[Branding],"[Illustrator, Photoshop, PowerPoint, Keynote, InDesign]",#N/A,#N/A,6/27/2023 2:23:25,1/4/2018 2:23:25
+10998,Jesus Yang,jesus.yang,jesus.yang@domain.com,,,[],"[Lifestyle, Marketing]","[Illustrator, Photoshop]",#N/A,#N/A,6/27/2023 2:23:34,1/4/2018 2:23:34
+10999,Angelina Mullen,angelina.mullen,angelina.mullen@domain.com,DESIGN_DIRECTOR,3,"[Minimalistic, Corporate, Modern]",[Film],"[SquareSpace, Shopify, PowerPoint, Photoshop, Illustrator]",#N/A,#N/A,6/27/2023 2:23:43,1/4/2018 2:23:43
