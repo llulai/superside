@@ -183,48 +183,36 @@ models:
   - name: managers
     description: Table containing all employees who hold managerial positions and their reporting relationships.
     columns: 
-      - name: staff_id
+      - name: employee_staff_id
         description: Unique identifier for the manager.
         tests:
           - not_null
           - relationships:
               to: source('superside', 'db_staff')
               field: staff_id
-      - name: manager_name
-        description: The full name of the manager.
-        tests:
-          - not_null
-          - relationships:
-              to: source('superside', 'db_staff')
-              field: _name
-      - name: manager_email
-        description: The work email address of the manager.
-        tests:
-          - not_null
-          - relationships:
-              to: source('superside', 'db_staff')
-              field: email
-      - name: manager_job_title
-        description: The current job title held by the manager.
-        tests:
-          - not_null
-          - relationships:
-              to: source('superside', 'hr_staff_current')
-              field: _role
-      - name: report
+      - name: employee_name
         description: The name of the employee who reports to the manager.
         tests:
           - not_null
           - relationships:
               to: source('superside', 'db_staff')
               field: _name
-      - name: report_staff_id
-        description: Unique identifier of the employee who reports to the manager.
+      - name: manager_staff_id
+        description: Unique identifier for the manager.
         tests:
-          - not_null
           - relationships:
               to: source('superside', 'db_staff')
               field: staff_id
+      - name: manager_name
+        description: The full name of the manager.
+        tests:
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: _name
+      - name: start_date
+        description: Unique identifier of the employee who reports to the manager.
+      - name: end_date
+        description: Unique identifier of the employee who reports to the manager.
 
   - name: promotions
     description: Tracks all job titles held by employees at Superside over time, including their promotion history.

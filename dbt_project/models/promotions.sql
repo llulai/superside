@@ -42,7 +42,7 @@ promotions_mid AS (
         staff_id,
         job_title,
         onboarding_date,
-        MIN(date_of_mobility) AS last_day_on_role
+        MIN(date_of_mobility) AS end_date
     FROM
         raw_promotions
     GROUP BY
@@ -58,11 +58,11 @@ SELECT
     staff_id,
     job_title,
     COALESCE(LEAD(
-        last_day_on_role,
+    end_date,
         1
     ) OVER (PARTITION BY staff_id),
-    onboarding_date) AS first_day,
-nullif(last_day_on_role, today()) as last_day
+    onboarding_date) AS start_date,
+    nullif(end_date, today()) as end_date
 FROM
     promotions_mid
 order by 1
