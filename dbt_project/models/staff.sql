@@ -2,8 +2,8 @@ WITH promotions_summary AS (
     SELECT
         staff_id,
         count(*) - 1 AS times_promoted,
-        max(starting_date_on_role) AS last_promotion_date,
-        min(starting_date_on_role) AS onboarding_date
+        max(first_day) AS last_promotion_date,
+        min(first_day) AS onboarding_date
     FROM
         {{ ref('promotions') }}
     GROUP BY

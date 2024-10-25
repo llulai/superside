@@ -2,7 +2,7 @@ WITH raw_mobility AS (
     SELECT
         hds.staff_id,
         hsm.date_of_mobility,
-        NULLIF(hsm.previous_role, '#REF!') AS job_title,
+        trim(regexp_replace(lower(NULLIF(hsm.previous_role, '#REF!')), '\r', '')) AS job_title,
         hsc.start_date AS onboarding_date
     FROM
         {{ source('superside', 'hr_staff_mobility') }} AS hsm
@@ -15,12 +15,11 @@ WITH raw_mobility AS (
     WHERE
         hsm._name IS NOT NULL AND NULLIF(hsm.previous_role, '#REF!') IS NOT NULL
 ),
-
 current_roles AS (
     SELECT
         hds.staff_id,
         TODAY() AS date_of_mobility,
-        NULLIF(hsc._role, '#REF!') AS job_title,
+        trim(regexp_replace(lower(NULLIF(hsc._role, '#REF!')), '\r', '')) AS job_title,
         hsc.start_date AS onboarding_date
     FROM
         {{ source('superside', 'hr_staff_current') }} AS hsc
@@ -62,6 +61,8 @@ SELECT
         last_day_on_role,
         1
     ) OVER (PARTITION BY staff_id),
-    onboarding_date) AS starting_date_on_role
+    onboarding_date) AS first_day,
+nullif(last_day_on_role, today()) as last_day
 FROM
     promotions_mid
+order by 1

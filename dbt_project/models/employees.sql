@@ -7,7 +7,7 @@ SELECT
     hds._position AS job_code,
     case when len(hds.styles) = 0 then null else hds.styles end as styles,
     hds.industries,
-    hds.software as softwares,
+    case when len(hds.software) = 0 then null else hds.software end as softwares,
     n.nationality_from_staff AS nationality,
     r.residence_from_staff AS country_of_residence,
     hsc.gender,

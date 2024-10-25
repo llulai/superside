@@ -42,6 +42,9 @@ sources:
                   strict: false
           - name: software
             description: Software and tools the employee is proficient in.
+            tests:
+              - valid_softwares:
+                  strict: false
           - name: citizenship
             description: Countries where the employee holds citizenship.
           - name: residence
@@ -261,6 +264,9 @@ models:
         tests:
           - not_null
           - unique
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: staff_id
       - name: residence_from_staff
         description: The country of residence sourced from the `db_staff` table.
       - name: residence_from_current
@@ -274,16 +280,45 @@ models:
         tests:
           - not_null
           - unique
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: staff_id
       - name: employee_name
         description: The full name of the employee.
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: _name
       - name: username
         description: The username of the employee from the `db_staff` table.
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: username
       - name: employee_email
         description: The employee's work email address.
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: email
       - name: job_title
         description: The employee’s current job title.
+        tests:
+          - relationships:
+              to: source('superside', 'hr_staff_current')
+              field: _role
       - name: job_code
         description: The job code from the `db_staff` table.
+        tests:
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: _position
       - name: styles
         description: The design styles the employee is skilled in.
         tests:
@@ -296,6 +331,9 @@ models:
               strict: true
       - name: softwares
         description: The softwares the employee is proficient in.
+        tests:
+          - valid_softwares:
+              strict: true
       - name: nationality
         description: The countries where the employee holds citizenship.
       - name: country_of_residence
