@@ -230,8 +230,13 @@ models:
         description: A unique identifier for employees at Superside.
         tests:
           - not_null
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: staff_id
       - name: job_title
         description: The job title held by the employee at a specific point in time.
+        tests:
+          - not_null
       - name: starting_date_on_role
         description: The date the employee started working in the role.
 
