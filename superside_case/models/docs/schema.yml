@@ -1,0 +1,341 @@
+sources:
+  - name: superside
+    description: Raw dataset sourced from the company’s application (product) database to be cleaned and processed for analysis.
+    schema: main
+    tables:
+      - name: db_staff
+        description: Contains information about staﬀ as recorded in the company’s application (product) database
+        columns: 
+          - name: staff_id
+            description: A unique identifier assigned to each employee.
+            tests:
+              - unique
+              - not_null
+          - name: _name
+            description: The full name of the employee.
+            tests:
+              - unique
+              - not_null
+          - name: username
+            description: The username used by the employee within the application.
+            tests:
+              - unique
+              - not_null
+          - name: email
+            description: The employee’s work email address.
+            tests:
+              - unique
+              - not_null
+          - name: _position
+            description: A code representing the employee's role within Superside.
+          - name: position_level
+            description: The employee’s role level.
+          - name: styles
+            description: Design styles in which the employee is skilled.
+            tests:
+              - valid_styles:
+                  strict: false
+          - name: industries
+            description: Industries the employee has professional experience in.
+          - name: software
+            description: Software and tools the employee is proficient in.
+          - name: citizenship
+            description: Countries where the employee holds citizenship.
+          - name: residence
+            description: The country where the employee currently resides.
+          - name: offboarded_at
+            description: The timestamp when the employee was offboarded from the system.
+          - name: created_at
+            description: The timestamp when the employee was added to the `db_staff` table.
+
+      - name: hr_staff_current
+        description: Contains up-to-date staﬀ information, as recorded by the People Operations Team
+        columns: 
+          - name: _name
+            description: The full name of the employee.
+            tests:
+              - unique
+              - not_null
+              - relationships:
+                  to: source('superside', 'db_staff')
+                  field: _name
+          - name: email
+            description: The employee’s work email address.
+            tests:
+              - unique
+              - not_null
+              - relationships:
+                  to: source('superside', 'db_staff')
+                  field: email
+          - name: _role
+            description: The employee's current job title or role within the company.
+          - name: job_level
+            description: The level or grade of the employee's current role.
+          - name: manager_email
+            description: The name of the employee’s direct manager.
+            tests:
+              - relationships:
+                  to: source('superside', 'db_staff')
+                  field: _name
+          - name: start_date
+            description: The date the employee began working at Superside.
+          - name: nationality
+            description: Countries where the employee holds citizenship.
+          - name: residence
+            description: The country where the employee currently resides.
+          - name: gender
+            description: The gender of the employee.
+            tests:
+              - accepted_values:
+                  values: ['Male', 'Female', 'Diverse', 'Undefined']
+          - name: personal_email
+            description: The employee’s personal (non-work) email address.
+            tests:
+              - unique
+          - name: birthday
+            description: The date of birth of the employee.
+          - name: business_group
+            description: The business group or department to which the employee belongs.
+            tests:
+              - accepted_values:
+                  values: ['CPM', 'Creative', 'Business Function']
+
+      - name: hr_staff_mobility
+        description: Contains records of staﬀ changes (e.g. promotions) maintained by the People Operations Team
+        columns: 
+          - name: _name
+            description: The full name of the employee.
+          - name: date_of_mobility
+            description: The date the mobility event (e.g., promotion) occurred.
+          - name: previous_role
+            description: The employee’s previous job title before the mobility event.
+          - name: previous_manager
+            description: The name of the employee’s previous manager.
+          - name: previous_job_level
+            description: The employee’s previous job level before the mobility event.
+          - name: previous_functional_group
+            description: The employee’s previous business group or department.
+
+seeds:
+  - name: iso_3166_countries
+    description: Contains standardized country information based on ISO 3166, including country codes, regions, and sub-regions.
+    columns:
+      - name: name
+        description: The official name of the country.
+        tests:
+          - unique
+          - not_null
+      - name: 'alpha-2'
+        description: The 2-letter ISO 3166 code for the country.
+      - name: 'alpha-3'
+        description: The 3-letter ISO 3166 code for the country.
+      - name: country-code
+        description: The numeric ISO 3166 country code.
+      - name: iso_3166-2
+        description: The ISO 3166-2 code, representing subdivisions such as states or provinces.
+      - name: region
+        description: The geographical region to which the country belongs.
+      - name: sub-region
+        description: The specific sub-region within the broader region.
+      - name: intermediate-region
+        description: Additional categorization for countries with an intermediate regional grouping, if applicable.
+      - name: region-code
+        description: The numeric code for the geographical region.
+      - name: sub-region-code
+        description: The numeric code for the sub-region.
+      - name: intermediate-region-code
+        description: The numeric code for the intermediate region, if applicable.
+
+models:
+  - name: countries_lookup
+    description: Lookup table mapping raw country names to their standardized ISO 3166 equivalents.
+    columns: 
+      - name: country_name
+        description: The raw or unstandardized country name.
+        tests:
+          - unique
+          - not_null
+      - name: iso_name
+        description: The official name of the country based on ISO 3166.
+      - name: iso_code
+        description: The 3-letter ISO 3166 code for the country.
+
+  - name: managers
+    description: Table containing all employees who hold managerial positions and their reporting relationships.
+    columns: 
+      - name: staff_id
+        description: Unique identifier for the manager.
+        tests:
+          - not_null
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: staff_id
+      - name: manager_name
+        description: The full name of the manager.
+      - name: manager_email
+        description: The work email address of the manager.
+      - name: manager_job_title
+        description: The current job title held by the manager.
+      - name: report
+        description: The name of the employee who reports to the manager.
+      - name: report_staff_id
+        description: Unique identifier of the employee who reports to the manager.
+
+  - name: promotions
+    description: Tracks all job titles held by employees at Superside over time, including their promotion history.
+    columns: 
+      - name: staff_id
+        description: A unique identifier for employees at Superside.
+        tests:
+          - not_null
+      - name: job_title
+        description: The job title held by the employee at a specific point in time.
+      - name: starting_date_on_role
+        description: The date the employee started working in the role.
+
+  - name: nationalities
+    description: Contains records of employees' countries of citizenship at Superside.
+    columns: 
+      - name: staff_id
+        description: A unique identifier for employees at Superside.
+        tests:
+          - not_null
+          - unique
+      - name: nationality_from_staff
+        description: The nationality information sourced from the `db_staff` table.
+      - name: nationality_from_current
+        description: The nationality information sourced from the `hr_staff_current` table.
+
+  - name: countries_of_residence
+    description: Contains information about the countries of residence of Superside employees.
+    columns: 
+      - name: staff_id
+        description: A unique identifier for employees at Superside.
+        tests:
+          - not_null
+          - unique
+      - name: residence_from_staff
+        description: The country of residence sourced from the `db_staff` table.
+      - name: residence_from_current
+        description: The country of residence sourced from the `hr_staff_current` table.
+
+  - name: employees
+    description: Contains basic details about each employee at Superside.
+    columns: 
+      - name: staff_id
+        description: A unique identifier for employees at Superside.
+        tests:
+          - not_null
+          - unique
+      - name: employee_name
+        description: The full name of the employee.
+      - name: username
+        description: The username of the employee from the `db_staff` table.
+      - name: employee_email
+        description: The employee's work email address.
+      - name: job_title
+        description: The employee’s current job title.
+      - name: job_code
+        description: The job code from the `db_staff` table.
+      - name: styles
+        description: The design styles the employee is skilled in.
+        tests:
+          - valid_styles:
+              strict: true
+      - name: industries
+        description: The industries the employee has experience in.
+      - name: softwares
+        description: The softwares the employee is proficient in.
+      - name: nationality
+        description: The countries where the employee holds citizenship.
+      - name: country_of_residence
+        description: The country where the employee currently resides.
+      - name: gender
+        description: The gender of the employee.
+      - name: birthday
+        description: The employee’s date of birth.
+      - name: business_group
+        description: The business group or department the employee belongs to.
+      - name: personal_email
+        description: The employee’s personal (non-work) email address.
+      - name: is_active
+        description: Indicates whether the employee is actively working at Superside.
+
+  - name: staff
+    description: Table containing complete information for each employee at Superside.
+    columns: 
+      - name: staff_id
+        description: Unique identifier for employees at Superside.
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              to: source('superside', 'db_staff')
+              field: staff_id
+      - name: employee_name
+        description: The full name of the employee.
+        tests:
+          - unique
+          - not_null
+      - name: username
+        description: The employee's username in the db_staff table.
+        tests:
+          - unique
+          - not_null
+      - name: employee_email
+        description: The work email address of the employee.
+        tests:
+          - unique
+          - not_null
+      - name: job_title
+        description: The employee's current job title.
+      - name: job_code
+        description: The code representing the employee's job position from the db_staff table.
+      - name: styles
+        description: Design styles the employee is skilled in.
+        tests:
+          - valid_styles:
+              strict: true
+      - name: industries
+        description: Industries the employee has experience in.
+      - name: softwares
+        description: Software applications the employee is proficient in.
+      - name: nationality
+        description: The countries where the employee holds citizenship.
+      - name: country_of_residence
+        description: The country where the employee resides.
+      - name: gender
+        description: The gender of the employee.
+        tests:
+          - accepted_values:
+              values: ['Male', 'Female', 'Diverse', 'Undefined']
+      - name: birthday
+        description: The employee's birthdate.
+      - name: business_group
+        description: The business group the employee belongs to.
+        tests:
+          - accepted_values:
+              values: ['CPM', 'Creative', 'Business Function']
+      - name: personal_email
+        description: The employee’s personal email address.
+      - name: is_active
+        description: Indicates whether the employee is actively working at Superside.
+      - name: times_promoted
+        description: The number of times the employee has been promoted.
+      - name: last_promotion_date
+        description: The date of the employee's last promotion.
+      - name: onboarding_date
+        description: The date the employee started working at Superside.
+      - name: manager_staff_id
+        description: Unique identifier of the employee's manager.
+      - name: manager_name
+        description: The full name of the employee's manager.
+      - name: manager_email
+        description: The work email address of the employee's manager.
+      - name: has_manager
+        description: Indicates whether the employee has an assigned manager.
+      - name: is_manager
+        description: Indicates whether the employee holds a managerial position.
+      - name: n_reports
+        description: The number of direct reports the employee has.
+

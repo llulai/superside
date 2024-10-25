@@ -1,0 +1,6 @@
+version: 2
+data_tests:
+  - name: emails_are_consistent
+    description: >
+      This test verifies that the email addresses are
+      consistent across the hr_staff_current and db_staff tables.
