@@ -1,43 +1,43 @@
 WITH previous_managers AS (
     SELECT
-        ds.staff_id as employee_staff_id,
+        hds.staff_id AS employee_staff_id,
         hsm.date_of_mobility,
-        hsm._name as employee_name,
-        hsm.previous_manager as manager_name,
+        hsm._name AS employee_name,
+        hsm.previous_manager AS manager_name,
         hsc.start_date AS onboarding_date
-    FROM
-        {{ source('superside', 'hr_staff_mobility') }} AS hsm
-    LEFT JOIN {{ source('superside', 'db_staff') }} AS ds
+    FROM {{ source('superside', 'hr_staff_mobility') }} AS hsm
+    LEFT JOIN {{ source('superside', 'db_staff') }} AS hds
         ON
-            hsm._name = ds._name
+            hsm._name = hds._name
     LEFT JOIN {{ source('superside', 'hr_staff_current') }} AS hsc
         ON
             hsm._name = hsc._name
     WHERE
-        hsm._name IS NOT NULL AND hsm.previous_manager IS NOT NULL
+        hsm._name IS NOT NULL
+        AND hsm.previous_manager IS NOT NULL
 ),
+
 current_managers AS (
     SELECT
-        ds.staff_id as employee_staff_id,
+        hds.staff_id AS employee_staff_id,
         TODAY() AS date_of_mobility,
-        ds._name as employee_name,
-        hsc.manager_email as manager_name,
+        hds._name AS employee_name,
+        hsc.manager_email AS manager_name,
         hsc.start_date AS onboarding_date
-    FROM
-        {{ source('superside', 'hr_staff_current') }} AS hsc
-    LEFT JOIN {{ source('superside', 'db_staff') }} AS ds ON
-        hsc._name = ds._name
+    FROM {{ source('superside', 'hr_staff_current') }} AS hsc
+    LEFT JOIN {{ source('superside', 'db_staff') }} AS hds ON
+        hsc._name = hds._name
 ),
+
 
 raw_managers AS (
     SELECT *
-    FROM
-        previous_managers
+    FROM previous_managers
     UNION
     SELECT *
-    FROM
-        current_managers
+    FROM current_managers
 ),
+
 
 extended_managers AS (
     SELECT
@@ -45,9 +45,8 @@ extended_managers AS (
         employee_name,
         manager_name,
         onboarding_date,
-        MIN(date_of_mobility) AS end_date
-    FROM
-        raw_managers
+        MAX(date_of_mobility) AS end_date
+    FROM raw_managers
     GROUP BY
         1,
         2,
@@ -61,15 +60,16 @@ extended_managers AS (
 SELECT
     employee_staff_id,
     employee_name,
-    ds.staff_id as manager_staff_id,
+    ds.staff_id AS manager_staff_id,
     manager_name,
-    COALESCE(LEAD(
-        end_date,
-        1
-    ) OVER (PARTITION BY employee_staff_id),
-    onboarding_date) AS start_date,
-nullif(end_date, today()) as end_date
+    COALESCE(
+        LEAD(end_date) OVER (PARTITION BY employee_name ORDER BY end_date DESC),
+        onboarding_date
+    ) AS start_date,
+    NULLIF(end_date, TODAY()) AS end_date
 FROM
-    extended_managers as em left join {{ source('superside', 'db_staff')}} as ds on em.manager_name = ds._name
-order by 1
-
+    extended_managers AS em
+LEFT JOIN
+    {{ source('superside', 'db_staff') }} AS ds
+    ON em.manager_name = ds._name
+ORDER BY 1

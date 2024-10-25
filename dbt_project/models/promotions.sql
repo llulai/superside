@@ -1,68 +1,76 @@
-WITH raw_mobility AS (
+WITH previous_roles AS (
     SELECT
-        hds.staff_id,
+        hds.staff_id AS employee_staff_id,
         hsm.date_of_mobility,
-        trim(regexp_replace(lower(NULLIF(hsm.previous_role, '#REF!')), '\r', '')) AS job_title,
+        hsm._name AS employee_name,
+        hsm.previous_role AS job_title,
         hsc.start_date AS onboarding_date
     FROM
         {{ source('superside', 'hr_staff_mobility') }} AS hsm
-    LEFT JOIN {{ source('superside', 'db_staff') }} AS hds
+    LEFT JOIN
+        {{ source('superside', 'db_staff') }} AS hds
         ON
             hsm._name = hds._name
     LEFT JOIN {{ source('superside', 'hr_staff_current') }} AS hsc
         ON
             hsm._name = hsc._name
     WHERE
-        hsm._name IS NOT NULL AND NULLIF(hsm.previous_role, '#REF!') IS NOT NULL
+        hsm._name IS NOT NULL
+        AND hsm.previous_role IS NOT NULL
 ),
+
 current_roles AS (
     SELECT
-        hds.staff_id,
+        hds.staff_id AS employee_staff_id,
         TODAY() AS date_of_mobility,
-        trim(regexp_replace(lower(NULLIF(hsc._role, '#REF!')), '\r', '')) AS job_title,
+        hds._name AS employee_name,
+        hsc._role AS job_title,
         hsc.start_date AS onboarding_date
     FROM
         {{ source('superside', 'hr_staff_current') }} AS hsc
-    LEFT JOIN {{ source('superside', 'db_staff') }} AS hds ON
-        hsc._name = hds._name
+    LEFT JOIN
+        {{ source('superside', 'db_staff') }} AS hds
+        ON
+            hsc._name = hds._name
 ),
 
-raw_promotions AS (
+
+raw_roles AS (
     SELECT *
-    FROM
-        raw_mobility
+    FROM previous_roles
     UNION
     SELECT *
-    FROM
-        current_roles
+    FROM current_roles
 ),
 
-promotions_mid AS (
+
+extended_roles AS (
     SELECT
-        staff_id,
+        employee_staff_id,
+        employee_name,
         job_title,
         onboarding_date,
-        MIN(date_of_mobility) AS end_date
-    FROM
-        raw_promotions
+        MAX(date_of_mobility) AS end_date
+    FROM raw_roles
     GROUP BY
         1,
         2,
-        3
+        3,
+        4
     ORDER BY
         1,
-        4 DESC
+        5 DESC
 )
 
 SELECT
-    staff_id,
+    employee_staff_id,
+    employee_name,
     job_title,
-    COALESCE(LEAD(
-    end_date,
-        1
-    ) OVER (PARTITION BY staff_id),
-    onboarding_date) AS start_date,
-    nullif(end_date, today()) as end_date
+    COALESCE(
+        LEAD(end_date) OVER (PARTITION BY employee_name ORDER BY end_date DESC),
+        onboarding_date
+    ) AS start_date,
+    NULLIF(end_date, TODAY()) AS end_date
 FROM
-    promotions_mid
-order by 1
+    extended_roles
+ORDER BY 1

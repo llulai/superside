@@ -28,7 +28,7 @@ unnested_nationalities_from_staff AS (
             '#N/A'
         ) AS nationality
     FROM
-        {{source('superside', 'db_staff')}}
+        {{ source('superside', 'db_staff') }}
 ),
 
 nationalities_from_staff AS (
