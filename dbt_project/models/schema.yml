@@ -247,6 +247,9 @@ models:
               strict: true
       - name: industries
         description: The industries the employee has experience in.
+        tests:
+          - valid_industries:
+              strict: true
       - name: softwares
         description: The softwares the employee is proficient in.
       - name: nationality
@@ -301,6 +304,9 @@ models:
               strict: true
       - name: industries
         description: Industries the employee has experience in.
+        tests:
+          - valid_industries:
+              strict: true
       - name: softwares
         description: Software applications the employee is proficient in.
       - name: nationality
