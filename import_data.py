@@ -34,7 +34,7 @@ from read_csv_auto(
         )
 """
 
-with duckdb.connect('data/superside_hr_data.db') as con:
+with duckdb.connect("data/superside_hr_data.db") as con:
     con.sql(sql_import_hr_staff_current)
     con.sql(sql_import_hr_staff_mobility)
     con.sql(sql_import_db_staff)
