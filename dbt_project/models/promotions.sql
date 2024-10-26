@@ -3,7 +3,7 @@ WITH previous_roles AS (
         hds.staff_id AS employee_staff_id,
         hsm.date_of_mobility,
         hsm._name AS employee_name,
-        hsm.previous_role AS job_title,
+        nullif(hsm.previous_role, '#REF!') AS job_title,
         hsc.start_date AS onboarding_date
     FROM
         {{ source('superside', 'hr_staff_mobility') }} AS hsm
