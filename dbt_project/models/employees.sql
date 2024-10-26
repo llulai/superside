@@ -1,32 +1,12 @@
 WITH promotions_summary AS (
     SELECT
-        employee_staff_id,
+        p.employee_staff_id,
         count(*) - 1 AS times_promoted,
-        max(end_date) AS last_promotion_date
+        max(p.end_date) AS last_promotion_date
     FROM
-        {{ ref('promotions') }}
+        {{ ref('promotions') }} AS p
     GROUP BY
         1
-),
-
-managers_summary AS (
-    SELECT
-        manager_staff_id,
-        count(*) AS n_reports
-    FROM
-        {{ ref('managers') }}
-    WHERE end_date IS null
-    GROUP BY
-        1
-),
-
-employees_sumary AS (
-    SELECT
-        m.employee_staff_id,
-        m.manager_staff_id,
-        m.manager_name
-    FROM {{ ref('managers') }} AS m
-    WHERE m.end_date IS null
 )
 
 SELECT
@@ -50,12 +30,9 @@ SELECT
     ps.times_promoted,
     ps.last_promotion_date,
     hsc.start_date AS onboarding_date,
-    coalesce(es.manager_name IS NOT null, false) AS has_manager,
-    es.manager_staff_id,
-    es.manager_name,
-    coalesce(coalesce(ms.n_reports, 0) > 0, false)
-        AS is_manager,
-    coalesce(ms.n_reports, 0) AS n_reports
+    coalesce(m_info.staff_id IS NOT null, false) AS has_manager,
+    m_info.staff_id AS manager_staff_id,
+    m_info._name AS manager_name
 FROM
     {{ source('superside', 'db_staff') }} AS hds
 LEFT JOIN
@@ -66,6 +43,7 @@ LEFT JOIN {{ ref('nationalities') }} AS n
         hds.staff_id = n.staff_id
 LEFT JOIN {{ ref('countries_of_residence') }} AS r ON hds.staff_id = r.staff_id
 LEFT JOIN promotions_summary AS ps ON hds.staff_id = ps.employee_staff_id
-LEFT JOIN managers_summary AS ms ON hds.staff_id = ms.manager_staff_id
-LEFT JOIN employees_sumary AS es ON hds.staff_id = es.employee_staff_id
+LEFT JOIN
+    {{ source('superside', 'db_staff') }} AS m_info
+    ON hsc.manager_email = m_info._name
 ORDER BY 1

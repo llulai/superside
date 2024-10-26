@@ -41,12 +41,12 @@ raw_managers AS (
 
 extended_managers AS (
     SELECT
-        employee_staff_id,
-        employee_name,
-        manager_name,
-        onboarding_date,
-        MAX(date_of_mobility) AS end_date
-    FROM raw_managers
+        rm.employee_staff_id,
+        rm.employee_name,
+        rm.manager_name,
+        rm.onboarding_date,
+        MAX(rm.date_of_mobility) AS end_date
+    FROM raw_managers AS rm
     GROUP BY
         1,
         2,
@@ -58,15 +58,16 @@ extended_managers AS (
 )
 
 SELECT
-    employee_staff_id,
-    employee_name,
+    em.employee_staff_id,
+    em.employee_name,
     ds.staff_id AS manager_staff_id,
-    manager_name,
+    em.manager_name,
     COALESCE(
-        LEAD(end_date) OVER (PARTITION BY employee_name ORDER BY end_date DESC),
-        onboarding_date
+        LEAD(em.end_date)
+            OVER (PARTITION BY em.employee_name ORDER BY em.end_date DESC),
+        em.onboarding_date
     ) AS start_date,
-    NULLIF(end_date, TODAY()) AS end_date
+    NULLIF(em.end_date, TODAY()) AS end_date
 FROM
     extended_managers AS em
 LEFT JOIN
