@@ -209,9 +209,9 @@ models:
           - relationships:
               to: source('superside', 'db_staff')
               field: _name
-      - name: start_date
+      - name: started_date
         description: The date the employee started reporting to the manager.
-      - name: end_date
+      - name: ended_date
         description: The date the employee ended reporting to the manager.
 
   - name: promotions
@@ -235,9 +235,9 @@ models:
         description: The job title held by the employee at a specific point in time.
         tests:
           - not_null
-      - name: start_date
+      - name: started_date
         description: The date the employee started working in the role.
-      - name: end_date
+      - name: ended_date
         description: The date the employee ended working in the role.
 
   - name: nationalities
@@ -347,7 +347,7 @@ models:
         tests:
           - accepted_values:
               values: ['Male', 'Female', 'Diverse', 'Undefined']
-      - name: birthday
+      - name: birthday_date
         description: The employee’s date of birth.
       - name: business_group
         description: The business group or department the employee belongs to.
@@ -364,9 +364,9 @@ models:
         description: Indicates whether the employee is actively working at Superside.
       - name: times_promoted
         description: The number of times the employee has been promoted.
-      - name: last_promotion_date
+      - name: last_promoted_date
         description: The date of the employee's last promotion.
-      - name: onboarding_date
+      - name: onboarded_date
         description: The date the employee started working at Superside.
         tests:
           - relationships:

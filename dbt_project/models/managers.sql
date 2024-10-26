@@ -66,8 +66,8 @@ SELECT
         LEAD(em.end_date)
             OVER (PARTITION BY em.employee_name ORDER BY em.end_date DESC),
         em.onboarding_date
-    ) AS start_date,
-    NULLIF(em.end_date, TODAY()) AS end_date
+    ) AS started_date,
+    NULLIF(em.end_date, TODAY()) AS ended_date
 FROM
     extended_managers AS em
 LEFT JOIN

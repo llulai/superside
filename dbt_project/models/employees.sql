@@ -2,7 +2,7 @@ WITH promotions_summary AS (
     SELECT
         p.employee_staff_id,
         count(*) - 1 AS times_promoted,
-        max(p.end_date) AS last_promotion_date
+        max(p.ended_date) AS last_promoted_date
     FROM
         {{ ref('promotions') }} AS p
     GROUP BY
@@ -23,13 +23,13 @@ SELECT
     n.nationality_from_staff AS nationality,
     r.residence_from_staff AS country_of_residence,
     hsc.gender,
-    hsc.birthday,
+    hsc.birthday AS birthday_date,
     hsc.business_group,
     hsc.personal_email,
     coalesce(hds.offboarded_at IS null, false) AS is_active,
     ps.times_promoted,
-    ps.last_promotion_date,
-    hsc.start_date AS onboarding_date,
+    ps.last_promoted_date,
+    hsc.start_date AS onboarded_date,
     coalesce(m_info.staff_id IS NOT null, false) AS has_manager,
     m_info.staff_id AS manager_staff_id,
     m_info._name AS manager_name

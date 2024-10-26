@@ -69,8 +69,8 @@ SELECT
     COALESCE(
         LEAD(end_date) OVER (PARTITION BY employee_name ORDER BY end_date DESC),
         onboarding_date
-    ) AS start_date,
-    NULLIF(end_date, TODAY()) AS end_date
+    ) AS started_date,
+    NULLIF(end_date, TODAY()) AS ended_date
 FROM
     extended_roles
 ORDER BY 1
