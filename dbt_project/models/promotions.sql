@@ -16,7 +16,7 @@ WITH previous_roles AS (
             hsm._name = hsc._name
     WHERE
         hsm._name IS NOT NULL
-        AND hsm.previous_role IS NOT NULL
+        AND nullif(hsm.previous_role, '#REF!') IS NOT NULL
 ),
 
 current_roles AS (

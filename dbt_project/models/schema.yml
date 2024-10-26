@@ -374,11 +374,11 @@ models:
               field: start_date
       - name: has_manager
         description: Indicates whether the employee has an assigned manager.
-      - name: manager_staff_id
+      - name: current_manager_staff_id
         description: Unique identifier for the manager.
         tests:
           - relationships:
               to: source('superside', 'db_staff')
               field: staff_id
-      - name: manager_name
+      - name: current_manager_name
         description: The full name of the employee's manager.

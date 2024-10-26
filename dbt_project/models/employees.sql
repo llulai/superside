@@ -31,8 +31,8 @@ SELECT
     ps.last_promoted_date,
     hsc.start_date AS onboarded_date,
     coalesce(m_info.staff_id IS NOT null, false) AS has_manager,
-    m_info.staff_id AS manager_staff_id,
-    m_info._name AS manager_name
+    m_info.staff_id AS current_manager_staff_id,
+    m_info._name AS current_manager_name
 FROM
     {{ source('superside', 'db_staff') }} AS hds
 LEFT JOIN
